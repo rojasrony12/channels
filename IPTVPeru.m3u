@@ -1,0 +1,243 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://willax.pe/img/footer-logo.png" group-title="TV LIMA",Willax TV 
+http://179.1.144.98:8000/play/a04y
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="TV LIMA",Latina 
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="TV LIMA",Top Latino TV 
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AméricaTV.pe" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="TV LIMA",América TV 
+http://179.1.144.98:8000/play/a03c
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="TV LIMA",Panamericana TV 
+https://cdn75.iblups.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV LIMA",Exitosa TV 
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w653787099.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="TV LIMA",Karibeña 
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="TV LIMA",TV Perú 
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="TV LIMA",TV Perú Internacional 
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="TV LIMA",TV Perú Noticias 
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="TV LIMA",IPe TV 
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="TV LIMA",ATV 
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="TV LIMA",ATV+ Noticias 
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="TV LIMA",ATV Sur 
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="TV LIMA",USMPTV 
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="TV LIMA",JN19 
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="JN192.pe" tvg-logo="" group-title="TV LIMA",JN19 TV2 
+https://servilive.com:3224/live/jn19tv2live.m3u8
+#EXTINF:-1 tvg-id="PaxTV.pe" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="TV LIMA",PAX TV
+http://vivo.paxtvmovil.org/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="TV LIMA",Nativa 
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="TV LIMA",MINEDU TV 1 
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="TV LIMA",MINEDU TV 2 
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="TV LIMA",Nazarenas TV 
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="TV LIMA",PBO Digital 
+https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="TV LIMA",Ovacion TV 
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="TV LIMA",Onda Digital 
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="TV LIMA",La Luz TV 
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="TV LIMA",USIL TV 
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="TV LIMA",Trivu 
+https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV LIMA",BHTV 
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="TV LIMA",Asiri TV 
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="TV LIMA",Vamisa TV 
+https://tv.streamprivate.live:3101/live/vamisalive.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV LIMA",Conecta2TV 
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="TV LIMA",Cultura 24 
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="TV LIMA",Central TV Chosica 
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalB.pe" tvg-logo="https://i.imgur.com/jueHIh2.png" group-title="TV LIMA",CanalB 
+https://ythls.onrender.com/channel/UCFrOdZIiGOGFP5kk4xZgH6Q.m3u8
+#EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="TV LIMA",Intuitiva TV 
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="TV LIMA",LimaLive 
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+#EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV LIMA",Doble C Televisión 
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="TV LIMA",Identidad TV 
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="TV LIMA",MaticesTV 
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="TV LIMA",Monterrico TV 
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="TV LIMA",RCR TV 
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="TV LIMA",Región TV Callao 
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="TV LIMA",San Borja TV 
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="TV LIMA",Hatun TV 
+https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8
+#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="TV LIMA",Visión Noticias Perú [Cable Visión]
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="TV LIMA",Visión Sur TV [Cable Visión]
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="TV LIMA",Visión TV Música [Cable Visión]
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="TV LIMA",+ Cumbia [Best Cable]
+https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="TV LIMA",Best Music [Best Cable]
+https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="TV LIMA",Best TV [Best Cable]
+https://mi.godo.net.pe/BesTv-001120000100/index.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="TV LIMA",Best Sports [Best Cable]
+https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleamazonas.pe" tvg-logo="https://i.imgur.com/yhv3XyU.png" group-title="TV PERU REGIONES",Teleamazonas Canal 11 [AMAZONAS]
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTVStar.pe" tvg-logo="https://i.imgur.com/CN2j8S3.png" group-title="TV PERU REGIONES",Nova TV Star [AMAZONAS]
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="TV PERU REGIONES",X TV Chachapoyas [AMAZONAS]
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:-1 tvg-id="QuassarTV.pe" tvg-logo="https://i.imgur.com/NpUqyYP.png" group-title="TV PERU REGIONES",Quassar TV [ANCASH]
+https://gnstreammedia.com:19360/4000/4000.m3u8
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="TV PERU REGIONES",Galáctica TV [ANCASH]
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="TV PERU REGIONES",Impacto TV [ANCASH]
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="TV PERU REGIONES",ATM Televisión [APURIMAC]
+https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="TV PERU REGIONES",RadioInka (1080p) [APURIMAC]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Camana [AREQUIPA]
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Mollendo [AREQUIPA]
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="TV PERU REGIONES",Mega TV [AREQUIPA]
+https://hls.servidor.stream/storage/megatv.m3u8
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV PERU REGIONES",Controversia TV [AREQUIPA]
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-id="Canal33Ayacucho.pe" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="TV PERU REGIONES",Canal 33 [AYACUCHO]
+https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="TV PERU REGIONES",Tele2000 [AYACUCHO]
+https://servilive.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="TV PERU REGIONES",Agro TV [APURIMAC]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="TV PERU REGIONES",Turbo Mix Radio TV [CAJAMARCA]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="TV PERU REGIONES",Mega TV Jaen [CAJAMARCA]
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PERU REGIONES",Atmósfera TV [CAJAMARCA]
+https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="TV PERU REGIONES",Cajamarca TV [CAJAMARCA]
+https://mi.godo.net.pe:8081/0f03dsf32dsf13dsf/index.m3u8
+#EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="TV PERU REGIONES",CNC Cajamarca [CAJAMARCA]
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="TV PERU REGIONES",DMJ [CUZCO]
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CTC.pe" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="TV PERU REGIONES",CTC [CUZCO]
+https://ythls.onrender.com/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8
+#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="TV PERU REGIONES",QT Televisión [CUZCO]
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="TV PERU REGIONES",TV Sistemas Cuzco [CUZCO]
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="TV PERU REGIONES",TVenLinea [CUZCO]
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="TV PERU REGIONES",Huánuco en Vivo [HUANUCO]
+https://vdo.grupolimalive.com:3810/live/antoniolive.m3u8
+#EXTINF:-1 tvg-id="Andes Television" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="TV PERU REGIONES",Andes Televisión [JUNIN]
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="TV PERU REGIONES",Unitel TV [JUNIN]
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="TV PERU REGIONES",Cadena TV [JUNIN]
+https://servilive.com:3079/live/cdnatvlive.m3u8
+#EXTINF:-1 tvg-id="MielTV.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="TV PERU REGIONES",Miel TV [JUNIN]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="TV PERU REGIONES",Nativa TV Satipo [JUNIN]
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="TV PERU REGIONES",Oasis RTV [LA LIBERTAD]
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="TV PERU REGIONES",Sol Televisión [LA LIBERTAD]
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="TV PERU REGIONES",RN Televisión [LORETO]
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
+#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="TV PERU REGIONES",Viva TV Yurimaguas [LORETO]
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.imgur.com/d431PkD.png" group-title="TV PERU REGIONES",Doble AA [LORETO]
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="TV PERU REGIONES",Uranio TV (Yurimaguas) [LORETO]
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="TV PERU REGIONES",RTV Total Yurimaguas [LORETO]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="TV PERU REGIONES",Super Canal Yurimaguas [LORETO]
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="TV PERU REGIONES",Telecolor Yurimaguas [LORETO]
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-id="Primavera15.pe" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="TV PERU REGIONES",Primavera 15 [MOQUEGUA]
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="UPERU",Telesur Ilo [MOQUEGUA]
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Moquegua [MOQUEGUA]
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="TV PERU REGIONES",Canal 8 Catacaos [PIURA]
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="TV PERU REGIONES",Planeta TV [PUNO]
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="TV PERU REGIONES",Antares Televisión [SAN MARTIN]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="TV PERU REGIONES",Auténtica Televisión [SAN MARTIN]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="TV PERU REGIONES",VZ TV Moyobamba [SAN MARTIN]
+https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="TV PERU REGIONES",CR Televisión Moyobamba [SAN MARTIN]
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="CumoTV.pe" tvg-logo="https://i.imgur.com/TdYNCBI.png" group-title="TV PERU REGIONES",Cumo TV [SAN MARTIN]
+https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="TV PERU REGIONES",Vía Altomayo [SAN MARTIN]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="TV PERU REGIONES",Vía Televisión Tarapoto [SAN MARTIN]
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="TV PERU REGIONES",Genios TV (720p) [SAN MARTIN]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="TV PERU REGIONES",NorSelva RTV [SAN MARTIN]
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="TV PERU REGIONES",Tropical TV [SAN MARTIN]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="TV PERU REGIONES",SanjuaneraTV [SAN MARTIN]
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="TV PERU REGIONES",Televisión Tarapoto [SAN MARTIN]
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="TV PERU REGIONES",Uno Tacna [TACNA]
+https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
+#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Tacna [TACNA]
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="TV PERU REGIONES",Tumpis TV [TUMBES]
+https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="TV PERU REGIONES",Hechicera TV [TUMBES]
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="TV PERU REGIONES",La Ribereña [UCAYALI]
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="TV PERU REGIONES",Top FM TV [ONLINE]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="TV PERU REGIONES",TV Cosmos (720p) [ONLINE]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-logo="https://i.imgur.com/1uRjeT8.png" group-title="TV PERU REGIONES",TV Palmeras [ONLINE]
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="TV PERU REGIONES",TV Peruanísima [ONLINE]
+https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="TV PERU REGIONES",Bella Asunción TV [ONLINE]
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="TV PERU REGIONES",Hoynet [ONLINE]
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
