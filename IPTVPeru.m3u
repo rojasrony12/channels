@@ -245,62 +245,6 @@ https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="TV PERU REGIONES",Hoynet [ONLINE]
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Baby First
-http://8.242.225.44:8000/play/a0pr
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",BitMe
-http://45.184.85.2:1080/play/a0hy
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Boomerang
-http://190.186.131.18:58001/play/a02c
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Cartoon Network
-http://45.184.85.2:1080/play/a05x
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Discovery Kids
-http://160.20.165.246:8000/play/a016
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney
-http://45.184.85.2:1080/play/a02v
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney JR.
-http://45.184.85.2:1080/play/a00c
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Kids
-http://160.20.165.246:8000/play/a01f
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Family
-http://160.20.165.246:8000/play/a01j
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Goku TV
-http://45.184.85.2:1080/play/a0c2
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nickelodeon
-http://45.184.85.2:1080/play/a05m
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nick JR.
-http://8.242.225.44:8000/play/a0s5
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",NTV
-http://45.184.85.2:1080/play/a00g
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",TeenNick
-http://45.189.117.32:7076/play/a0qp
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",ZOO MOO
-http://160.20.165.246:8000/play/a017
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Animal Planet
-http://45.184.85.2:1080/play/a02x
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Channel
-http://45.184.85.2:1080/play/a0hh
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Civilization
-http://190.186.131.18:58001/play/a01y
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery H&H
-http://160.20.165.246:8000/play/a013
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Turbo
-http://45.71.252.67:8000/play/a0ks
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery World
-http://45.184.85.2:1080/play/a0fi
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Science
-http://45.189.117.32:7076/play/a0uo
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Theater
-http://45.189.117.32:7076/play/a0os
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History Channel
-http://45.184.85.2:1080/play/a0jo
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History 2
-http://45.184.85.2:1080/play/a0hm
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Love Nature
-http://190.60.40.37:12500/play/a0al
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",National Geographic
-http://8.242.225.44:8000/play/a0pa
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",TruTV
-http://190.60.40.37:12500/play/a00w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",AXN
 http://45.184.85.2:1080/play/a0js
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",A&E Mundo
@@ -431,6 +375,32 @@ http://45.189.117.32:7076/play/a0vl
 http://8.242.225.44:8000/play/a0xp
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Win+
 http://45.189.117.32:7076/play/a0t0
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Animal Planet
+http://45.184.85.2:1080/play/a02x
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Channel
+http://45.184.85.2:1080/play/a0hh
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Civilization
+http://190.186.131.18:58001/play/a01y
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery H&H
+http://160.20.165.246:8000/play/a013
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Turbo
+http://45.71.252.67:8000/play/a0ks
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery World
+http://45.184.85.2:1080/play/a0fi
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Science
+http://45.189.117.32:7076/play/a0uo
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Theater
+http://45.189.117.32:7076/play/a0os
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History Channel
+http://45.184.85.2:1080/play/a0jo
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History 2
+http://45.184.85.2:1080/play/a0hm
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Love Nature
+http://190.60.40.37:12500/play/a0al
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",National Geographic
+http://8.242.225.44:8000/play/a0pa
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",TruTV
+http://190.60.40.37:12500/play/a00w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Canal Estrellas
 http://45.184.85.2:1080/play/a0hf
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Caracol
@@ -459,6 +429,36 @@ http://45.184.85.2:1080/play/a03n
 http://190.6.199.61:8004/play/a02k
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Universal Reality
 http://170.254.172.10:8000/play/a04u
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Baby First
+http://8.242.225.44:8000/play/a0pr
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",BitMe
+http://45.184.85.2:1080/play/a0hy
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Boomerang
+http://190.186.131.18:58001/play/a02c
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Cartoon Network
+http://45.184.85.2:1080/play/a05x
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Discovery Kids
+http://160.20.165.246:8000/play/a016
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney
+http://45.184.85.2:1080/play/a02v
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney JR.
+http://45.184.85.2:1080/play/a00c
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Kids
+http://160.20.165.246:8000/play/a01f
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Family
+http://160.20.165.246:8000/play/a01j
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Goku TV
+http://45.184.85.2:1080/play/a0c2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nickelodeon
+http://45.184.85.2:1080/play/a05m
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nick JR.
+http://8.242.225.44:8000/play/a0s5
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",NTV
+http://45.184.85.2:1080/play/a00g
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",TeenNick
+http://45.189.117.32:7076/play/a0qp
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",ZOO MOO
+http://160.20.165.246:8000/play/a017
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",One Piece [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Yu-Gi-Oh! [Pluto TV]
