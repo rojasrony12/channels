@@ -245,64 +245,72 @@ https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="TV PERU REGIONES",Hoynet [ONLINE]
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Baby First
+http://8.242.225.44:8000/play/a0pr
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",BitMe
 http://45.184.85.2:1080/play/a0hy
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Boomerang
+http://190.186.131.18:58001/play/a02c
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Cartoon Network
-http://138.219.58.234:8112/play/009
+http://45.184.85.2:1080/play/a05x
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Discovery Kids
 http://160.20.165.246:8000/play/a016
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney
-http://138.219.58.234:8112/play/010
+http://45.184.85.2:1080/play/a02v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney JR.
-http://138.219.58.234:8112/play/006
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",DOS Kids
-http://138.219.58.234:8112/play/002
+http://45.184.85.2:1080/play/a00c
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Kids
+http://160.20.165.246:8000/play/a01f
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Family
+http://160.20.165.246:8000/play/a01j
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Goku TV
 http://45.184.85.2:1080/play/a0c2
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nickelodeon
-http://138.219.58.234:8112/play/014
+http://45.184.85.2:1080/play/a05m
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nick JR.
-http://138.219.58.234:8112/play/015
+http://8.242.225.44:8000/play/a0s5
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",NTV
-http://138.219.58.234:8112/play/016
+http://45.184.85.2:1080/play/a00g
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",TeenNick
 http://45.189.117.32:7076/play/a0qp
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nick JR.
-http://138.219.58.234:8112/play/015
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",NTV
-http://138.219.58.234:8112/play/016
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",TeenNick
-http://45.189.117.32:7076/play/a0qp
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",ZOO MOO
+http://160.20.165.246:8000/play/a017
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Animal Planet
-http://138.219.58.234:8112/play/025
+http://45.184.85.2:1080/play/a02x
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Channel
-http://138.219.58.234:8112/play/024
+http://45.184.85.2:1080/play/a0hh
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Civilization
+http://190.186.131.18:58001/play/a01y
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery H&H
 http://160.20.165.246:8000/play/a013
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Turbo
 http://45.71.252.67:8000/play/a0ks
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery World
-http://45.228.234.41:16000/play/a08f
+http://45.184.85.2:1080/play/a0fi
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Science
 http://45.189.117.32:7076/play/a0uo
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Theater
 http://45.189.117.32:7076/play/a0os
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History Channel
-http://138.219.58.234:8112/play/032
+http://45.184.85.2:1080/play/a0jo
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History 2
-http://138.219.58.234:8112/play/033
+http://45.184.85.2:1080/play/a0hm
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Love Nature
+http://190.60.40.37:12500/play/a0al
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",National Geographic
-http://138.219.58.234:8112/play/027
+http://8.242.225.44:8000/play/a0pa
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",TruTV
+http://190.60.40.37:12500/play/a00w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",AXN
-http://138.219.58.234:8112/play/087
+http://45.184.85.2:1080/play/a0js
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",A&E Mundo
-http://138.219.58.234:8112/play/102
+http://45.184.85.2:1080/play/a0jp
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cine Canal
-http://138.219.58.234:8112/play/107
+http://8.242.225.44:8000/play/a0pc
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cine Latino
 http://45.228.234.41:16000/play/a0bu
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cinemax
-http://138.219.58.234:8112/play/112
+http://45.184.85.2:1080/play/a0e5
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Comedy Central
 http://45.71.252.67:8000/play/a0kb
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Clover Channel
@@ -310,109 +318,113 @@ http://45.71.252.67:8000/play/a0j2
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",DHE
 http://45.184.85.2:1080/play/a0hg
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",FX
-http://138.219.58.234:8112/play/093
+http://45.184.85.2:1080/play/a0f0
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Golden EDGE
 http://45.189.117.32:7076/play/a0ue
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Golden Plus
 http://45.189.117.32:7076/play/a0rv
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO
-http://138.219.58.234:8112/play/017
+http://45.184.85.2:1080/play/a0fo
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO 2
-http://138.219.58.234:8112/play/021
+http://45.184.85.2:1080/play/a0fy
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Family
-http://138.219.58.234:8112/play/018
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Plus
-http://138.219.58.234:8112/play/019
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Xtreme
-http://138.219.58.234:8112/play/020
+http://45.184.85.2:1080/play/a0hn
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Pop
 http://45.189.117.32:7076/play/a0se
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Plus
+http://8.242.225.44:8000/play/a0q4
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Signature
+http://190.102.139.244:8900/play/a10s
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Xtreme
+http://8.242.225.44:8000/play/a0q5
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",I-Sat
-http://138.219.58.234:8112/play/116
+http://45.184.85.2:1080/play/a05r
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Lifetime
-http://138.219.58.234:8112/play/100
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",MX Family
-http://138.219.58.234:8112/play/120
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",MX Classic
-http://138.219.58.234:8112/play/121
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",MX Prime
-http://138.219.58.234:8112/play/122
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",MX OLD
-http://138.219.58.234:8112/play/123
+http://8.242.225.44:8000/play/a0ps
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Multipremier
+http://177.234.230.226:8010/play/a00h
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Panico TV
+http://190.6.199.61:8004/play/a03v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Paramount
-http://138.219.58.234:8112/play/099
+http://45.184.85.2:1080/play/a0ft
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Space
-http://138.219.58.234:8112/play/119
+http://45.184.85.2:1080/play/a0jt
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Sony
-http://138.219.58.234:8112/play/085
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Star Channel 01
-http://138.219.58.234:8112/play/083
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Star Channel 02
-http://45.173.201.6:8000/play/a037
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Star Channel 03
-http://45.173.201.6:8000/play/a036
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Star Channel 04
-http://45.173.201.6:8000/play/a02b
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Star Channel 05
-http://45.173.201.6:8000/play/a01l
+http://45.184.85.2:1080/play/a0jq
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Studio Universal
-http://138.219.58.234:8112/play/098
+http://45.184.85.2:1080/play/a0fu
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",SyFy
-http://138.219.58.234:8112/play/101
+http://8.242.225.44:8000/play/a0pt
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",TCM
-http://138.219.58.234:8112/play/110
+http://45.184.85.2:1080/play/a05w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",TNT
-http://138.219.58.234:8112/play/109
+http://45.184.85.2:1080/play/a0dv
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",TNT Series
-http://138.219.58.234:8112/play/108
+http://45.184.85.2:1080/play/a0ez
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal
-http://138.219.58.234:8112/play/088
+http://45.184.85.2:1080/play/a0j9
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Cinema
 http://8.242.225.44:8000/play/a0y8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Comedy
 http://8.242.225.44:8000/play/a0y9
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Crime
+http://170.254.172.10:8000/play/a04v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Premiere
 http://8.242.225.44:8000/play/a0y7
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Science
+http://190.2.214.171:8008/play/a00a
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Warner
 http://45.184.85.2:1080/play/a0jr
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Canal del Caballo
-http://138.219.58.234:8112/play/230
+http://45.184.85.2:1080/play/a0c1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Claro Sports
 http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports [CL]
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports [EC]
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/131149
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports [UY]
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/215535
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports+ [AR]
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN
-http://138.219.58.234:8112/play/212
+http://45.184.85.2:1080/play/a032
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN 2
-http://138.219.58.234:8112/play/214
+http://45.184.85.2:1080/play/a031
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN 3
-http://138.219.58.234:8112/play/216
+http://45.184.85.2:1080/play/a0dw
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN 4
-http://138.219.58.234:8112/play/218
+http://45.184.85.2:1080/play/a030
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN Extra
 http://45.184.85.2:1080/play/a0hx
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Fitmaxx
-http://138.219.58.234:8112/play/231
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Fox Sports 1
-http://138.219.58.234:8112/play/209
+http://45.184.85.2:1080/play/a0hl
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Fox Sports 2
-http://138.219.58.234:8112/play/210
+http://45.184.85.2:1080/play/a0es
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Fox Sports 3
-http://138.219.58.234:8112/play/211
+http://45.184.85.2:1080/play/a03m
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Liga 1
+http://190.187.154.156:8000/play/a0cb
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Liga 1 Max
+http://190.187.154.156:8000/play/a0ca
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol TV
 http://45.189.58.17:28000/play/a009
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol Perú
 http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Movistar Deportes
 http://45.71.252.67:8000/play/a0o2
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Sport EXT
-http://138.219.58.234:8112/play/232
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Titan
 http://160.20.165.246:8000/play/a01i
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Tigo Sports [CR]
+http://38.7.131.2:8000/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Tigo Sports+ [CR]
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TNT Sports
-http://138.219.58.234:8112/play/233
+http://45.184.85.2:1080/play/a0ju
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TNT Sports 2
-http://138.219.58.234:8112/play/234
+http://45.184.85.2:1080/play/a00b
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TNT Sports 3
-http://138.219.58.234:8112/play/235
+http://45.184.85.2:1080/play/a035
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TyC Sports
 http://45.189.117.32:7076/play/a0vl
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Win
@@ -420,7 +432,7 @@ http://8.242.225.44:8000/play/a0xp
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Win+
 http://45.189.117.32:7076/play/a0t0
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Canal Estrellas
-http://138.219.58.234:8112/play/151
+http://45.184.85.2:1080/play/a0hf
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Caracol
 http://160.20.165.246:8000/play/a00x
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",CNN Español
@@ -440,14 +452,46 @@ http://45.189.117.32:7076/play/a0so
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Novelas
 http://8.242.225.44:8000/play/a0r8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Pasiones
-http://138.219.58.234:8112/play/150
+http://160.20.165.246:8000/play/a00g
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Telemundo
-http://138.219.58.234:8112/play/149
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",PlayBoy [+18]
+http://45.184.85.2:1080/play/a03n
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Telenovelas
+http://190.6.199.61:8004/play/a02k
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Universal Reality
+http://170.254.172.10:8000/play/a04u
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",One Piece [Pluto TV]
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Yu-Gi-Oh! [Pluto TV]
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Ciencia TV [Pluto TV]
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Sci-Fi [Pluto TV]
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Cine Comedia [Pluto TV]
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Cinema Estelar [Pluto TV]
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Estrellas en Accion [Pluto TV]
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Paramount+ [Pluto TV]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 01 [Star Channel]
+http://45.173.201.6:8000/play/a037
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 02 [Star Channel]
+http://45.173.201.6:8000/play/a036
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 03 [Star Channel]
+http://45.173.201.6:8000/play/a02b
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 04 [Star Channel]
+http://45.173.201.6:8000/play/a01l
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 05 [Star Channel]
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38000.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 06 [Star Channel]
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30369.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",PlayBoy [+18]
 http://45.184.85.2:1080/play/a0ey
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Venus [+18]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Venus [+18]
 http://45.71.252.67:8000/play/a0o5
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",seXtreme [+18]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",seXtreme [+18]
 http://45.71.252.67:8000/play/a0o6
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Private [+18]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Private [+18]
 http://194.145.202.71:8087/udp/239.254.1.38:6060
