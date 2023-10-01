@@ -247,9 +247,11 @@ https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 http://45.184.85.2:1080/play/a0js
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",A&E Mundo
 http://45.184.85.2:1080/play/a0jp
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cine Canal
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",AMC
+http://190.102.139.244:8900/play/a0nz
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cinecanal
 http://8.242.225.44:8000/play/a0pc
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cine Latino
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cinelatino
 http://45.228.234.41:16000/play/a0bu
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cinemax
 http://45.184.85.2:1080/play/a0e5
@@ -273,6 +275,8 @@ http://45.184.85.2:1080/play/a0fo
 http://45.184.85.2:1080/play/a0fy
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Family
 http://45.184.85.2:1080/play/a0hn
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Mundi
+http://190.102.139.244:8900/play/a0zo
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Pop
 http://45.189.117.32:7076/play/a0se
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Plus
@@ -357,12 +361,18 @@ http://45.184.85.2:1080/play/a03m
 http://190.187.154.156:8000/play/a0cb
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Liga 1 Max
 http://190.187.154.156:8000/play/a0ca
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Liga 1 Max HD
+http://190.102.139.244:8900/play/a12f
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol TV
 http://45.189.58.17:28000/play/a009
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol Perú
 http://45.71.252.67:8000/play/a0o1
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol Perú HD
+http://190.102.139.244:8900/play/a0oq
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Movistar Deportes
 http://45.71.252.67:8000/play/a0o2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Movistar Deportes HD
+http://190.102.139.244:8900/play/a0oc
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Titan
 http://160.20.165.246:8000/play/a01i
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Tigo Sports [CR]
@@ -389,6 +399,8 @@ http://45.184.85.2:1080/play/a0hh
 http://190.186.131.18:58001/play/a01y
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery H&H
 http://160.20.165.246:8000/play/a013
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery ID
+http://190.102.139.244:8900/play/a0n7
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Turbo
 http://45.71.252.67:8000/play/a0ks
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery World
@@ -439,6 +451,8 @@ http://190.6.199.61:8004/play/a02k
 http://170.254.172.10:8000/play/a04u
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Baby First
 http://8.242.225.44:8000/play/a0pr
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Baby TV
+http://190.102.139.244:8900/play/a105
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",BitMe
 http://45.184.85.2:1080/play/a0hy
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Boomerang
