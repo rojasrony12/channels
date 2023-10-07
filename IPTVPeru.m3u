@@ -157,6 +157,10 @@ http://45.184.85.2:1080/play/a05w
 http://45.184.85.2:1080/play/a0dv
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="CINEMA",TNT Series
 http://45.184.85.2:1080/play/a0ez
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="CINEMA",Star Channel
+http://38.41.8.1:8000/play/a04w
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="CINEMA",Star Channel [AR]
+http://38.41.8.1:8000/play/a019
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="CINEMA",Universal
 http://45.184.85.2:1080/play/a0j9
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="CINEMA",Universal Cinema
