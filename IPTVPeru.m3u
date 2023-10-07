@@ -1,525 +1,361 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://willax.pe/img/footer-logo.png" group-title="TV LIMA",Willax
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV LIMA",Willax
 http://179.1.144.98:8000/play/a04y
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="TV LIMA",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV LIMA",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="TV LIMA",Top Latino 
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RPP.pe" tvg-logo="" group-title="TV LIMA",RPP 
+#EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="TV LIMA",RPP 
 http://45.71.252.67:8000/play/a0g8
-#EXTINF:-1 tvg-id="AméricaTV.pe" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="TV LIMA",América
+#EXTINF:-1 tvg-id="AméricaTV.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV LIMA",América
 http://179.1.144.98:8000/play/a03c
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="TV LIMA",Panamericana
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV LIMA",Panamericana
 https://cdn75.iblups.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV LIMA",Exitosa
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV LIMA",Exitosa
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="TV LIMA",Karibeña
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="TV LIMA",TV Perú 
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV LIMA",TV Perú 
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="TV LIMA",TV Perú Internacional 
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
-#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="TV LIMA",TV Perú Noticias 
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
-#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="TV LIMA",IPe TV 
-https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="" group-title="TV LIMA",Canal N 
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="TV LIMA",Canal N 
 http://45.71.252.67:8000/play/a0fi
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="TV LIMA",ATV 
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV LIMA",ATV 
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="TV LIMA",ATV+ Noticias
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV LIMA",ATV+ Noticias
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="TV LIMA",ATV Sur
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="" group-title="TV LIMA",Global
-http://45.71.252.67:8000/play/a0fk
-#EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="TV LIMA",USMPTV
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="TV LIMA",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="TV LIMA",JN19 
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-id="JN192.pe" tvg-logo="" group-title="TV LIMA",JN19 TV2 
-https://servilive.com:3224/live/jn19tv2live.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV LIMA",Top Latino 
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="TV LIMA",Global
+http://45.71.252.67:8000/play/a0fk
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="TV LIMA",Karibeña
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://i.ibb.co/bH2D6pD/tvper-internacional.png" group-title="TV LIMA",TV Perú Internacional 
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.ibb.co/zmrc4tN/tvper-noticias.png" group-title="TV LIMA",TV Perú Noticias 
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="TV LIMA",IPe TV 
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="TV LIMA",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="TV LIMA",MINEDU TV 1 
-http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
-#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="TV LIMA",MINEDU TV 2 
-http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="TV LIMA",Nazarenas TV 
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="TV LIMA",PBO Digital 
-https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="TV LIMA",Ovacion TV 
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="TV LIMA",Onda Digital 
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="TV LIMA",La Luz TV 
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-#EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="TV LIMA",USIL TV 
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="TV LIMA",Trivu 
-https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV LIMA",BHTV 
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="TV LIMA",JN19 
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV LIMA",ATV Sur
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="TV LIMA",Asiri TV 
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="TV LIMA",Vamisa TV 
-https://tv.streamprivate.live:3101/live/vamisalive.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV LIMA",BHTV 
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV LIMA",Conecta2TV 
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="TV LIMA",Cultura 24 
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.ibb.co/5xWmN8H/cultural24.png" group-title="TV LIMA",Cultura 24 
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="TV LIMA",Central TV Chosica 
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalB.pe" tvg-logo="https://i.imgur.com/jueHIh2.png" group-title="TV LIMA",CanalB 
-https://ythls.onrender.com/channel/UCFrOdZIiGOGFP5kk4xZgH6Q.m3u8
-#EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="TV LIMA",Intuitiva TV 
-https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="TV LIMA",LimaLive 
-https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV LIMA",Doble C Televisión 
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="TV LIMA",Identidad TV 
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="TV LIMA",Intuitiva TV 
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="TV LIMA",La Luz TV 
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="TV LIMA",LimaLive 
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="TV LIMA",MaticesTV 
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="TV LIMA",MINEDU TV 1 
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="TV LIMA",MINEDU TV 2 
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="TV LIMA",Monterrico TV 
 https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
-#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="TV LIMA",RCR TV 
-https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="TV LIMA",Nazarenas TV 
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="TV LIMA",Onda Digital 
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="TV LIMA",Ovacion TV 
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="TV LIMA",PBO Digital 
+https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="TV LIMA",Región TV Callao 
 https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="TV LIMA",RCR TV 
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="TV LIMA",San Borja TV 
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="TV LIMA",Hatun TV 
-https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8
-#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="TV LIMA",Visión Noticias Perú [Cable Visión]
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="TV LIMA",Visión Sur TV [Cable Visión]
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="TV LIMA",Visión TV Música [Cable Visión]
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="TV LIMA",+ Cumbia [Best Cable]
-https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="TV LIMA",Best Music [Best Cable]
-https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="TV LIMA",Best TV [Best Cable]
-https://mi.godo.net.pe/BesTv-001120000100/index.m3u8
-#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="TV LIMA",Best Sports [Best Cable]
-https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.pe" tvg-logo="https://i.imgur.com/yhv3XyU.png" group-title="TV PERU REGIONES",Teleamazonas Canal 11 [AMAZONAS]
-https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="NovaTVStar.pe" tvg-logo="https://i.imgur.com/CN2j8S3.png" group-title="TV PERU REGIONES",Nova TV Star [AMAZONAS]
-https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="TV PERU REGIONES",X TV Chachapoyas [AMAZONAS]
-https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-#EXTINF:-1 tvg-id="QuassarTV.pe" tvg-logo="https://i.imgur.com/NpUqyYP.png" group-title="TV PERU REGIONES",Quassar TV [ANCASH]
-https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="TV PERU REGIONES",Galáctica TV [ANCASH]
-https://pacific.direcnode.com:3715/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="TV PERU REGIONES",Impacto TV [ANCASH]
-https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="TV PERU REGIONES",ATM Televisión [APURIMAC]
-https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="TV PERU REGIONES",RadioInka (1080p) [APURIMAC]
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Camana [AREQUIPA]
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Mollendo [AREQUIPA]
-https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="TV PERU REGIONES",Mega TV [AREQUIPA]
-https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV PERU REGIONES",Controversia TV [AREQUIPA]
-https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="Canal33Ayacucho.pe" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="TV PERU REGIONES",Canal 33 [AYACUCHO]
-https://video2.getstreamhosting.com:19360/8206/8206.m3u8
-#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="TV PERU REGIONES",Tele2000 [AYACUCHO]
-https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="TV PERU REGIONES",Agro TV [APURIMAC]
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="TV PERU REGIONES",Turbo Mix Radio TV [CAJAMARCA]
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="TV PERU REGIONES",Mega TV Jaen [CAJAMARCA]
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PERU REGIONES",Atmósfera TV [CAJAMARCA]
-https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
-#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="TV PERU REGIONES",Cajamarca TV [CAJAMARCA]
-https://mi.godo.net.pe:8081/0f03dsf32dsf13dsf/index.m3u8
-#EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="TV PERU REGIONES",CNC Cajamarca [CAJAMARCA]
-https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="TV PERU REGIONES",DMJ [CUZCO]
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CTC.pe" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="TV PERU REGIONES",CTC [CUZCO]
-https://ythls.onrender.com/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8
-#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="TV PERU REGIONES",QT Televisión [CUZCO]
-https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="TV PERU REGIONES",TV Sistemas Cuzco [CUZCO]
-https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="TV PERU REGIONES",TVenLinea [CUZCO]
-https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="TV PERU REGIONES",Huánuco en Vivo [HUANUCO]
-https://vdo.grupolimalive.com:3810/live/antoniolive.m3u8
-#EXTINF:-1 tvg-id="Andes Television" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="TV PERU REGIONES",Andes Televisión [JUNIN]
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="TV PERU REGIONES",Unitel TV [JUNIN]
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="TV PERU REGIONES",Cadena TV [JUNIN]
-https://servilive.com:3079/live/cdnatvlive.m3u8
-#EXTINF:-1 tvg-id="MielTV.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="TV PERU REGIONES",Miel TV [JUNIN]
-https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="TV PERU REGIONES",Nativa TV Satipo [JUNIN]
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="TV PERU REGIONES",Oasis RTV [LA LIBERTAD]
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="TV PERU REGIONES",Sol Televisión [LA LIBERTAD]
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="TV PERU REGIONES",RN Televisión [LORETO]
-https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
-#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="TV PERU REGIONES",Viva TV Yurimaguas [LORETO]
-https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.imgur.com/d431PkD.png" group-title="TV PERU REGIONES",Doble AA [LORETO]
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="TV PERU REGIONES",Uranio TV (Yurimaguas) [LORETO]
-https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="TV PERU REGIONES",RTV Total Yurimaguas [LORETO]
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="TV PERU REGIONES",Super Canal Yurimaguas [LORETO]
-https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="TV PERU REGIONES",Telecolor Yurimaguas [LORETO]
-https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="Primavera15.pe" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="TV PERU REGIONES",Primavera 15 [MOQUEGUA]
-https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
-#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Ilo [MOQUEGUA]
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Moquegua [MOQUEGUA]
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="TV PERU REGIONES",Canal 8 Catacaos [PIURA]
-https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="TV PERU REGIONES",Planeta TV [PUNO]
-https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="TV PERU REGIONES",Antares Televisión [SAN MARTIN]
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="TV PERU REGIONES",Auténtica Televisión [SAN MARTIN]
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="TV PERU REGIONES",VZ TV Moyobamba [SAN MARTIN]
-https://live.obslivestream.com/vztv/index.m3u8
-#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="TV PERU REGIONES",CR Televisión Moyobamba [SAN MARTIN]
-https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="CumoTV.pe" tvg-logo="https://i.imgur.com/TdYNCBI.png" group-title="TV PERU REGIONES",Cumo TV [SAN MARTIN]
-https://live.obslivestream.com/cumo/index.m3u8
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="TV PERU REGIONES",Vía Altomayo [SAN MARTIN]
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="TV PERU REGIONES",Vía Televisión Tarapoto [SAN MARTIN]
-https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="TV PERU REGIONES",Genios TV (720p) [SAN MARTIN]
-https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="TV PERU REGIONES",NorSelva RTV [SAN MARTIN]
-https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="TV PERU REGIONES",Tropical TV [SAN MARTIN]
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="TV PERU REGIONES",SanjuaneraTV [SAN MARTIN]
-https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="TV PERU REGIONES",Televisión Tarapoto [SAN MARTIN]
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="TV PERU REGIONES",Uno Tacna [TACNA]
-https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
-#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="TV PERU REGIONES",Telesur Tacna [TACNA]
-https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="TV PERU REGIONES",Tumpis TV [TUMBES]
-https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="TV PERU REGIONES",Hechicera TV [TUMBES]
-https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="TV PERU REGIONES",La Ribereña [UCAYALI]
-https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="TV PERU REGIONES",Top FM TV [ONLINE]
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="TV PERU REGIONES",TV Cosmos (720p) [ONLINE]
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-logo="https://i.imgur.com/1uRjeT8.png" group-title="TV PERU REGIONES",TV Palmeras [ONLINE]
-https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
-#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="TV PERU REGIONES",TV Peruanísima [ONLINE]
-https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="TV PERU REGIONES",Bella Asunción TV [ONLINE]
-https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="TV PERU REGIONES",Hoynet [ONLINE]
-https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",A&E
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="TV LIMA",Trivu 
+https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="TV LIMA",USIL TV 
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="TV LIMA",Vamisa TV 
+https://tv.streamprivate.live:3101/live/vamisalive.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="CINEMA",A&E
 http://45.184.85.2:1080/play/a0jp
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",AMC
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HCdPs9q/amc.png" group-title="CINEMA",AMC
 http://190.102.139.244:8900/play/a0nz
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",AXN
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="CINEMA",AXN
 http://45.184.85.2:1080/play/a0js
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cinecanal
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="CINEMA",Cinecanal
 http://8.242.225.44:8000/play/a0pc
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cinelatino
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/RT3DhX7/cinelatino.png" group-title="CINEMA",Cinelatino
 http://45.228.234.41:16000/play/a0bu
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Cinemax
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jkfZ903/cinemax.png" group-title="CINEMA",Cinemax
 http://45.184.85.2:1080/play/a0e5
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Clover Channel
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/VgHWd6n/clover-channel.png" group-title="CINEMA",Clover Channel
 http://45.71.252.67:8000/play/a0j2
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Comedy Central
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/XVRWWGd/comedycentral.png" group-title="CINEMA",Comedy Central
 http://45.71.252.67:8000/play/a0kb
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",DHE
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/QDMD1N8/dhe.png" group-title="CINEMA",DHE
 http://45.184.85.2:1080/play/a0hg
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",EURO Channel
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vXr5JZH/euro-channel.png" group-title="CINEMA",EURO Channel
 http://138.59.177.34:8000/play/a041
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",FX
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="CINEMA",FX
 http://45.184.85.2:1080/play/a0f0
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Golden
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="CINEMA",Golden
 http://168.181.122.234:8000/play/a01a
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Golden EDGE
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/DDCJCPf/golden-edge.png" group-title="CINEMA",Golden EDGE
 http://45.189.117.32:7076/play/a0ue
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Golden Plus
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="CINEMA",Golden Plus
 http://45.189.117.32:7076/play/a0rv
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Golden Premiere
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="CINEMA",Golden Premiere
 http://168.181.122.234:8000/play/a01t
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Golden Premiere 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xLbWYGk/golden-premier2.png" group-title="CINEMA",Golden Premiere 2
 http://168.181.122.234:8000/play/a03r
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="CINEMA",HBO
 http://45.184.85.2:1080/play/a0fo
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="CINEMA",HBO 2
 http://45.184.85.2:1080/play/a0fy
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Family
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0BZnBQJ/hbo-family.png" group-title="CINEMA",HBO Family
 http://45.184.85.2:1080/play/a0hn
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Mundi
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/7S0Pg3v/hbo-mundi.png" group-title="CINEMA",HBO Mundi
 http://190.102.139.244:8900/play/a0zo
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Plus
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TY2WjMm/hbo-plus.jpg" group-title="CINEMA",HBO Plus
 http://8.242.225.44:8000/play/a0q4
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Pop
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Y2kLJ4d/hbo-Pop.png" group-title="CINEMA",HBO Pop
 http://45.189.117.32:7076/play/a0se
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Signature
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Z1L2LR1/hbo-signature.png" group-title="CINEMA",HBO Signature
 http://190.102.139.244:8900/play/a10s
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",HBO Xtreme
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/k4SrHdb/hbo-xtreme.png" group-title="CINEMA",HBO Xtreme
 http://8.242.225.44:8000/play/a0q5
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",I-Sat
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/sjyd57s/i-sat.png" group-title="CINEMA",I-Sat
 http://45.184.85.2:1080/play/a05r
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Lifetime
-http://8.242.225.44:8000/play/a0ps
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Multicinema
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/r4Nj5CK/multicinema.png" group-title="CINEMA",Multicinema
 http://138.59.177.34:8000/play/a04f
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Multipremier
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="CINEMA",Multipremier
 http://177.234.230.226:8010/play/a00h
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Panico TV
-http://190.6.199.61:8004/play/a03v
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Paramount
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="CINEMA",Paramount
 http://45.184.85.2:1080/play/a0ft
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Space
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HrKT39m/space.png" group-title="CINEMA",Space
 http://45.184.85.2:1080/play/a0jt
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Sony
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HdzCM6G/sony.png" group-title="CINEMA",Sony
 http://45.184.85.2:1080/play/a0jq
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Sony Movies
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="CINEMA",Sony Movies
 http://177.53.155.236:8000/play/a08n
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Studio Universal
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M1kxMnB/studio-universal.png" group-title="CINEMA",Studio Universal
 http://45.184.85.2:1080/play/a0fu
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",SyFy
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h8dJtC7/syfy.png" group-title="CINEMA",SyFy
 http://8.242.225.44:8000/play/a0pt
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",TCM
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/8072twn/tcm.png" group-title="CINEMA",TCM
 http://45.184.85.2:1080/play/a05w
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",TNT
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/SJtrSGv/tnt.png" group-title="CINEMA",TNT
 http://45.184.85.2:1080/play/a0dv
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",TNT Series
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="CINEMA",TNT Series
 http://45.184.85.2:1080/play/a0ez
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="CINEMA",Universal
 http://45.184.85.2:1080/play/a0j9
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Cinema
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="CINEMA",Universal Cinema
 http://8.242.225.44:8000/play/a0y8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Comedy
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Sd3GBhy/universal-comedy.png" group-title="CINEMA",Universal Comedy
 http://8.242.225.44:8000/play/a0y9
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Crime
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/71WjFhg/universal-crime.png" group-title="CINEMA",Universal Crime
 http://170.254.172.10:8000/play/a04v
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Premiere
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="CINEMA",Universal Premiere
 http://8.242.225.44:8000/play/a0y7
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Universal Science
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fH5Zvp8/universal-science.png" group-title="CINEMA",Universal Science
 http://190.2.214.171:8008/play/a00a
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="CINEMA",Warner
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="CINEMA",Warner
 http://45.184.85.2:1080/play/a0jr
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Claro Sports
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6bgwWQP/claro-sports.png" group-title="DEPORTES",Claro Sports
 http://45.179.140.242:8000/play/a0ht
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Claro Sports 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="DEPORTES",Claro Sports 2
 http://138.59.177.34:8000/play/a045
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports [CL]
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports [EC]
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/131149
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports [UY]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Dpsp9J9/dsports.png" group-title="DEPORTES",DirecTV Sports [UY]
 http://playhispano.org:8080/RolaM/TZRfjE6xGN/215535
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",DirecTV Sports+ [AR]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h96fzRR/directvsports.png" group-title="DEPORTES",DirecTV Sports+ [AR]
 http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN
 http://45.184.85.2:1080/play/a032
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="DEPORTES",ESPN 2
 http://45.184.85.2:1080/play/a031
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="DEPORTES",ESPN 3
 http://45.184.85.2:1080/play/a0dw
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN 4
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="DEPORTES",ESPN 4
 http://45.184.85.2:1080/play/a030
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",ESPN Extra
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TgQ1VCC/espn-extra.png" group-title="DEPORTES",ESPN Extra
 http://45.184.85.2:1080/play/a0hx
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Fox Sports 1
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="DEPORTES",Fox Sports 1
 http://45.184.85.2:1080/play/a0hl
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Fox Sports 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="DEPORTES",Fox Sports 2
 http://45.184.85.2:1080/play/a0es
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Fox Sports 3
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="DEPORTES",Fox Sports 3
 http://45.184.85.2:1080/play/a03m
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Liga 1
-http://190.187.154.156:8000/play/a0cb
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Liga 1 Max
-http://190.187.154.156:8000/play/a0ca
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Liga 1 Max HD
-http://190.102.139.244:8900/play/a12f
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol TV
-http://45.189.58.17:28000/play/a009
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol Perú
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú
 http://45.71.252.67:8000/play/a0o1
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Gol Perú HD
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú HD
 http://190.102.139.244:8900/play/a0oq
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Movistar Deportes
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="DEPORTES",Gol TV
+http://45.189.58.17:28000/play/a009
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/s9hfkLM/liga1.png" group-title="DEPORTES",Liga 1
+http://190.187.154.156:8000/play/a0cb
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="DEPORTES",Liga 1 Max
+http://190.187.154.156:8000/play/a0ca
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="DEPORTES",Liga 1 Max HD
+http://190.102.139.244:8900/play/a12f
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="DEPORTES",Movistar Deportes
 http://45.71.252.67:8000/play/a0o2
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Movistar Deportes HD
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="DEPORTES",Movistar Deportes HD
 http://190.102.139.244:8900/play/a0oc
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Titan
-http://160.20.165.246:8000/play/a01i
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Tigo Sports [CR]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/FJgzYBb/Tigo-sports.png" group-title="DEPORTES",Tigo Sports [CR]
 http://38.7.131.2:8000/play/a0eo/index.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Tigo Sports+ [CR]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="DEPORTES",Tigo Sports+ [CR]
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TNT Sports
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HH6D71L/titantv.png" group-title="DEPORTES",Titan
+http://160.20.165.246:8000/play/a01i
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="DEPORTES",TNT Sports
 http://45.184.85.2:1080/play/a0ju
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TNT Sports 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/48fQhxr/tnt-sports2.png" group-title="DEPORTES",TNT Sports 2
 http://45.184.85.2:1080/play/a00b
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TNT Sports 3
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/LpJjpTf/tnt-sports3.png" group-title="DEPORTES",TNT Sports 3
 http://45.184.85.2:1080/play/a035
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",TyC Sports
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9vDp8N2/tyc-sports.png" group-title="DEPORTES",TyC Sports
 http://45.189.117.32:7076/play/a0vl
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Win
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="DEPORTES",Win
 http://8.242.225.44:8000/play/a0xp
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="DEPORTES",Win+
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/JmQ37GM/win-sports.png" group-title="DEPORTES",Win+
 http://45.189.117.32:7076/play/a0t0
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Animal Planet
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="ENTRETENIMIENTO",Animal Planet
 http://45.184.85.2:1080/play/a02x
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Channel
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="ENTRETENIMIENTO",Discovery Channel
 http://45.184.85.2:1080/play/a0hh
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Civilization
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fM1JjD0/discovery-civilization.png" group-title="ENTRETENIMIENTO",Discovery Civilization
 http://190.186.131.18:58001/play/a01y
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery H&H
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="ENTRETENIMIENTO",Discovery H&H
 http://160.20.165.246:8000/play/a013
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery ID
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="ENTRETENIMIENTO",Discovery ID
 http://190.102.139.244:8900/play/a0n7
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Turbo
-http://45.71.252.67:8000/play/a0ks
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery World
-http://45.184.85.2:1080/play/a0fi
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Science
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vQxc9s9/discovery-science.png" group-title="ENTRETENIMIENTO",Discovery Science
 http://45.189.117.32:7076/play/a0uo
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Theater
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/L9V9hKD/discovery-theater.png" group-title="ENTRETENIMIENTO",Discovery Theater
 http://45.189.117.32:7076/play/a0os
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History Channel
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="ENTRETENIMIENTO",Discovery Turbo
+http://45.71.252.67:8000/play/a0ks
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="ENTRETENIMIENTO",Discovery World
+http://45.184.85.2:1080/play/a0fi
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="ENTRETENIMIENTO",History Channel
 http://45.184.85.2:1080/play/a0jo
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",History 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="ENTRETENIMIENTO",History 2
 http://45.184.85.2:1080/play/a0hm
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",Love Nature
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="ENTRETENIMIENTO",Love Nature
 http://190.60.40.37:12500/play/a0al
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",National Geographic
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="ENTRETENIMIENTO",National Geographic
 http://8.242.225.44:8000/play/a0pa
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="ENTRETENIMIENTO",TruTV
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/bKNxCmf/TruTV.png" group-title="ENTRETENIMIENTO",TruTV
 http://190.60.40.37:12500/play/a00w
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Canal Estrellas
-http://45.184.85.2:1080/play/a0hf
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Caracol
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="GENERAL",Caracol
 http://160.20.165.246:8000/play/a00x
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",CNN Español
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="GENERAL",CNN Español
 http://8.242.225.44:8000/play/a0si
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",E!
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/qBmWFNV/dwespanol.png" group-title="GENERAL",DW
+http://45.169.38.226:8000/play/a02x
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="GENERAL",E!
 http://45.189.117.32:7076/play/a01j
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",KPop
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/nf0GQ66/kpop.png" group-title="GENERAL",KPop
 http://45.184.85.2:1080/play/a0k5
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Lifetime
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="GENERAL",Las Estrellas
+http://45.184.85.2:1080/play/a0hf
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="GENERAL",Lifetime
 http://45.179.140.242:8000/play/a0ls
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Movistar Plus
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HT1GLJ5/movistar-plus.png" group-title="GENERAL",Movistar Plus
 http://177.53.155.236:8000/play/a09o
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",MTV
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="GENERAL",MTV
 http://45.189.117.32:7076/play/a0tf
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",MTV 00s
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="GENERAL",MTV 00s
 http://45.189.117.32:7076/play/a0sk
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",MTV Live
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/VHGz4zG/MTVlive.png" group-title="GENERAL",MTV Live
 http://45.189.117.32:7076/play/a0so
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Novelas
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="GENERAL",Novelas
 http://8.242.225.44:8000/play/a0r8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Pasiones
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="GENERAL",Pasiones
 http://160.20.165.246:8000/play/a00g
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Telemundo
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="GENERAL",Telemundo
 http://45.184.85.2:1080/play/a03n
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Telenovelas
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="GENERAL",Telenovelas
 http://179.1.198.98:8000/play/a06p
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="GENERAL",Universal Reality
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y0wjHYj/universal-reality.png" group-title="GENERAL",Universal Reality
 http://170.254.172.10:8000/play/a04u
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Baby First
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vHym1DG/Baby-First-TV.png" group-title="INFANTIL",Baby First
 http://8.242.225.44:8000/play/a0pr
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Baby TV
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="INFANTIL",Baby TV
 http://190.102.139.244:8900/play/a105
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",BitMe
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/x5MWPgm/bitme.png" group-title="INFANTIL",BitMe
 http://45.184.85.2:1080/play/a0hy
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Boomerang
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fxCzVc9/cartoonito.png" group-title="INFANTIL",Cartoonito
 http://190.186.131.18:58001/play/a02c
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Cartoon Network
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/rfswZ3H/cartoonnetwork.png" group-title="INFANTIL",Cartoon Network
 http://45.184.85.2:1080/play/a05x
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Discovery Kids
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/gz4t1VH/discovery-kids.png" group-title="INFANTIL",Discovery Kids
 http://160.20.165.246:8000/play/a016
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="INFANTIL",Disney
 http://45.184.85.2:1080/play/a02v
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Disney JR.
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="INFANTIL",Disney JR.
 http://45.184.85.2:1080/play/a00c
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Kids
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/XC7yHsw/fmh-kids.png" group-title="INFANTIL",FMH Kids
 http://160.20.165.246:8000/play/a01f
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",FMH Family
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h2VR5ft/fmh-family.png" group-title="INFANTIL",FMH Family
 http://160.20.165.246:8000/play/a01j
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Goku TV
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/bF94RB6/goku.png" group-title="INFANTIL",Goku TV
 http://45.184.85.2:1080/play/a0c2
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nickelodeon
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="INFANTIL",Nickelodeon
 http://45.184.85.2:1080/play/a05m
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nick JR.
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="INFANTIL",Nick JR.
 http://8.242.225.44:8000/play/a0s5
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",Nick Music
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/VHZkccH/nickmusic.png" group-title="INFANTIL",Nick Music
 http://177.234.247.66:8888/play/a07o
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",NTV
 http://45.184.85.2:1080/play/a00g
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",TeenNick
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="INFANTIL",TeenNick
 http://45.189.117.32:7076/play/a0qp
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",ZOO MOO
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/mcfBYrk/zooMoo.png" group-title="INFANTIL",ZOO MOO
 http://160.20.165.246:8000/play/a017
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",One Piece [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",One Piece [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Yu-Gi-Oh! [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Yu-Gi-Oh! [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Ciencia TV [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Ciencia TV [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Sci-Fi [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Sci-Fi [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Cine Comedia [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Cine Comedia [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Cinema Estelar [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Cinema Estelar [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Estrellas en Accion [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Estrellas en Accion [Pluto TV]
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Paramount+ [Pluto TV]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Paramount+ [Pluto TV]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 01 [Star Channel]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 01 [Star Channel]
 http://45.173.201.6:8000/play/a037
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 02 [Star Channel]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 02 [Star Channel]
 http://45.173.201.6:8000/play/a036
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 03 [Star Channel]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 03 [Star Channel]
 http://45.173.201.6:8000/play/a02b
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 04 [Star Channel]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 04 [Star Channel]
 http://45.173.201.6:8000/play/a01l
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 05 [Star Channel]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 05 [Star Channel]
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38000.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Channel 06 [Star Channel]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 06 [Star Channel]
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30369.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",PlayBoy [+18]
-http://45.184.85.2:1080/play/a0ey
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Venus [+18]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="OTROS",PlayBoy [+18]
+http://138.59.177.34:8000/play/a01r
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="OTROS",Venus [+18]
 http://45.71.252.67:8000/play/a0o5
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",seXtreme [+18]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/d49zSzn/sextreme.png" group-title="OTROS",seXtreme [+18]
 http://45.71.252.67:8000/play/a0o6
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="OTROS",Private [+18]
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/qR14hhS/private.png" group-title="OTROS",Private [+18]
 http://194.145.202.71:8087/udp/239.254.1.38:6060
