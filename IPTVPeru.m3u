@@ -65,8 +65,8 @@ http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="TV LIMA",Monterrico TV 
 https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
-#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="TV LIMA",Nazarenas TV 
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="TV LIMA",Nazarenas TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w205822762.m3u8
 #EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="TV LIMA",Onda Digital 
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="TV LIMA",Ovacion TV 
@@ -110,9 +110,9 @@ http://138.59.177.34:8000/play/a035
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="CINEMA",Golden
 http://168.181.122.234:8000/play/a01a
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/DDCJCPf/golden-edge.png" group-title="CINEMA",Golden EDGE
-http://45.189.117.32:7076/play/a0ue
+http://190.2.214.171:8008/play/a05b
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="CINEMA",Golden Plus
-http://45.189.117.32:7076/play/a0rv
+http://190.2.214.171:8008/play/a05g
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="CINEMA",Golden Premiere
 http://168.181.122.234:8000/play/a01t
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xLbWYGk/golden-premier2.png" group-title="CINEMA",Golden Premiere 2
