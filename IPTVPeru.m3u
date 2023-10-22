@@ -239,7 +239,7 @@ http://160.20.165.246:8000/play/a00g
 http://177.53.155.236:8000/play/a08k
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="GENERAL",Telenovelas
 http://177.53.155.236:8000/play/a09m
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="GENERAL",TNT Novelas
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0QZyym5/tnt-novelas.png" group-title="GENERAL",TNT Novelas
 http://190.61.43.116:45000/play/a06u
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y0wjHYj/universal-reality.png" group-title="GENERAL",Universal Reality
 http://170.254.172.10:8000/play/a04u
