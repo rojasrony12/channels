@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV PERUANA",Willax
 http://177.53.155.236:8000/play/a0bk
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title=""TV PERUANA"",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV PERUANA",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="TV PERUANA",RPP 
 http://45.71.252.67:8000/play/a0g8
