@@ -299,10 +299,6 @@ http://45.173.201.6:8000/play/a036
 http://45.173.201.6:8000/play/a02b
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 04 [Star Channel]
 http://45.173.201.6:8000/play/a01l
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 05 [Star Channel]
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38000.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 06 [Star Channel]
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30369.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="OTROS",Xtrema Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="OTROS",Xtrema Animal
