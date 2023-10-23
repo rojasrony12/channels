@@ -303,6 +303,34 @@ http://45.173.201.6:8000/play/a01l
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38000.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="OTROS",Channel 06 [Star Channel]
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30369.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="OTROS",Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="OTROS",Xtrema Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="OTROS",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="OTROS",Xtrema Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="OTROS",Xtrema Comedy
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="OTROS",Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="OTROS",Xtrema Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="OTROS",Xtrema Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="OTROS",Xtrema Latina
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="OTROS",Xtrema Retro Cartoons
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="OTROS",Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="OTROS",Xtrema Series
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="OTROS",Xtrema Suspenso
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="OTROS",Xtrema Terror
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="OTROS",PlayBoy [+18]
 http://138.59.177.34:8000/play/a01r
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="OTROS",Venus [+18]
@@ -311,3 +339,25 @@ http://45.71.252.67:8000/play/a0o5
 http://45.71.252.67:8000/play/a0o6
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/qR14hhS/private.png" group-title="OTROS",Private [+18]
 http://194.145.202.71:8087/udp/239.254.1.38:6060
+#EXTINF:-1 tvg-id="ben10" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Ben-10-logo.png" group-title="24/7",Ben 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1 tvg-id="bodesponja" tvg-logo="https://seeklogo.com/images/B/bob-esponja-logo-D4EB59C09A-seeklogo.com.png" group-title="24/7",Bod Esponja
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 tvg-id="dragonball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dragonball_Anime-Serie_Original-Logo.svg/1200px-Dragonball_Anime-Serie_Original-Logo.svg.png" group-title="24/7",Dragon Ball
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="elchavodel8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="24/7",El Chavo del 8
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 tvg-id="lostreschiflados" tvg-logo="https://i.pinimg.com/736x/0d/0c/47/0d0c47eb1acb3b792794c28ccbd50148.jpg" group-title="24/7",Los 3 Chiflados
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-63 07-11eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="lospicapiedras" tvg-logo="https://assets.stickpng.com/images/59d624663752880e93e16e92.png" group-title="24/7", Los Picapiedras
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+#EXTINF:-1 tvg-id="lospitufos" tvg-logo="https://i.imgur.com/8NsZxiL.png" group-title="24/7",Los Pitufos
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:-1 tvg-id="teletubbies" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/400/1x/cbeebies/teletubbies-logo.png" group-title="24/7",Teletubbies
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="rugrats" tvg-logo="https://1000logos.net/wp-content/uploads/2020/11/Rugrats-Logo.png" group-title="24/7",Rugrats
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-63 07-11eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="casocerrado" tvg-logo="https://images.canal1.com.co/wp-content/uploads/2023/06/15154119/Caso-Cerrado.png" group-title="24/7",Caso Cerrado
+https://tinyurl.com/2qf6qovz
+#EXTINF:-1 tvg-id="larosadeguadalupe" tvg-logo="https://www.lared.cl/wp-content/uploads/2014/03/29105710/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
