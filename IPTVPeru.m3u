@@ -120,13 +120,13 @@ http://138.59.177.34:8000/play/a076
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="CINEMA",Universal
 http://138.59.177.34:8000/play/a06m
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="CINEMA",Universal Cinema
-http://8.242.225.44:8000/play/a0y8
+http://138.59.177.34:8000/play/a07c
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Sd3GBhy/universal-comedy.png" group-title="CINEMA",Universal Comedy
-http://8.242.225.44:8000/play/a0y9
+http://138.59.177.34:8000/play/a05w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/71WjFhg/universal-crime.png" group-title="CINEMA",Universal Crime
 http://170.254.172.10:8000/play/a04v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="CINEMA",Universal Premiere
-http://8.242.225.44:8000/play/a0y7
+http://138.59.177.34:8000/play/a05s
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="CINEMA",Warner
 http://138.59.177.34:8000/play/a05d
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES",Bein Sports Extra Ñ
@@ -156,11 +156,11 @@ http://138.59.177.34:8000/play/a06v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TgQ1VCC/espn-extra.png" group-title="DEPORTES",ESPN Extra
 http://138.59.177.34:8000/play/a02t
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="DEPORTES",Fox Sports 1
-http://187.102.208.153:8000/play/a0ar
+http://45.71.252.67:8000/play/a0jh
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="DEPORTES",Fox Sports 2
-http://187.102.208.153:8000/play/a05s
+http://45.189.58.17:28000/play/a00a
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="DEPORTES",Fox Sports 3
-http://187.102.208.153:8000/play/a059
+http://45.71.252.67:8000/play/a0mb
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú
 http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú HD
