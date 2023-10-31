@@ -88,7 +88,7 @@ http://190.102.139.244:8900/play/a10s
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/k4SrHdb/hbo-xtreme.png" group-title="CINEMA",HBO Xtreme
 http://190.102.139.244:8900/play/a0xs
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/sjyd57s/i-sat.png" group-title="CINEMA",I-Sat
-http://8.242.225.44:8000/play/a0pe
+http://190.102.139.244:8900/play/a0ke
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/r4Nj5CK/multicinema.png" group-title="CINEMA",Multicinema
 http://138.59.177.34:8000/play/a04f
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="CINEMA",Multipremier
@@ -132,19 +132,13 @@ http://138.59.177.34:8000/play/a05d
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES",Bein Sports Extra Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6bgwWQP/claro-sports.png" group-title="DEPORTES",Claro Sports
-http://138.59.224.12:8000/play/a00f
+http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="DEPORTES",Claro Sports 2
 http://138.59.177.34:8000/play/a045
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Dpsp9J9/dsports.png" group-title="DEPORTES",DSports
 http://181.189.246.86:58004/play/a006
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/WH9t1Vk/directv-sports2.png" group-title="DEPORTES",DSports 2
 http://181.189.246.86:58004/play/a001
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Dpsp9J9/dsports.png" group-title="DEPORTES",DSports [AR]
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/135642
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/WH9t1Vk/directv-sports2.png" group-title="DEPORTES",DSports 2 [AR]
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/135643
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h96fzRR/directvsports.png" group-title="DEPORTES",DSports + [AR]
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/135644
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN
 http://138.59.177.34:8000/play/a070
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="DEPORTES",ESPN 2
@@ -196,7 +190,7 @@ http://177.234.247.66:8888/play/a07e
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9vDp8N2/tyc-sports.png" group-title="DEPORTES",TyC Sports
 http://177.234.247.66:8888/play/a02v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="DEPORTES",Win
-http://8.242.225.44:8000/play/a0xp
+http://177.234.247.66:8888/play/a00e
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/JmQ37GM/win-sports.png" group-title="DEPORTES",Win+
 http://177.234.247.66:8888/play/a02g
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="ENTRETENIMIENTO",Animal Planet
@@ -251,6 +245,10 @@ http://177.53.155.236:8000/play/a08y
 http://177.53.155.236:8000/play/a03o
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="GENERAL",Pasiones
 http://160.20.165.246:8000/play/a00g
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-novelas-logo.png" group-title="GENERAL",Sony Canal Novelas 1
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-novelas-logo.png" group-title="GENERAL",Sony Canal Novelas 2
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="GENERAL",Telemundo
 http://177.53.155.236:8000/play/a08k
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="GENERAL",Telenovelas
@@ -260,7 +258,7 @@ http://190.61.43.116:45000/play/a06u
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y0wjHYj/universal-reality.png" group-title="GENERAL",Universal Reality
 http://170.254.172.10:8000/play/a04u
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vHym1DG/Baby-First-TV.png" group-title="INFANTIL",Baby First
-http://8.242.225.44:8000/play/a0pr
+http://190.102.139.244:8900/play/a0kr
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="INFANTIL",Baby TV
 http://190.102.139.244:8900/play/a105
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/x5MWPgm/bitme.png" group-title="INFANTIL",BitMe
@@ -282,7 +280,7 @@ http://160.20.165.246:8000/play/a01j
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="INFANTIL",Nickelodeon
 http://190.102.139.244:8900/play/a0k9
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="INFANTIL",Nick JR.
-http://8.242.225.44:8000/play/a0s5
+http://190.102.139.244:8900/play/a0tr
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/VHZkccH/nickmusic.png" group-title="INFANTIL",Nick Music
 http://177.234.247.66:8888/play/a07o
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",NTV
@@ -375,6 +373,8 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="OTROS",Xtrema Terror
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="PELICULAS",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="OTROS",PlayBoy [+18]
 http://138.59.177.34:8000/play/a01r
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="OTROS",Venus [+18]
@@ -387,18 +387,18 @@ http://194.145.202.71:8087/udp/239.254.1.38:6060
 http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-id="bodesponja" tvg-logo="https://seeklogo.com/images/B/bob-esponja-logo-D4EB59C09A-seeklogo.com.png" group-title="24/7",Bod Esponja
 http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/9a/2d/B387VSqA_o.jpg" group-title="24/7",Cartoon Network 1
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/e9/eb/fDYPKKho_o.jpg" group-title="24/7",Cartoonito 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://images2.imgbox.com/5a/43/H8UlX8nb_o.png" group-title="24/7",Cartoon Network 2 
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/c1/fc/5avQ58BR_o.jpg" group-title="24/7",Discovery Kids FreeLive
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 #EXTINF:-1 tvg-id="dragonball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dragonball_Anime-Serie_Original-Logo.svg/1200px-Dragonball_Anime-Serie_Original-Logo.svg.png" group-title="24/7",Dragon Ball
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="elchavodel8" tvg-logo="https://i.ytimg.com/vi/GC-ESkzDa3k/maxresdefault.jpg" group-title="24/7",Chespirito
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/129322
-#EXTINF:-1 tvg-id="elchavodel8" tvg-logo="https://i.pinimg.com/originals/ed/17/a1/ed17a1d2d495053fe1a956bb151a66da.jpg" group-title="24/7",El Chapulin Colorado
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/129323
 #EXTINF:-1 tvg-id="elchavodel8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="24/7",El Chavo del 8
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-#EXTINF:-1 tvg-id="lostreschiflados" tvg-logo="https://i.pinimg.com/736x/39/a3/d2/39a3d2eb67785d8ac663689ac7ac7ba4.jpg" group-title="24/7",Los Caballeros del Zodiaco
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/3397
-#EXTINF:-1 tvg-id="lostreschiflados" tvg-logo="https://i.pinimg.com/736x/0d/0c/47/0d0c47eb1acb3b792794c28ccbd50148.jpg" group-title="24/7",Los 3 Chiflados
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-63 07-11eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="lospicapiedras" tvg-logo="https://assets.stickpng.com/images/59d624663752880e93e16e92.png" group-title="24/7", Los Picapiedras
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 #EXTINF:-1 tvg-id="lospitufos" tvg-logo="https://i.imgur.com/8NsZxiL.png" group-title="24/7",Los Pitufos
@@ -407,11 +407,7 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[%20ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]
 #EXTINF:-1 tvg-id="teletubbies" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/400/1x/cbeebies/teletubbies-logo.png" group-title="24/7",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="rugrats" tvg-logo="https://1000logos.net/wp-content/uploads/2020/11/Rugrats-Logo.png" group-title="24/7",Rugrats
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-63 07-11eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="casocerrado" tvg-logo="https://images.canal1.com.co/wp-content/uploads/2023/06/15154119/Caso-Cerrado.png" group-title="24/7",Caso Cerrado
 https://tinyurl.com/2qf6qovz
 #EXTINF:-1 tvg-id="larosadeguadalupe" tvg-logo="https://www.lared.cl/wp-content/uploads/2014/03/29105710/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="larosadeguadalupe" tvg-logo="https://led.fm/images/led/content/Noticias/Off_Topic/dark.jpg" group-title="24/7",¿Le temes a la oscuridad?
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/129331
