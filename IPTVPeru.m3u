@@ -379,8 +379,32 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="OTROS",Xtrema Terror
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="OTROS",Top Cine
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",Pelis Top
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",Acción
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",Weather Spy
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",Top Free
+https://rakuten-topfree-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",En Familia
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",Cine Real Latam
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/64e5cd00-f2b0-4fc1-8610-871cc37fb3ac/4.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",HorrorFy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/dcd6afb1-16e4-4911-ab17-049c566ce98a/4.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",Top Cine Latam
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/8846edc1-b1f8-4724-b00a-016fd2091b77/4.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",Tu Cine Latam
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/8e4033b2-527d-48d6-adea-c4e8a135013c/4.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",Chiquilines
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/c6b40c7b-8ab3-46ae-965d-21ba61f5d536/4.m3u8
 #EXTINF:-1 tvg-id="ben10" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Ben-10-logo.png" group-title="24/7",Ben 10
 http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-id="bodesponja" tvg-logo="https://seeklogo.com/images/B/bob-esponja-logo-D4EB59C09A-seeklogo.com.png" group-title="24/7",Bod Esponja
