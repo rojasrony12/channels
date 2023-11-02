@@ -221,6 +221,8 @@ http://138.59.177.34:8000/play/a042
 http://190.60.40.37:12500/play/a0al
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="ENTRETENIMIENTO",National Geographic
 http://138.59.177.34:8000/play/a074
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jjkt4Xz/onetoro.png" group-title="ENTRETENIMIENTO",OneToro
+http://livex.pop-app.live/s4n/poplive/ch203/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/bKNxCmf/TruTV.png" group-title="ENTRETENIMIENTO",TruTV
 http://190.60.40.37:12500/play/a00w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="GENERAL",Caracol
@@ -393,6 +395,12 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-topfree-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://assets.stickpng.com/images/62017861f2f75f000484e724.png" group-title="OTROS",En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="OTROS",Planeta TV
+https://scl.edge.grupoz.cl/music/live/chunklist_w577234643.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="OTROS",Planeta TV Family
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w367284506.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="OTROS",Planeta TV Movie
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1025689882.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://public.newsdirect.com/912204711/WbCut3un.png" group-title="OTROS",Cine Real Latam
