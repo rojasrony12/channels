@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV PERUANA",Willax
-http://177.53.155.236:8000/play/a0bk
+http://209.45.81.84:8000/play/a038
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV PERUANA",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="TV PERUANA",RPP 
 http://45.71.252.67:8000/play/a0g8
 #EXTINF:-1 tvg-id="AméricaTV.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV PERUANA",América
-http://177.53.155.236:8000/play/a00q
+http://45.71.252.67:8000/play/a0fe
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV PERUANA",Panamericana
-https://cdn75.iblups.com/hls/stream.m3u8
+http://45.71.252.67:8000/play/a0ff
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV PERUANA",Exitosa
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV PERUANA",TV Perú 
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV PERUANA",TV Perú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="TV PERUANA",Canal N 
 http://45.71.252.67:8000/play/a0fi
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV PERUANA",ATV 
@@ -28,11 +28,11 @@ http://45.71.252.67:8000/play/a0fk
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="TV PERUANA",Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://i.ibb.co/bH2D6pD/tvper-internacional.png" group-title="TV PERUANA",TV Perú Internacional 
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.ibb.co/zmrc4tN/tvper-noticias.png" group-title="TV PERUANA",TV Perú Noticias 
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="TV PERUANA",IPe TV 
-https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+https://d3dg184cfwiwms.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_1.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="TV PERUANA",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="TV PERUANA",JN19 
@@ -102,7 +102,7 @@ http://138.59.177.34:8000/play/a05e
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/DpskS1T/sony-cine.png" group-title="CINEMA",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="CINEMA",Sony Movies
-http://177.53.155.236:8000/play/a08n
+http://45.71.252.67:8000/play/a0ou
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="CINEMA",Star Channel [v1]
 http://45.173.201.6:8000/play/a037
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="CINEMA",Star Channel [v2]
@@ -128,7 +128,7 @@ http://138.59.177.34:8000/play/a07c
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Sd3GBhy/universal-comedy.png" group-title="CINEMA",Universal Comedy
 http://138.59.177.34:8000/play/a05w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/71WjFhg/universal-crime.png" group-title="CINEMA",Universal Crime
-http://170.254.172.10:8000/play/a04v
+http://138.59.177.34:8000/play/a05v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="CINEMA",Universal Premiere
 http://138.59.177.34:8000/play/a05s
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="CINEMA",Warner
@@ -183,8 +183,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 http://181.78.105.146:2000/play/a08m
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="DEPORTES",Tigo Sports [CR]
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HH6D71L/titantv.png" group-title="DEPORTES",Titan
-http://160.20.165.246:8000/play/a01i
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTES",TUDN
 http://181.189.246.86:58004/play/a00m
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="DEPORTES",TNT Sports
@@ -202,7 +200,7 @@ http://138.59.177.34:8000/play/a02z
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="ENTRETENIMIENTO",Discovery Channel
 http://138.59.177.34:8000/play/a077
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="ENTRETENIMIENTO",Discovery H&H
-http://160.20.165.246:8000/play/a013
+http://190.102.139.244:8900/play/a0nd
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="ENTRETENIMIENTO",Discovery ID
 http://190.102.139.244:8900/play/a0n7
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vQxc9s9/discovery-science.png" group-title="ENTRETENIMIENTO",Discovery Science
@@ -226,9 +224,9 @@ http://livex.pop-app.live/s4n/poplive/ch203/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/bKNxCmf/TruTV.png" group-title="ENTRETENIMIENTO",TruTV
 http://190.60.40.37:12500/play/a00w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="GENERAL",Caracol
-http://160.20.165.246:8000/play/a00x
+http://45.71.252.67:8000/play/a0ju
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="GENERAL",CNN Español
-http://177.53.155.236:8000/play/a0aj
+http://45.71.252.67:8000/play/a0m2
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/qBmWFNV/dwespanol.png" group-title="GENERAL",DW
 http://45.169.38.226:8000/play/a02x
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="GENERAL",E!
@@ -238,25 +236,25 @@ http://181.78.75.11:9500/play/ESTRELLASHDDECO
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="GENERAL",Lifetime
 http://181.78.75.11:9500/play/a012
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HT1GLJ5/movistar-plus.png" group-title="GENERAL",Movistar Plus
-http://177.53.155.236:8000/play/a09o
+http://177.234.247.66:8888/play/a06c
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="GENERAL",MTV
-http://177.53.155.236:8000/play/a0a4
+http://45.71.252.67:8000/play/a0m1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="GENERAL",MTV 00s
-http://177.53.155.236:8000/play/a08z
+http://177.234.247.66:8888/play/a00w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/VHGz4zG/MTVlive.png" group-title="GENERAL",MTV Live
-http://177.53.155.236:8000/play/a08y
+http://177.234.247.66:8888/play/a01b
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="GENERAL",Novelas
-http://177.53.155.236:8000/play/a03o
+http://45.71.252.67:8000/play/a0kn
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="GENERAL",Pasiones
-http://160.20.165.246:8000/play/a00g
+http://45.71.252.67:8000/play/a0ke
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-novelas-logo.png" group-title="GENERAL",Sony Canal Novelas 1
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-novelas-logo.png" group-title="GENERAL",Sony Canal Novelas 2
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="GENERAL",Telemundo
-http://177.53.155.236:8000/play/a08k
+http://45.71.252.67:8000/play/a0fr
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="GENERAL",Telenovelas
-http://177.53.155.236:8000/play/a09m
+http://45.71.252.67:8000/play/a0mo
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0QZyym5/tnt-novelas.png" group-title="GENERAL",TNT Novelas
 http://190.61.43.116:45000/play/a06u
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y0wjHYj/universal-reality.png" group-title="GENERAL",Universal Reality
@@ -290,7 +288,7 @@ http://177.234.247.66:8888/play/a07o
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="" group-title="INFANTIL",NTV
 http://190.102.139.244:8900/play/a0nt
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="INFANTIL",TeenNick
-http://177.53.155.236:8000/play/a08e
+http://45.71.252.67:8000/play/a0fm
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/mcfBYrk/zooMoo.png" group-title="INFANTIL",ZOO MOO
 http://160.20.165.246:8000/play/a017
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/xYqBjZF/PlutoTV.png" group-title="OTROS",Cine Estelar [Pluto TV]
