@@ -31,8 +31,8 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.ibb.co/zmrc4tN/tvper-noticias.png" group-title="TV PERUANA",TV Perú Noticias 
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 tvg-id="CanalNazarenasTV.pe" tvg-logo="https://4.bp.blogspot.com/-06nXe-u5XXg/WBONUYmBg4I/AAAAAAAA2CM/KzJlmY3IALsZDbLxnEILsRc-rbkcSMzngCLcB/s640/nazarenas-tv.jpg" group-title="TV PERUANA",Nazarenas TV
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="TV PERUANA",IPe TV 
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="TV PERUANA",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="TV PERUANA",JN19 
@@ -181,11 +181,11 @@ http://45.71.252.67:8000/play/a0jh
 http://177.234.247.66:8888/play/a01d
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="DEPORTES",Fox Sports 3
 http://177.234.247.66:8888/play/a00u
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú HD
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú
 http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="DEPORTES",Gol TV
 http://177.234.247.66:8888/play/a02q
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="DEPORTES",Liga 1 Max HD
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="DEPORTES",Liga 1 Max
 http://209.45.81.84:8000/play/a00c
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg" group-title="DEPORTES",Liga de Campeones
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
@@ -223,6 +223,8 @@ http://177.234.247.66:8888/play/a018
 http://45.71.252.67:8000/play/a0ks
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="ENTRETENIMIENTO",Discovery World
 http://138.59.177.34:8000/play/a078
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="ENTRETENIMIENTO",National Geographic Wild
+http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="ENTRETENIMIENTO",History Channel
 http://138.59.177.34:8000/play/a02s
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="ENTRETENIMIENTO",History 2
