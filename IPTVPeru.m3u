@@ -162,9 +162,11 @@ http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="DEPORTES",Claro Sports 2
 http://138.59.177.34:8000/play/a045
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Dpsp9J9/dsports.png" group-title="DEPORTES",DSports
-http://181.189.246.86:58004/play/a006
+http://tv.soccerplus.link:8000/iptv194/6969/92895
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/WH9t1Vk/directv-sports2.png" group-title="DEPORTES",DSports 2
-http://181.189.246.86:58004/play/a001
+http://tv.soccerplus.link:8000/iptv194/6969/22688
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h96fzRR/directvsports.png" group-title="DEPORTES",DirecTV Sports+
+http://tv.soccerplus.link:8000/iptv194/6969/22103
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN
 http://138.59.177.34:8000/play/a070
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="DEPORTES",ESPN 2
