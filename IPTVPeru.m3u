@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV PERUANA",Willax
-http://209.45.81.84:8000/play/a038
+http://190.119.178.44:8000/play/a03u
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV PERUANA",Latina
-http://209.45.81.84:8000/play/a008
+http://45.71.252.67:8000/play/a0fc
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="TV PERUANA",RPP 
 http://45.71.252.67:8000/play/a0g8
 #EXTINF:-1 tvg-id="AméricaTV.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV PERUANA",América
-http://209.45.81.84:8000/play/a007
+http://45.71.252.67:8000/play/a0fe
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV PERUANA",Panamericana
 http://45.71.252.67:8000/play/a0ff
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV PERUANA",Exitosa
-http://209.45.81.84:8000/play/a035
+http://177.53.153.20:8001/play/a0b3
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV PERUANA",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="TV PERUANA",Canal N 
@@ -26,7 +26,7 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="TV PERUANA",Global
 http://45.71.252.67:8000/play/a0fk
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="TV PERUANA",Karibeña
-http://209.45.81.84:8000/play/a036
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://i.ibb.co/bH2D6pD/tvper-internacional.png" group-title="TV PERUANA",TV Perú Internacional 
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.ibb.co/zmrc4tN/tvper-noticias.png" group-title="TV PERUANA",TV Perú Noticias 
@@ -48,11 +48,11 @@ http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fxCzVc9/cartoonito.png" group-title="INFANTIL",Cartoonito
 http://190.60.40.37:12500/play/a09n
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/rfswZ3H/cartoonnetwork.png" group-title="INFANTIL",Cartoon Network
-http://209.45.81.84:8000/play/a02e
+http://45.71.252.67:8000/play/a0j5
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/gz4t1VH/discovery-kids.png" group-title="INFANTIL",Discovery Kids
 http://160.20.165.246:8000/play/a016
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="INFANTIL",Disney
-http://209.45.81.84:8000/play/a02k
+http://45.71.252.67:8000/play/a0kq
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="INFANTIL",Disney JR.
 http://190.60.40.37:12500/play/a08r
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/XC7yHsw/fmh-kids.png" group-title="INFANTIL",FMH Kids
@@ -60,7 +60,7 @@ http://160.20.165.246:8000/play/a01f
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h2VR5ft/fmh-family.png" group-title="INFANTIL",FMH Family
 http://160.20.165.246:8000/play/a01j
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="INFANTIL",Nickelodeon
-http://209.45.81.84:8000/play/a01v
+http://138.59.177.34:8000/play/a05j
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="INFANTIL",Nick JR.
 http://177.234.247.66:8888/play/a06h
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/VHZkccH/nickmusic.png" group-title="INFANTIL",Nick Music
@@ -187,8 +187,10 @@ http://177.234.247.66:8888/play/a00u
 http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="DEPORTES",Gol TV
 http://177.234.247.66:8888/play/a02q
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/s9hfkLM/liga1.png" group-title="DEPORTES",Liga 1
+http://45.173.201.50:4000/play/a04u
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="DEPORTES",Liga 1 Max
-http://209.45.81.84:8000/play/a00c
+http://45.173.201.50:4000/play/a04t
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg" group-title="DEPORTES",Liga de Campeones
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="DEPORTES",Movistar Deportes
@@ -278,4 +280,4 @@ http://45.71.252.67:8000/play/a0o5
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/d49zSzn/sextreme.png" group-title="[+18]",seXtreme
 http://45.71.252.67:8000/play/a0o6
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/qR14hhS/private.png" group-title="[+18]",Private
-http://194.145.202.71:8087/udp/239.254.1.38:6060
+http://213.186.1.123:8000/XXX%204?u=00:1A:79:20:C8:A3:p=001A7920C8A3
