@@ -201,14 +201,18 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 http://181.78.105.146:2000/play/a08m
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="DEPORTES",Tigo Sports [CR]
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/wJtctLb/tudn.png" group-title="DEPORTES",TUDN
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/wJtctLb/tudn.png" group-title="DEPORTES",TUDN [MX]
 http://181.78.105.146:2000/play/a08j
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/wJtctLb/tudn.png" group-title="DEPORTES",TUDN [US]
+http://tv.soccerplus.link:8000/iptv194/6969/23113
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="DEPORTES",TNT Sports
 http://177.234.247.66:8888/play/a00b
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/48fQhxr/tnt-sports2.png" group-title="DEPORTES",TNT Sports 2
 http://177.234.247.66:8888/play/a07e
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9vDp8N2/tyc-sports.png" group-title="DEPORTES",TyC Sports
 http://177.234.247.66:8888/play/a02v
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9vDp8N2/tyc-sports.png" group-title="DEPORTES",TyC Sports [Internacional]
+http://tv.soccerplus.link:8000/iptv194/6969/31315
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="DEPORTES",Win
 http://177.234.247.66:8888/play/a00e
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/JmQ37GM/win-sports.png" group-title="DEPORTES",Win+
@@ -273,6 +277,120 @@ http://45.71.252.67:8000/play/a0fr
 http://45.71.252.67:8000/play/a0mo
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0QZyym5/tnt-novelas.png" group-title="GENERAL",TNT Novelas
 http://190.61.43.116:45000/play/a06u
+#EXTINF:-1,1000 Maneras de morir group-title="group-title="24/7""
+http://tv.soccerplus.link:8000/iptv194/6969/34964
+#EXTINF:-1,Alf group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/62284
+#EXTINF:-1,Alieniginas Ancentrales group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/46104
+#EXTINF:-1,Baby Looney Tunes group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/64877
+#EXTINF:-1,Barney y sus Amigos group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34965
+#EXTINF:-1,Batman la serie animada  group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23313
+#EXTINF:-1,Bonanza group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/63763
+#EXTINF:-1,Caso Cerrado Inmigracion group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/63100
+#EXTINF:-1,Chapulín Colorado x group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/62431
+#EXTINF:-1,Don Gato y su pandilla group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/65854
+#EXTINF:-1,El auto fantastico (Knigth Rider) group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23318
+#EXTINF:-1,El Chavo Animado group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23307
+#EXTINF:-1,El Chavo del 8 group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23316
+#EXTINF:-1,El laboratorio de Dexter group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/65925
+#EXTINF:-1,El pájaro loco group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/62098
+#EXTINF:-1,El show de los looney toons group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23299
+#EXTINF:-1,Exponiendo Infieles group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/70764
+#EXTINF:-1,Full House group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/63762
+#EXTINF:-1,Garfield y sus Amigos group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23282
+#EXTINF:-1,iCarly group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/62383
+#EXTINF:-1,La casa de Mickey Mouse group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34975
+#EXTINF:-1,La Granja de Zenon group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/61720
+#EXTINF:-1,La Pantera Rosa group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34977
+#EXTINF:-1,Las Aventuras De Silvestre Y Piolín group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/64880
+#EXTINF:-1,Las chicas super poderosa group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34983
+#EXTINF:-1,Las Tortugas Ninja group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/65934
+#EXTINF:-1,Lizzie McGuire group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/65932
+#EXTINF:-1,Lo que callamos las mujeres group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/70760
+#EXTINF:-1,Los caballeros del zodiacoo group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23141
+#EXTINF:-1,Los Locos Addams group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/62264
+#EXTINF:-1,Los Picapiedras group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34318
+#EXTINF:-1,Los Pitufos group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23290
+#EXTINF:-1,Los Rugrats group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34982
+#EXTINF:-1,Los Simpson group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34308
+#EXTINF:-1,Los Supercampeones group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34981
+#EXTINF:-1,Los Supersonicos group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23288
+#EXTINF:-1,Los tres chiflados group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34984
+#EXTINF:-1,MacGyver group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/66836
+#EXTINF:-1,Meteoro group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/66200
+#EXTINF:-1,Mi bella genio group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/62219
+#EXTINF:-1,Mr Bean group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/63096
+#EXTINF:-1,Patoaventuras group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/53178
+#EXTINF:-1,Peppa Pig group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23293
+#EXTINF:-1,Pocoyo group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/61804
+#EXTINF:-1,Popeye el Marino group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/66307
+#EXTINF:-1,Power Rangers group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/61813
+#EXTINF:-1,Rapido y Furioso (Espias a todo gas) group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/46109
+#EXTINF:-1,Scooby Doo group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/23297
+#EXTINF:-1,Spiderman group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34980
+#EXTINF:-1,Timon y Pumba group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/70816
+#EXTINF:-1,Tom y Jerry group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/61750
+#EXTINF:-1,Transformers group-title="24/7" 
+http://tv.soccerplus.link:8000/iptv194/6969/23145
+#EXTINF:-1,Vicky La pequeña maravilla group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/63098
+#EXTINF:-1,Victorious  group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/62357
+#EXTINF:-1,Xena la princesa guerrera group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/34967
+#EXTINF:-1,Zoey 101 group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/89383
+#EXTINF:-1,Accidentes Fatales group-title="24/7"
+http://tv.soccerplus.link:8000/iptv194/6969/22345
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="[+18]",PlayBoy
 http://45.71.252.67:8000/play/a0ov
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="[+18]",Venus
