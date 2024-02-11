@@ -123,7 +123,7 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Vía Altomayo [San Martin]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 group-title="PROVINCIAS",Genios TV (720p) [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Genios TV [San Martin]
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",NorSelva RTV [San Martin]
 https://live.obslivestream.com/norselvatv/index.m3u8
