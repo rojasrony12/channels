@@ -1,155 +1,155 @@
 ﻿#EXTM3U
-#EXTINF:-1,Top Latino [Lima]
+#EXTINF:-1 group-title="LIMA",Top Latino 
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1,RPP [Lima]
+#EXTINF:-1 group-title="LIMA",RPP 
 http://45.71.252.67:8000/play/a0g8
-#EXTINF:-1,Canal N [Lima]
+#EXTINF:-1 group-title="LIMA",Canal N 
 http://45.71.252.67:8000/play/a0fi
-#EXTINF:-1,ATV [Lima]
+#EXTINF:-1 group-title="LIMA",ATV 
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1,ATV+ Noticias [Lima]
+#EXTINF:-1 group-title="LIMA",ATV+ Noticias 
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-#EXTINF:-1,ATV Sur [Lima]
+#EXTINF:-1 group-title="LIMA",ATV Sur 
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
-#EXTINF:-1,Global [Lima]
+#EXTINF:-1 group-title="LIMA",Global 
 http://45.71.252.67:8000/play/a0fk
-#EXTINF:-1,USMPTV [Lima]
+#EXTINF:-1 group-title="LIMA",USMPTV 
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1,JN19 [Lima]
+#EXTINF:-1 group-title="LIMA",JN19 
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1,JN19 TV2 [Lima]
+#EXTINF:-1 group-title="LIMA",JN19 TV2 
 https://servilive.com:3224/live/jn19tv2live.m3u8
-#EXTINF:-1,Nativa [Lima]
+#EXTINF:-1 group-title="LIMA",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1,MINEDU TV 2 [Lima]
+#EXTINF:-1 group-title="LIMA",MINEDU TV 2 
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-#EXTINF:-1,Nazarenas TV [Lima]
+#EXTINF:-1 group-title="LIMA",Nazarenas TV 
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1,Ovacion TV [Lima]
+#EXTINF:-1 group-title="LIMA",Ovacion TV 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,Onda Digital [Lima]
+#EXTINF:-1 group-title="LIMA",Onda Digital 
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1,La Luz TV [Lima]
+#EXTINF:-1 group-title="LIMA",La Luz TV 
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-#EXTINF:-1,USIL TV [Lima]
+#EXTINF:-1 group-title="LIMA",USIL TV 
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:-1,BHTV [Lima]
+#EXTINF:-1 group-title="LIMA",BHTV 
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,Conecta2TV [Lima]
+#EXTINF:-1 group-title="LIMA",Conecta2TV 
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1,Intuitiva TV [Lima]
+#EXTINF:-1 group-title="LIMA",Intuitiva TV 
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1,LimaLive [Lima]
+#EXTINF:-1 group-title="LIMA",LimaLive 
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
-#EXTINF:-1,Doble C Televisión [Lima]
+#EXTINF:-1 group-title="LIMA",Doble C Televisión 
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1,Identidad TV [Lima]
+#EXTINF:-1 group-title="LIMA",Identidad TV 
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:-1,MaticesTV [Lima]
+#EXTINF:-1 group-title="LIMA",MaticesTV 
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
-#EXTINF:-1,RCR TV [Lima]
+#EXTINF:-1 group-title="LIMA",RCR TV 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1,Región TV Callao [Lima]
+#EXTINF:-1 group-title="LIMA",Región TV Callao 
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1,San Borja TV [Lima]
+#EXTINF:-1 group-title="LIMA",San Borja TV 
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1,Nova TV Star [Amazonas]
+#EXTINF:-1 group-title="PROVINCIAS",Nova TV Star [Amazonas]
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1,Quassar TV [Ancash]
+#EXTINF:-1 group-title="PROVINCIAS",Quassar TV [Ancash]
 https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:-1,Impacto TV [Ancash]
+#EXTINF:-1 group-title="PROVINCIAS",Impacto TV [Ancash]
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1,ATM Televisión [Apurimac]
+#EXTINF:-1 group-title="PROVINCIAS",ATM Televisión [Apurimac]
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1,Telesur Camana [Arequipa]
+#EXTINF:-1 group-title="PROVINCIAS",Telesur Camana [Arequipa]
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1,Mega TV [Arequipa]
+#EXTINF:-1 group-title="PROVINCIAS",Mega TV [Arequipa]
 https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1,Controversia TV [Arequipa]
+#EXTINF:-1 group-title="PROVINCIAS",Controversia TV [Arequipa]
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1,Visión Sur TV [Arequipa]
+#EXTINF:-1 group-title="PROVINCIAS",Visión Sur TV [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1,Canal 33 [Ayacucho]
+#EXTINF:-1 group-title="PROVINCIAS",Canal 33 [Ayacucho]
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
-#EXTINF:-1,Agro TV [Apurimac]
+#EXTINF:-1 group-title="PROVINCIAS",Agro TV [Apurimac]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1,Turbo Mix Radio TV [Cajamarca]
+#EXTINF:-1 group-title="PROVINCIAS",Turbo Mix Radio TV [Cajamarca]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1,DMJ [Cusco]
+#EXTINF:-1 group-title="PROVINCIAS",DMJ [Cusco]
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1,QT Televisión [Cusco]
+#EXTINF:-1 group-title="PROVINCIAS",QT Televisión [Cusco]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1,TV Sistemas Cusco [Cusco]
+#EXTINF:-1 group-title="PROVINCIAS",TV Sistemas Cusco [Cusco]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1,TVenLinea [Cusco]
+#EXTINF:-1 group-title="PROVINCIAS",TVenLinea [Cusco]
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1,Unitel TV [Junin]
+#EXTINF:-1 group-title="PROVINCIAS",Unitel TV [Junin]
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1,Miel TV [Junin]
+#EXTINF:-1 group-title="PROVINCIAS",Miel TV [Junin]
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1,Nativa TV Satipo [Junin]
+#EXTINF:-1 group-title="PROVINCIAS",Nativa TV Satipo [Junin]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1,Oasis RTV [La Libertad]
+#EXTINF:-1 group-title="PROVINCIAS",Oasis RTV [La Libertad]
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1,Sol Televisión [La Libertad]
+#EXTINF:-1 group-title="PROVINCIAS",Sol Televisión [La Libertad]
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1,Viva TV Yurimaguas [Loreto]
+#EXTINF:-1 group-title="PROVINCIAS",Viva TV Yurimaguas [Loreto]
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1,Doble AA [Loreto]
+#EXTINF:-1 group-title="PROVINCIAS",Doble AA [Loreto]
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1,Uranio TV (Yurimaguas) [Loreto]
+#EXTINF:-1 group-title="PROVINCIAS",Uranio TV (Yurimaguas) [Loreto]
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1,RTV Total Yurimaguas [Loreto]
+#EXTINF:-1 group-title="PROVINCIAS",RTV Total Yurimaguas [Loreto]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1,Super Canal Yurimaguas [Loreto]
+#EXTINF:-1 group-title="PROVINCIAS",Super Canal Yurimaguas [Loreto]
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1,Telecolor Yurimaguas [Loreto]
+#EXTINF:-1 group-title="PROVINCIAS",Telecolor Yurimaguas [Loreto]
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1,Telesur Ilo [Moquegua]
+#EXTINF:-1 group-title="PROVINCIAS",Telesur Ilo [Moquegua]
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1,Telesur Moquegua [Moquegua]
+#EXTINF:-1 group-title="PROVINCIAS",Telesur Moquegua [Moquegua]
 https://1667517699.rsc.cdn77.org/hls/Moquegua.m3u8
-#EXTINF:-1,Canal 8 Catacaos [Piura]
+#EXTINF:-1 group-title="PROVINCIAS",Canal 8 Catacaos [Piura]
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1,Planeta TV [Puno]
+#EXTINF:-1 group-title="PROVINCIAS",Planeta TV [Puno]
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1,Antares Televisión [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Antares Televisión [San Martin]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1,Auténtica Televisión [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Auténtica Televisión [San Martin]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1,CR Televisión Moyobamba [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",CR Televisión Moyobamba [San Martin]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1,Cumo TV [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Cumo TV [San Martin]
 https://live.obslivestream.com/cumo/index.m3u8
-#EXTINF:-1,Vía Altomayo [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Vía Altomayo [San Martin]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1,Genios TV (720p) [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Genios TV (720p) [San Martin]
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1,NorSelva RTV [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",NorSelva RTV [San Martin]
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1,Tropical TV [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Tropical TV [San Martin]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1,SanjuaneraTV [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",SanjuaneraTV [San Martin]
 https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1,Televisión Tarapoto [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",Televisión Tarapoto [San Martin]
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:-1,Telesur Tacna [Tacna]
+#EXTINF:-1 group-title="PROVINCIAS",Telesur Tacna [Tacna]
 https://1667517699.rsc.cdn77.org/hls/Tacna.m3u8
-#EXTINF:-1,Tumpis TV [Tumbes]
+#EXTINF:-1 group-title="PROVINCIAS",Tumpis TV [Tumbes]
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1,Hechicera TV [Tumbes]
+#EXTINF:-1 group-title="PROVINCIAS",Hechicera TV [Tumbes]
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1,La Ribereña [Ucayali]
+#EXTINF:-1 group-title="PROVINCIAS",La Ribereña [Ucayali]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1,RT Noticias [Online]
+#EXTINF:-1 group-title="ONLINE",RT Noticias 
 https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
-#EXTINF:-1,TVOne [Online]
+#EXTINF:-1 group-title="ONLINE",TVOne 
 https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1,Top FM TV [Online]
+#EXTINF:-1 group-title="ONLINE",Top FM TV 
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1,TV Cosmos [Online]
+#EXTINF:-1 group-title="ONLINE",TV Cosmos 
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1,Bella Asunción TV [Online]
+#EXTINF:-1 group-title="ONLINE",Bella Asunción TV 
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1,Hoynet [Online]
+#EXTINF:-1 group-title="ONLINE",Hoynet 
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
