@@ -1,8 +1,24 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="LIMA",Willax Televisión
+https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 group-title="LIMA",Latina Televisión
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 group-title="LIMA",Top Latino 
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",RPP 
 http://45.71.252.67:8000/play/a0g8
+#EXTINF:-1 group-title="LIMA",America Televisión
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 group-title="LIMA",Panamericana Televisión
+https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 group-title="LIMA",Exitosa Televisión
+https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 group-title="LIMA",TV Perú
+https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 group-title="LIMA",TV Perú Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 group-title="LIMA",TV Perú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 group-title="LIMA",Canal N 
 http://45.71.252.67:8000/play/a0fi
 #EXTINF:-1 group-title="LIMA",ATV 
@@ -37,6 +53,8 @@ https://per01-lim01.servidor.stream/usiltv/index.m3u8
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Conecta2TV 
 https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 group-title="LIMA",Conectad2 Televisión
+https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 group-title="LIMA",Intuitiva TV 
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 group-title="LIMA",LimaLive 
@@ -53,6 +71,10 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 group-title="LIMA",San Borja TV 
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="LIMA",FUNBOX
+https://live-zlr1.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 group-title="LIMA",VMLatino
+https://live-zlr1.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 group-title="PROVINCIAS",Nova TV Star [Amazonas]
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Quassar TV [Ancash]
@@ -153,6 +175,182 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 group-title="ONLINE",Hoynet 
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:0 group-title="PREMIUM v1",A&E
+http://167.114.156.136:25461/INFINITV/ZX89NM22/178
+#EXTINF:0 group-title="PREMIUM v1",A+
+http://167.114.156.136:25461/INFINITV/ZX89NM22/113
+#EXTINF:0 group-title="PREMIUM v1",Animal Planet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/75
+#EXTINF:0 group-title="PREMIUM v1",AZ Corazon
+http://167.114.156.136:25461/INFINITV/ZX89NM22/117
+#EXTINF:0 group-title="PREMIUM v1",Azteca Uno
+http://167.114.156.136:25461/INFINITV/ZX89NM22/82
+#EXTINF:0 group-title="PREMIUM v1",Baby First
+http://167.114.156.136:25461/INFINITV/ZX89NM22/150
+#EXTINF:0 group-title="PREMIUM v1",Baby TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/60
+#EXTINF:0 group-title="PREMIUM v1",CO: Caracol
+http://167.114.156.136:25461/INFINITV/ZX89NM22/157
+#EXTINF:0 group-title="PREMIUM v1",CO: Caracol Op2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/226
+#EXTINF:0 group-title="PREMIUM v1",DAZN 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/205
+#EXTINF:0 group-title="PREMIUM v1",Discovery Kids
+http://167.114.156.136:25461/INFINITV/ZX89NM22/210
+#EXTINF:0 group-title="PREMIUM v1",Discovery Science
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+#EXTINF:0 group-title="PREMIUM v1",Discovery TLC
+http://167.114.156.136:25461/INFINITV/ZX89NM22/124
+#EXTINF:0 group-title="PREMIUM v1",Dicovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+#EXTINF:0 group-title="PREMIUM v1",Discovery Turbo OP2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/229
+#EXTINF:0 group-title="PREMIUM v1",El Gourmet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219
+#EXTINF:0 group-title="PREMIUM v1",ES: Antena 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/96
+#EXTINF:0 group-title="PREMIUM v1",ES: Movistar Drama
+http://167.114.156.136:25461/INFINITV/ZX89NM22/146
+#EXTINF:0 group-title="PREMIUM v1",FX 
+http://167.114.156.136:25461/INFINITV/ZX89NM22/70
+#EXTINF:0 group-title="PREMIUM v1",Garage TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/184
+#EXTINF:0 group-title="PREMIUM v1",Golden
+http://167.114.156.136:25461/INFINITV/ZX89NM22/181
+#EXTINF:0 group-title="PREMIUM v1",Investigation Discovery
+http://167.114.156.136:25461/INFINITV/ZX89NM22/220
+#EXTINF:0 group-title="PREMIUM v1",Milenio TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/88
+#EXTINF:0 group-title="PREMIUM v1",MTV Hits
+http://167.114.156.136:25461/INFINITV/ZX89NM22/94
+#EXTINF:0 group-title="PREMIUM v1",MTV Live
+http://167.114.156.136:25461/INFINITV/ZX89NM22/108
+#EXTINF:0 group-title="PREMIUM v1",Multimedios MTY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/89
+#EXTINF:0 group-title="PREMIUM v1",Nick Jr
+http://167.114.156.136:25461/INFINITV/ZX89NM22/64
+#EXTINF:0 group-title="PREMIUM v1",Once TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/111
+#EXTINF:0 group-title="PREMIUM v1",Sony
+http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+#EXTINF:0 group-title="PREMIUM v1",SYFY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+#EXTINF:0 group-title="PREMIUM v1",Telecinco
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
+#EXTINF:0 group-title="PREMIUM v1",Telemundo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/155
+#EXTINF:0 group-title="PREMIUM v1",TNT
+http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+#EXTINF:0 group-title="PREMIUM v1",Warner Channel
+http://167.114.156.136:25461/INFINITV/ZX89NM22/59
+#EXTINF:0 group-title="PREMIUM v1",ABC News
+http://167.114.156.136:25461/INFINITV/ZX89NM22/110
+#EXTINF:0 group-title="PREMIUM v1",ABC (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/159
+#EXTINF:0 group-title="PREMIUM v1",BBC America (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/166
+#EXTINF:0 group-title="PREMIUM v1",Bravo (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/192
+#EXTINF:0 group-title="PREMIUM v1",CBS Sports Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/161
+#EXTINF:0 group-title="PREMIUM v1",Galavision |ES (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/174
+#EXTINF:0 group-title="PREMIUM v1",HBO 2 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/223
+#EXTINF:0 group-title="PREMIUM v1",Lifetime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/193
+#EXTINF:0 group-title="PREMIUM v1",MLB NETWORK (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/188
+#EXTINF:0 group-title="PREMIUM v1",NBC NY |ES (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/164
+#EXTINF:0 group-title="PREMIUM v1",NBC Universo |ES (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/165
+#EXTINF:0 group-title="PREMIUM v1",Showtime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/189
+#EXTINF:0 group-title="PREMIUM v1",Starz |ES (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/190
+#EXTINF:0 group-title="PREMIUM v1",Tennis Channel (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/171
+#EXTINF:0 group-title="PREMIUM v1",TNT (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/172
+#EXTINF:0 group-title="PREMIUM v1",USA Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/191
+#EXTINF:0 group-title="PREMIUM v1",WWE network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/209
+#EXTINF:0 group-title="PREMIUM v1",+18: Blue Hustler
+http://167.114.156.136:25461/INFINITV/ZX89NM22/199
+#EXTINF:24 group-title="PREMIUM v2",Afizzionados
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Animal Planet
+http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Antena 3
+http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
+#EXTINF:23 group-title="PREMIUM v2",BitMe
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Caracol TV
+http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
+#EXTINF:30 group-title="PREMIUM v2",Corazón
+http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
+#EXTINF:25 group-title="PREMIUM v2",Discovery ID
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Discovery turbo
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",ESPN
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",ESPN 2
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",ESPN Deportes
+http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Fox Deportes
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",FOX Sport 1
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",FOX Sport 2
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",FOX Sport 3
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:23 group-title="PREMIUM v2",FX
+http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
+#EXTINF:0 group-title="PREMIUM v2",GOL TV
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Golden Plus
+http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",H&H
+http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",HBO +
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",HBO Family
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",HBO Family
+http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",HBO Signature
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",History
+http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",MAS CHIC
+http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
+#EXTINF:25 group-title="PREMIUM v2",Movistar Terror
+http://livex.pop-app.live/s4n/poplive/ch553/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",National Geographic
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
+#EXTINF:36 group-title="PREMIUM v2",National Geographic Wild
+http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Nickelodeon
+http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Sky Sports
+http://livex.pop-app.live/s4n/poplive/ch900/playlist.m3u8
+#EXTINF:0 group-title="PREMIUM v2",Sony Channel
+http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
+#EXTINF:0 group-title="PREMIUM v2",Telemundo
+http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",TLC
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",TNT SERIES
+http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+#EXTINF:24 group-title="PREMIUM v2",Univision
+http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:0 group-title="PREMIUM v2",Win Sports
+http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Estelar 
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
 #EXTINF:-1 group-title="PLUTO TV",Cine Acción 
@@ -749,81 +947,57 @@ http://vod.tuxchannel.mx/peliculas/720/xxx%20estado%20de%20emergencia.mkv
 http://vod.tuxchannel.mx/peliculas/720/xxx%20return%20of%20xander%20cage.mkv
 #EXTINF:-1 group-title="PELICULAS",Éxodo: La última marea (2021)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/632207f97af62_46ELUMNumeo4k_D.mp4
-#EXTINF:-1 group-title="ADULTOS",Anal
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="ADULTOS",Asian
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="ADULTOS",Big Ass
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="ADULTOS",Big Dick
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="ADULTOS",Big Tits
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="ADULTOS",Blonde
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="ADULTOS",Blowjob
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="ADULTOS",Brunette
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="ADULTOS",Compilation
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="ADULTOS",Cuckold
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="ADULTOS",Fetish
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="ADULTOS",Gangbang
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="ADULTOS",Gay
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Gay
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="ADULTOS",Hardcore
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="ADULTOS",Interracial
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="ADULTOS",Latina
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="ADULTOS",Lesbian
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="ADULTOS",Live Cams
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="ADULTOS",MILF
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="ADULTOS",Pornstar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="ADULTOS",POV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="ADULTOS",Rough
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="ADULTOS",Russian
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="ADULTOS",Teen
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="ADULTOS",Threesome
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="ADULTOS",Woman
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="VOD +18",Woman
 http://live.redtraffic.net/woman.m3u8
+
+
