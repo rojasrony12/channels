@@ -29,6 +29,10 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Global 
 http://45.71.252.67:8000/play/a0fk
+#EXTINF:-1 group-title="LIMA",Gol Perú 
+http://45.71.252.67:8000/play/a0o1
+#EXTINF:-1 group-title="LIMA",Movistar Deportes
+http://45.71.252.67:8000/play/a0o2
 #EXTINF:-1 group-title="LIMA",USMPTV 
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="LIMA",JN19 
@@ -37,8 +41,14 @@ https://servilive.com:3028/live/jntv19live.m3u8
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 group-title="LIMA",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 group-title="LIMA",MINEDU TV 1 
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",MINEDU TV 2 
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF:-1 group-title="LIMA",MINEDU TV 3 
+http://iptv.perueduca.pe:1935/canal3/canal33/playlist.m3u8
+#EXTINF:-1 group-title="LIMA",MINEDU TV 4
+http://iptv.perueduca.pe:1935/canal4/canal44/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Nazarenas TV 
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Ovacion TV 
@@ -115,18 +125,24 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Sol Televisión [La Libertad]
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 group-title="PROVINCIAS",Viva TV Yurimaguas [Loreto]
-https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Doble AA [Loreto]
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1 group-title="PROVINCIAS",Uranio TV (Yurimaguas) [Loreto]
-https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Nova TV Star [Loreto]
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Radio Televisión Oriente [Loreto]
+https://live.obslivestream.com/tvoriente/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",RN Televisión [Loreto]
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",RTV Total Yurimaguas [Loreto]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Super Canal Yurimaguas [Loreto]
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 group-title="PROVINCIAS",Telecolor Yurimaguas [Loreto]
+#EXTINF:-1 group-title="PROVINCIAS",Telecolor [Loreto]
 https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Uranio TV [Loreto]
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Viva TV Yurimaguas [Loreto]
+https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Telesur Ilo [Moquegua]
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Telesur Moquegua [Moquegua]
@@ -135,34 +151,68 @@ https://1667517699.rsc.cdn77.org/hls/Moquegua.m3u8
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Planeta TV [Puno]
 https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Auténtica Televisión [San Martin]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Antares Televisión [San Martin]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Auténtica Televisión [San Martin]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 group-title="PROVINCIAS",CR Televisión Moyobamba [San Martin]
+#EXTINF:-1 group-title="PROVINCIAS",CR Televisión [San Martin]
 https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Contacto TV [San Martin]
+https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
 #EXTINF:-1 group-title="PROVINCIAS",Cumo TV [San Martin]
 https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Vía Altomayo [San Martin]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Genios TV [San Martin]
 https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Master Televisión [San Martin]
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Mas 1 Televisión [San Martin]
+https://live.obslivestream.com/mas1/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Millenium TV  [San Martin]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",NorSelva RTV [San Martin]
 https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Planeta TV [San Martin]
+https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Tropical TV [San Martin]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Radio Selva Televisión [San Martin]
+https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",SanjuaneraTV [San Martin]
 https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Studio TV [San Martin]
+https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Televisión Tarapoto [San Martin]
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+https://ott1.hdlatam.tv/live_abr/webtvtarapotoPe/playlist.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",TV Juanjui [San Martin]
+https://tv1.mediacp.eu:3573/live/qpufhwtflive.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Vinilos TV [San Martin]
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Vía Televisión [San Martin]
+https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",VZ Televisión [San Martin]
+https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",W Televisión [San Martin]
+https://live.obslivestream.com/wtv/index.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Telesur Tacna [Tacna]
 https://1667517699.rsc.cdn77.org/hls/Tacna.m3u8
-#EXTINF:-1 group-title="PROVINCIAS",Tumpis TV [Tumbes]
+#EXTINF:-1 group-title="PROVINCIAS",Tumpes TV [Tumbes]
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Hechicera TV [Tumbes]
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 group-title="PROVINCIAS",La Ribereña [Ucayali]
-https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",BNB Digital TV [Ucayali]
+https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Oriental TV [Ucayali]
+https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Ribereña TV [Ucayali]
+https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Top TV [Ucayali]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 group-title="PROVINCIAS",Ucayali TV [Ucayali]
+http://stream.fuegoplayer.com/ucayalitv/index.m3u8
 #EXTINF:-1 group-title="ONLINE",RT Noticias 
 https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
 #EXTINF:-1 group-title="ONLINE",TVOne 
@@ -591,7 +641,7 @@ http://vod.tuxchannel.mx/peliculas/720/el%20pacto.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv
 #EXTINF:-1 group-title="PELICULAS",El rito (2011)
 http://vod.tuxchannel.mx/peliculas/720/el%20rito.mkv
-#EXTINF:-1 group-title="PELICULAS",El violín de mi padre ( 2022)
+#EXTINF:-1 group-title="PELICULAS",El violín de mi padre (2022)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20El%20Viol%C3%ADn%20de%20mi%20Padre%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 #EXTINF:-1 group-title="PELICULAS",El ático (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20disappointments%20room.mkv
@@ -673,8 +723,6 @@ http://vod.tuxchannel.mx/peliculas/720/kong%20skull%20island.mkv
 https://d1yei2z3i6k35z.cloudfront.net/2102480/631b7efe50c38_96BSTNumero4k_A.mp4
 #EXTINF:-1 group-title="PELICULAS",La casa de las flores: la película (2021)
 http://vod.tuxchannel.mx/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
-#EXTINF:-1 group-title="PELICULAS",LA CASA DEL DRAGON
-https://d1yei2z3i6k35z.cloudfront.net/2102480/6313eba9b6c00_1x1LCDDNUMERO4K_a.mp4
 #EXTINF:-1 group-title="PELICULAS",La crucifixión (2017)
 http://vod.tuxchannel.mx/peliculas/720/crucifixion.mkv
 #EXTINF:-1 group-title="PELICULAS",La cura siniestra (2016)
@@ -843,9 +891,9 @@ http://vod.tuxchannel.mx/peliculas/720/robocop%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/robocop%202014.mkv
 #EXTINF:-1 group-title="PELICULAS",Rosalina (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f09af86ee3_50RSLNNumero4k_R.mp4
-#EXTINF:-1 group-title="PELICULAS",Rápidos y furiosos 9 (2021) )
+#EXTINF:-1 group-title="PELICULAS",Rápidos y furiosos 9 (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2FRapido%20y%20Furioso%209%20(2021)%20LAT.mp4
-#EXTINF:8013,Rápidos y furiosos 10 (2023 )
+#EXTINF:8013,Rápidos y furiosos 10 (2023)
 https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4
 #EXTINF:-1 group-title="PELICULAS",Sangre por sangre (1993)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Sangre%20por%20sangre%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
