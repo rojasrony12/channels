@@ -253,9 +253,9 @@ http://138.59.177.34:8000/play/a05q
 http://45.71.252.67:8000/play/a0kn
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="GENERAL",Pasiones
 http://45.71.252.67:8000/play/a0ke
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-novelas-logo.png" group-title="GENERAL",Sony Canal Novelas 1
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="GENERAL",Sony Canal Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-novelas-logo.png" group-title="GENERAL",Sony Canal Novelas 2
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="GENERAL",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="GENERAL",Telemundo
 http://45.71.252.67:8000/play/a0fr
