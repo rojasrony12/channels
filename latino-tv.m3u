@@ -75,6 +75,12 @@ http://138.59.177.34:8000/play/a033
 http://138.59.177.34:8000/play/a06w
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="CINEMA",Cinecanal
 http://138.59.177.34:8000/play/a05f
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0KBbXVT/cine-familiar.png" group-title="CINEMA",Cine Familiar
+http://191.97.60.193:10000/play/a02w
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Y8R4q3q/cine-hispano.png" group-title="CINEMA",Cine Hispano
+http://191.97.60.193:10000/play/a02x
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/ZW4R6qC/cine-premium.png" group-title="CINEMA",Cine Premium
+http://191.97.60.193:10000/play/a02k
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/RT3DhX7/cinelatino.png" group-title="CINEMA",Cinelatino
 http://138.59.177.34:8000/play/a06p
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jkfZ903/cinemax.png" group-title="CINEMA",Cinemax
