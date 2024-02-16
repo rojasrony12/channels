@@ -186,11 +186,11 @@ http://138.59.177.34:8000/play/a02t
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="DEPORTES",ESPN Premium
 http://190.61.55.186:1010/play/a019
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="DEPORTES",Fox Sports 1
-http://45.71.252.67:8000/play/a0jh
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="DEPORTES",Fox Sports 2
-http://177.234.247.66:8888/play/a01d
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="DEPORTES",Fox Sports 3
-http://177.234.247.66:8888/play/a00u
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú
 http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="DEPORTES",Gol TV
