@@ -223,6 +223,8 @@ http://177.234.247.66:8888/play/a00e
 http://177.234.247.66:8888/play/a02g
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="ENTRETENIMIENTO",Animal Planet
 http://138.59.177.34:8000/play/a02z
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/GdyVS4c/atlas.png" group-title="ENTRETENIMIENTO",Atlas
+http://191.97.60.193:10000/play/a02o
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="ENTRETENIMIENTO",Discovery Channel
 http://138.59.177.34:8000/play/a077
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="ENTRETENIMIENTO",Discovery H&H
