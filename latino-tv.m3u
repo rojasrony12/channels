@@ -167,14 +167,20 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="DEPORTES",Claro Sports 2
 http://138.59.177.34:8000/play/a045
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN
-http://138.59.177.34:8000/play/a070
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN [AR]
+http://190.90.154.73:8080/play/a012
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN [CO]
+http://190.90.154.73:8080/play/a0a4
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN [CH]
+http://190.90.154.73:8080/play/a02y
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="DEPORTES",ESPN [PE]
+http://190.90.154.73:8080/play/a0a2
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="DEPORTES",ESPN 2
-http://138.59.177.34:8000/play/a072
+http://190.90.154.73:8080/play/a00y
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="DEPORTES",ESPN 3
-http://138.59.177.34:8000/play/a071
+http://190.90.154.73:8080/play/a01x
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="DEPORTES",ESPN 4
-http://138.59.177.34:8000/play/a06v
+http://190.90.154.73:8080/play/a02s
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="DEPORTES",ESPN 5
 http://190.90.154.73:8080/play/a02s
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="DEPORTES",ESPN 6
