@@ -39,6 +39,8 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV PERUANA",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/bXzTMzH/adult-swim.png" group-title="INFANTIL",Adult Swim
+http://190.90.154.73:8080/play/a025
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vHym1DG/Baby-First-TV.png" group-title="INFANTIL",Baby First
 http://138.59.177.34:8000/play/a03y
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="INFANTIL",Baby TV
@@ -173,8 +175,16 @@ http://138.59.177.34:8000/play/a072
 http://138.59.177.34:8000/play/a071
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="DEPORTES",ESPN 4
 http://138.59.177.34:8000/play/a06v
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="DEPORTES",ESPN 5
+http://190.90.154.73:8080/play/a02s
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="DEPORTES",ESPN 6
+http://190.90.154.73:8080/play/a01y
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="DEPORTES",ESPN 7
+http://190.90.154.73:8080/play/a02t
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TgQ1VCC/espn-extra.png" group-title="DEPORTES",ESPN Extra
 http://138.59.177.34:8000/play/a02t
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="DEPORTES",ESPN Premium
+http://190.61.55.186:1010/play/a019
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="DEPORTES",Fox Sports 1
 http://45.71.252.67:8000/play/a0jh
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="DEPORTES",Fox Sports 2
