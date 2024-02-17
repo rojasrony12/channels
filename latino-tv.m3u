@@ -218,7 +218,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES",Sky Sports
 http://181.78.105.146:2000/play/a08m
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="DEPORTES",Tigo Sports [CR]
+http://138.59.177.34:8000/play/a05i
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="DEPORTES",Tigo Sports [GUA]
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/HH6D71L/titantv.png" group-title="DEPORTES",Titan
+http://191.97.60.193:10000/play/a04d/
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/wJtctLb/tudn.png" group-title="DEPORTES",TUDN [MX]
 http://181.78.105.146:2000/play/a08j
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="DEPORTES",TNT Sports
@@ -275,6 +279,8 @@ http://177.234.247.66:8888/play/a06c
 http://45.71.252.67:8000/play/a0m1
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="GENERAL",MTV 00s
 http://177.234.247.66:8888/play/a00w
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jTVxnjF/mtv80s.png" group-title="GENERAL",MTV 80s
+http://138.59.177.34:8000/play/a02j
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/VHGz4zG/MTVlive.png" group-title="GENERAL",MTV Live
 http://138.59.177.34:8000/play/a05q
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="GENERAL",Novelas
