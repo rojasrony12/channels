@@ -45,6 +45,8 @@ http://190.90.154.73:8080/play/a025
 http://138.59.177.34:8000/play/a03y
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="INFANTIL",Baby TV
 http://190.60.40.37:12500/play/a01s
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/x5MWPgm/bitme.png" group-title="INFANTIL",bitMe
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/fxCzVc9/cartoonito.png" group-title="INFANTIL",Cartoonito
 http://190.60.40.37:12500/play/a09n
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/rfswZ3H/cartoonnetwork.png" group-title="INFANTIL",Cartoon Network
