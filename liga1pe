@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="DEPORTES",Liga 1 Max
 https://nxt.plus:8443/pepespain/rytryrtytrytry/169426
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú
-http://45.71.252.67:8000/play/a0o1/index.m3u8&output=mpegts
+http://45.71.252.67:8000/play/a0o1
