@@ -67,6 +67,8 @@ http://177.234.247.66:8888/play/a06h
 http://177.234.247.66:8888/play/a07o
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="INFANTIL",TeenNick
 http://45.71.252.67:8000/play/a0fm
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/jy4xxv3/tooncast.png" group-title="INFANTIL",Tooncast
+http://138.59.177.34:8000/play/a04x
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/mcfBYrk/zooMoo.png" group-title="INFANTIL",ZOO MOO
 http://160.20.165.246:8000/play/a017
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="CINEMA",A&E
