@@ -395,66 +395,78 @@ http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
 #EXTINF:0 group-title="PREMIUM v2",Win Sports
 http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Estelar 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 group-title="PLUTO TV",Cine Estelar
+https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Acción 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Estrellas en Accion 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Adrenalina Freezone 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Comedia 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Drama 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Romance 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Suspenso
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Crimen 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Terror 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Sci-Fi 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Runtime 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62c5d80dc6de440007e033eblivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Filmstream 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Nuestro Cine 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Clasico 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Familia 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 group-title="PLUTO TV",Paramount+ 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO TV",Service
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/60492a1e6361250007679665/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Series Latinas
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",911
+https://r.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Misterios medicos
+https://r.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Misterios
+https://r.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Historias de Ultratumba 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 group-title="PLUTO TV",Macgyver 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Cazadores de ovnis
+https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Misterios sin Resolver 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Empeños a lo bestias 
+https://r.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",El encantador de perros
+https://r.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Macgyver 
+https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Hechizada
+https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Los 3 Chiflados
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Sin Tetas no hay Paraiso 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Nickelodeon 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Nick Clasico 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Nick Teen 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",ICarly 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Super Campeones 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Rugrats 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Retro Cartoons 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 group-title="PELICULAS",1922 (2017)
 http://vod.tuxchannel.mx/peliculas/720/1922.mkv
 #EXTINF:-1 group-title="PELICULAS",2001: odisea del espacio (1968)
