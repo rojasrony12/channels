@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿﻿#EXTM3U
 #EXTINF:-1 group-title="LIMA",Willax Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 group-title="LIMA",Latina Televisión
@@ -531,7 +531,7 @@ http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
 #EXTINF:0 group-title="PREMIUM v3",Sin Señal
 http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",XXX
+#EXTINF:0 group-title="PREMIUM v3",Venus
 http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Estelar
 https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
@@ -1139,63 +1139,3 @@ http://vod.tuxchannel.mx/peliculas/720/xxx%20estado%20de%20emergencia.mkv
 http://vod.tuxchannel.mx/peliculas/720/xxx%20return%20of%20xander%20cage.mkv
 #EXTINF:-1 group-title="PELICULAS",Éxodo: La última marea (2021)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/632207f97af62_46ELUMNumeo4k_D.mp4
-#EXTINF:-1 group-title="VOD +18",FAPADOO.COM
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1 group-title="VOD +18",RalityJunKies.com
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 group-title="VOD +18",Deeper.com
-http://23.237.100.82:8000/BRAZZERS/index.m3u8
-#EXTINF:-1 group-title="VOD +18",PRIVATE.COM
-http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1 group-title="VOD +18",Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="VOD +18",Asian
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="VOD +18",Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="VOD +18",Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="VOD +18",Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="VOD +18",Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="VOD +18",Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="VOD +18",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="VOD +18",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="VOD +18",Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="VOD +18",Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="VOD +18",Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="VOD +18",Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="VOD +18",Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="VOD +18",Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="VOD +18",Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="VOD +18",Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="VOD +18",Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="VOD +18",MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="VOD +18",Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="VOD +18",POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="VOD +18",Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="VOD +18",Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="VOD +18",Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="VOD +18",Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="VOD +18",Woman
-http://live.redtraffic.net/woman.m3u8
