@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Bantel tv+", Willax
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Willax
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Bantel tv+", Latina Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Latina Televisión
 http://bantel.iptvperu.tv:1935/prueba/latinamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="Bantel tv+", Top Latino TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Top Latino TV
 http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Bantel tv+", América Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", América Televisión
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="Bantel tv+", Panamericana Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Panamericana Televisión
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="Bantel tv+", Exitosa Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Exitosa Televisión
 http://bantel.iptvperu.tv:1935/transcoderip/exitosamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="Bantel tv+", TV Perú
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", TV Perú
 http://bantel.iptvperu.tv:1935/transcoderip/tvperumovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="Bantel tv+", ATV +
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", ATV +
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Bantel tv+", ATV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+", La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+", Viva TV
 http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="Bantel tv+", USMP TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", USMP TV
 http://bantel.iptvperu.tv:1935/transcoderip/usmpmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="Bantel tv+", Global Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Global Televisión
 http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+", Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+", Congreso TV
 http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="Bantel tv+", Canal IPe
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Canal IPe
 http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Bantel tv+", Nativa Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", Nativa Televisión
 http://bantel.iptvperu.tv:1935/astralocal/nativa.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Bantel tv+", ATV Sur
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+", ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+", PBO TV
 http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
