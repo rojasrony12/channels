@@ -145,3 +145,139 @@ http://bantel.iptvperu.tv:1935/transcoder4-srt/history2.stream/chunks.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+", Nat Geo
 http://bantel.iptvperu.tv:1935/transcoder2-srt/NatGeo.stream/chunks.m3u8
+#EXTINF:0 group-title="NET PLAY",A&E
+http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",AMC
+http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Cinema
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Comedy Central
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Europa Europa
+http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",FX
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",HBO 2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Multicine
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Multiprime
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Panamount
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Sony Channel
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Sony Movies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Star Channel
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Studio Universal
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",TNT 
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",TNT Series
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Universal
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",USA
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Warner
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Baby TV
+http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Cartoon Netwoort
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Cartoonito
+http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",DreamWorks
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Nick Jr.
+http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Nick Music
+http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Nickelodeon
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Tooncast
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",ZooMoo
+http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",ESPN
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",ESPN 2
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",ESPN 3
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",ESPN 4
+http://stream.flynetwifi.com:1935/live/mobile-205/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",FOX DEPORTES
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",FOX SPORTS
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",FOX SPORTS 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",FOX SPORTS 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",La Liga EA Sports
+http://stream.flynetwifi.com:1935/live/mobile-017/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",TNT Sports
+http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",TyC Sports
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Animal Planet
+http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Discovery
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Discovery Turbo
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Discovery H&H
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Nat Geo
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",CNBC
+http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",CNN en Español
+http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",RT
+http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Caracol
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Corazón
+http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",E!
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",El Gourmet
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Film&Art
+http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Lifetime
+http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",MTV
+http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",MTV PUSH
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",NCN Internacional
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",NCN Novelas
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Pasiones
+http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Telemundo
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Telemundo Internacional
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Telesur
+http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Universo
+http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Univision
+http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
+#EXTINF:0 group-title="NET PLAY",Venus
+http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
