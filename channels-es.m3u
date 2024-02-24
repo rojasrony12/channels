@@ -281,3 +281,77 @@ http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
 #EXTINF:0 group-title="NET PLAY",Venus
 http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",bitME
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Cartoonito
+http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Nickelodeon
+http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Animal Planet
+http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Discovery H&H
+http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Discovery ID
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Discovery Turbo
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",History
+http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Nat Geo
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Nat Geo Wild
+http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",ESPN
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",ESPN 2
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",ESPN 3
+http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Deportes
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Sports
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Sports 2
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Sports 3
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",GOLTV
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",TUDN
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",WIN Sports+
+http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",FX
+http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Golden Plus
+http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO Family
+http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO Family
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO Signature
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO+
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Pelicula
+http://livex.pop-app.live/s4n/poplive/ch500/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Sony Channel
+http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",TNT Series
+http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Antena 3 Internacional
+http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Caracol
+http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",China
+http://livex.pop-app.live/s4n/poplive/ch553/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Corazón
+http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",MAS CHIC
+http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Telemundo
+http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",TLC
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Livex POP",Univisión
+http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
