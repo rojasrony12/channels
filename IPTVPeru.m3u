@@ -1,18 +1,18 @@
 ﻿﻿#EXTM3U
 #EXTINF:-1 group-title="LIMA",Willax Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Latina Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",RPP 
 http://45.71.252.67:8000/play/a0g8
 #EXTINF:-1 group-title="LIMA",America Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Panamericana Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Exitosa Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",TV Perú
-https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Canal N 
 http://45.71.252.67:8000/play/a0fi
 #EXTINF:-1 group-title="LIMA",ATV 
@@ -55,10 +55,8 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7b
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 group-title="LIMA",BHTV 
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 group-title="LIMA",Conecta2TV 
-https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 group-title="LIMA",Conectad2 Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Intuitiva TV 
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 group-title="LIMA",LimaLive 
@@ -67,7 +65,7 @@ https://vdo.grupolimalive.com:3245/stream/play.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 group-title="LIMA",Identidad TV 
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:-1 group-title="LIMA",MaticesTV 
+#EXTINF:-1 group-title="LIMA",Matices TV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:-1 group-title="LIMA",RCR TV 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
@@ -76,9 +74,9 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 group-title="LIMA",San Borja TV 
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",FUNBOX
-https://live-zlr1.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",VMLatino
-https://live-zlr1.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-zlr1.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Nova TV Star [Amazonas]
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 group-title="PROVINCIAS",Quassar TV [Ancash]
@@ -219,392 +217,110 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 group-title="ONLINE",Hoynet 
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v1",A&E
+#EXTINF:0 group-title="PREMIUM",A&E
 http://167.114.156.136:25461/INFINITV/ZX89NM22/178
-#EXTINF:0 group-title="PREMIUM v1",A+
+#EXTINF:0 group-title="PREMIUM",A+
 http://167.114.156.136:25461/INFINITV/ZX89NM22/113
-#EXTINF:0 group-title="PREMIUM v1",Animal Planet
+#EXTINF:0 group-title="PREMIUM",Animal Planet
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
-#EXTINF:0 group-title="PREMIUM v1",AZ Corazon
+#EXTINF:0 group-title="PREMIUM",AZ Corazon
 http://167.114.156.136:25461/INFINITV/ZX89NM22/117
-#EXTINF:0 group-title="PREMIUM v1",Azteca Uno
+#EXTINF:0 group-title="PREMIUM",Azteca Uno
 http://167.114.156.136:25461/INFINITV/ZX89NM22/82
-#EXTINF:0 group-title="PREMIUM v1",Baby First
+#EXTINF:0 group-title="PREMIUM",Baby First
 http://167.114.156.136:25461/INFINITV/ZX89NM22/150
-#EXTINF:0 group-title="PREMIUM v1",Baby TV
+#EXTINF:0 group-title="PREMIUM",Baby TV
 http://167.114.156.136:25461/INFINITV/ZX89NM22/60
-#EXTINF:0 group-title="PREMIUM v1",CO: Caracol
+#EXTINF:0 group-title="PREMIUM",CO: Caracol
 http://167.114.156.136:25461/INFINITV/ZX89NM22/157
-#EXTINF:0 group-title="PREMIUM v1",CO: Caracol Op2
+#EXTINF:0 group-title="PREMIUM",CO: Caracol Op2
 http://167.114.156.136:25461/INFINITV/ZX89NM22/226
-#EXTINF:0 group-title="PREMIUM v1",DAZN 3
+#EXTINF:0 group-title="PREMIUM",DAZN 3
 http://167.114.156.136:25461/INFINITV/ZX89NM22/205
-#EXTINF:0 group-title="PREMIUM v1",Discovery Kids
+#EXTINF:0 group-title="PREMIUM",Discovery Kids
 http://167.114.156.136:25461/INFINITV/ZX89NM22/210
-#EXTINF:0 group-title="PREMIUM v1",Discovery Science
+#EXTINF:0 group-title="PREMIUM",Discovery Science
 http://167.114.156.136:25461/INFINITV/ZX89NM22/216
-#EXTINF:0 group-title="PREMIUM v1",Discovery TLC
+#EXTINF:0 group-title="PREMIUM",Discovery TLC
 http://167.114.156.136:25461/INFINITV/ZX89NM22/124
-#EXTINF:0 group-title="PREMIUM v1",Dicovery Turbo
+#EXTINF:0 group-title="PREMIUM",Dicovery Turbo
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
-#EXTINF:0 group-title="PREMIUM v1",Discovery Turbo OP2
+#EXTINF:0 group-title="PREMIUM",Discovery Turbo OP2
 http://167.114.156.136:25461/INFINITV/ZX89NM22/229
-#EXTINF:0 group-title="PREMIUM v1",El Gourmet
+#EXTINF:0 group-title="PREMIUM",El Gourmet
 http://167.114.156.136:25461/INFINITV/ZX89NM22/219
-#EXTINF:0 group-title="PREMIUM v1",ES: Antena 3
+#EXTINF:0 group-title="PREMIUM",ES: Antena 3
 http://167.114.156.136:25461/INFINITV/ZX89NM22/96
-#EXTINF:0 group-title="PREMIUM v1",ES: Movistar Drama
+#EXTINF:0 group-title="PREMIUM",ES: Movistar Drama
 http://167.114.156.136:25461/INFINITV/ZX89NM22/146
-#EXTINF:0 group-title="PREMIUM v1",FX 
+#EXTINF:0 group-title="PREMIUM",FX 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/70
-#EXTINF:0 group-title="PREMIUM v1",Garage TV
+#EXTINF:0 group-title="PREMIUM",Garage TV
 http://167.114.156.136:25461/INFINITV/ZX89NM22/184
-#EXTINF:0 group-title="PREMIUM v1",Golden
+#EXTINF:0 group-title="PREMIUM",Golden
 http://167.114.156.136:25461/INFINITV/ZX89NM22/181
-#EXTINF:0 group-title="PREMIUM v1",Investigation Discovery
+#EXTINF:0 group-title="PREMIUM",Investigation Discovery
 http://167.114.156.136:25461/INFINITV/ZX89NM22/220
-#EXTINF:0 group-title="PREMIUM v1",Milenio TV
+#EXTINF:0 group-title="PREMIUM",Milenio TV
 http://167.114.156.136:25461/INFINITV/ZX89NM22/88
-#EXTINF:0 group-title="PREMIUM v1",MTV Hits
+#EXTINF:0 group-title="PREMIUM",MTV Hits
 http://167.114.156.136:25461/INFINITV/ZX89NM22/94
-#EXTINF:0 group-title="PREMIUM v1",MTV Live
+#EXTINF:0 group-title="PREMIUM",MTV Live
 http://167.114.156.136:25461/INFINITV/ZX89NM22/108
-#EXTINF:0 group-title="PREMIUM v1",Multimedios MTY
+#EXTINF:0 group-title="PREMIUM",Multimedios MTY
 http://167.114.156.136:25461/INFINITV/ZX89NM22/89
-#EXTINF:0 group-title="PREMIUM v1",Nick Jr
+#EXTINF:0 group-title="PREMIUM",Nick Jr
 http://167.114.156.136:25461/INFINITV/ZX89NM22/64
-#EXTINF:0 group-title="PREMIUM v1",Once TV
+#EXTINF:0 group-title="PREMIUM",Once TV
 http://167.114.156.136:25461/INFINITV/ZX89NM22/111
-#EXTINF:0 group-title="PREMIUM v1",Sony
+#EXTINF:0 group-title="PREMIUM",Sony
 http://167.114.156.136:25461/INFINITV/ZX89NM22/53
-#EXTINF:0 group-title="PREMIUM v1",SYFY
+#EXTINF:0 group-title="PREMIUM",SYFY
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
-#EXTINF:0 group-title="PREMIUM v1",Telecinco
+#EXTINF:0 group-title="PREMIUM",Telecinco
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
-#EXTINF:0 group-title="PREMIUM v1",Telemundo
+#EXTINF:0 group-title="PREMIUM",Telemundo
 http://167.114.156.136:25461/INFINITV/ZX89NM22/155
-#EXTINF:0 group-title="PREMIUM v1",TNT
+#EXTINF:0 group-title="PREMIUM",TNT
 http://167.114.156.136:25461/INFINITV/ZX89NM22/57
-#EXTINF:0 group-title="PREMIUM v1",Warner Channel
+#EXTINF:0 group-title="PREMIUM",Warner Channel
 http://167.114.156.136:25461/INFINITV/ZX89NM22/59
-#EXTINF:0 group-title="PREMIUM v1",ABC News
+#EXTINF:0 group-title="PREMIUM",ABC News
 http://167.114.156.136:25461/INFINITV/ZX89NM22/110
-#EXTINF:0 group-title="PREMIUM v1",ABC (USA)
+#EXTINF:0 group-title="PREMIUM",ABC (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/159
-#EXTINF:0 group-title="PREMIUM v1",BBC America (USA)
+#EXTINF:0 group-title="PREMIUM",BBC America (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/166
-#EXTINF:0 group-title="PREMIUM v1",Bravo (USA)
+#EXTINF:0 group-title="PREMIUM",Bravo (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/192
-#EXTINF:0 group-title="PREMIUM v1",CBS Sports Network (USA)
+#EXTINF:0 group-title="PREMIUM",CBS Sports Network (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/161
-#EXTINF:0 group-title="PREMIUM v1",Galavision |ES (USA)
+#EXTINF:0 group-title="PREMIUM",Galavision |ES (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/174
-#EXTINF:0 group-title="PREMIUM v1",HBO 2 (USA)
+#EXTINF:0 group-title="PREMIUM",HBO 2 (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/223
-#EXTINF:0 group-title="PREMIUM v1",Lifetime (USA)
+#EXTINF:0 group-title="PREMIUM",Lifetime (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/193
-#EXTINF:0 group-title="PREMIUM v1",MLB NETWORK (USA)
+#EXTINF:0 group-title="PREMIUM",MLB NETWORK (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/188
-#EXTINF:0 group-title="PREMIUM v1",NBC NY |ES (USA)
+#EXTINF:0 group-title="PREMIUM",NBC NY |ES (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/164
-#EXTINF:0 group-title="PREMIUM v1",NBC Universo |ES (USA)
+#EXTINF:0 group-title="PREMIUM",NBC Universo |ES (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/165
-#EXTINF:0 group-title="PREMIUM v1",Showtime (USA)
+#EXTINF:0 group-title="PREMIUM",Showtime (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/189
-#EXTINF:0 group-title="PREMIUM v1",Starz |ES (USA)
+#EXTINF:0 group-title="PREMIUM",Starz |ES (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/190
-#EXTINF:0 group-title="PREMIUM v1",Tennis Channel (USA)
+#EXTINF:0 group-title="PREMIUM",Tennis Channel (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/171
-#EXTINF:0 group-title="PREMIUM v1",TNT (USA)
+#EXTINF:0 group-title="PREMIUM",TNT (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/172
-#EXTINF:0 group-title="PREMIUM v1",USA Network (USA)
+#EXTINF:0 group-title="PREMIUM",USA Network (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/191
-#EXTINF:0 group-title="PREMIUM v1",WWE network (USA)
+#EXTINF:0 group-title="PREMIUM",WWE network (USA)
 http://167.114.156.136:25461/INFINITV/ZX89NM22/209
-#EXTINF:0 group-title="PREMIUM v1",+18: Blue Hustler
+#EXTINF:0 group-title="PREMIUM",+18 XXX
 http://167.114.156.136:25461/INFINITV/ZX89NM22/199
-#EXTINF:24 group-title="PREMIUM v2",Afizzionados
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Animal Planet
-http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Antena 3
-http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
-#EXTINF:23 group-title="PREMIUM v2",BitMe
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Caracol TV
-http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
-#EXTINF:30 group-title="PREMIUM v2",Corazón
-http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
-#EXTINF:25 group-title="PREMIUM v2",Discovery ID
-http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Discovery turbo
-http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",ESPN
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",ESPN 2
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",ESPN Deportes
-http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Fox Deportes
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",FOX Sport 1
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",FOX Sport 2
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",FOX Sport 3
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-#EXTINF:23 group-title="PREMIUM v2",FX
-http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v2",GOL TV
-http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Golden Plus
-http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",H&H
-http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",HBO +
-http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",HBO Family
-http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",HBO Family
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",HBO Signature
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",History
-http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",MAS CHIC
-http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
-#EXTINF:25 group-title="PREMIUM v2",Movistar Terror
-http://livex.pop-app.live/s4n/poplive/ch553/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",National Geographic
-http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
-#EXTINF:36 group-title="PREMIUM v2",National Geographic Wild
-http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Nickelodeon
-http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Sky Sports
-http://livex.pop-app.live/s4n/poplive/ch900/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v2",Sony Channel
-http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v2",Telemundo
-http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",TLC
-http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",TNT SERIES
-http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
-#EXTINF:24 group-title="PREMIUM v2",Univision
-http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v2",Win Sports
-http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",A&E
-http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",AMC
-http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",AXN
-http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Cinema
-http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Comedy Central
-http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Europa Europa
-http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",FX
-http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",HBO 2
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Multicine
-http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Multiprime
-http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Panamount
-http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Sony Channel
-http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Sony Movies
-http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Star Channel
-http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Studio Universal
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",TNT 
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",TNT Series
-http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Universal
-http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",USA
-http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Warner
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Baby TV
-http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Cartoon Netwoort
-http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Cartoonito
-http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",DreamWorks
-http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Nick Jr.
-http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Nick Music
-http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Nickelodeon
-http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Tooncast
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",ZooMoo
-http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",ESPN
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",ESPN 2
-http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",ESPN 3
-http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",ESPN 4
-http://stream.flynetwifi.com:1935/live/mobile-205/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",FOX DEPORTES
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",FOX SPORTS
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",FOX SPORTS 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",FOX SPORTS 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",La Liga EA Sports
-http://stream.flynetwifi.com:1935/live/mobile-017/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",TNT Sports
-http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",TyC Sports
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Animal Planet
-http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Discovery
-http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Discovery Turbo
-http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Discovery H&H
-http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",History 2
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Nat Geo
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",CNBC
-http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",CNN en Español
-http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",RT
-http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Caracol
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Corazón
-http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",E!
-http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",El Gourmet
-http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Film&Art
-http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Lifetime
-http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",MTV
-http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",MTV PUSH
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",NCN Internacional
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",NCN Novelas
-http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Pasiones
-http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Telemundo
-http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Telemundo Internacional
-http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Telesur
-http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Universo
-http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Univision
-http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Sin Señal
-http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
-#EXTINF:0 group-title="PREMIUM v3",Venus
-http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Estelar
-https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Acción 
-https://r.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Estrellas en Accion 
-https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Adrenalina Freezone 
-https://r.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Comedia 
-https://r.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Drama 
-https://r.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Romance 
-https://r.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Suspenso
-https://r.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Crimen 
-https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Terror 
-https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Sci-Fi 
-https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Runtime 
-https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Filmstream 
-https://r.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Nuestro Cine 
-https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Clasico 
-https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cine Familia 
-https://r.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Series Latinas
-https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",911
-https://r.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Misterios medicos
-https://r.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Misterios
-https://r.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Historias de Ultratumba 
-https://r.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Cazadores de ovnis
-https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Misterios sin Resolver 
-https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Empeños a lo bestias 
-https://r.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",El encantador de perros
-https://r.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Macgyver 
-https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Hechizada
-https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Los 3 Chiflados
-https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Sin Tetas no hay Paraiso 
-https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Nickelodeon 
-https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Nick Clasico 
-https://r.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Nick Teen 
-https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",ICarly 
-https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Super Campeones 
-https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Rugrats 
-https://r.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Retro Cartoons 
-https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 group-title="PELICULAS",1922 (2017)
 http://vod.tuxchannel.mx/peliculas/720/1922.mkv
 #EXTINF:-1 group-title="PELICULAS",2001: odisea del espacio (1968)
