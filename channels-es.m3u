@@ -371,16 +371,16 @@ http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
 #EXTINF:0 group-title="Livex",BABYTV
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch01
+http://181.78.8.90:16123/play/ch01/index.m3u8
 #EXTINF:0 group-title="Livex",DISCOVERY KIDS
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch02
+http://181.78.8.90:16123/play/ch02/index.m3u8
 #EXTINF:0 group-title="Livex",DISNEY
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch03
+http://181.78.8.90:16123/play/ch03/index.m3u8
 #EXTINF:0, group-title="Livex"ZOOMOO
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch04
+http://181.78.8.90:16123/play/ch04/index.m3u8
 #EXTINF:0, group-title="Livex"DISNEY JR
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch05
+http://181.78.8.90:16123/play/ch05/index.m3u8
