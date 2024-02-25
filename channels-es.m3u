@@ -369,6 +369,8 @@ http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Livex POP",Univisión
 http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTBOL",Movistar Deportes
+https://server.tvhdlibre.com:442/movistar/tracks-v1a1/mono.m3u8?remote=181.64.193.158&token=578d9c4e4807eddaf6b1d1d435aa93df2f404bd2-8db0817db801b325e973868ea334379a-1708893946-1708883146
 #EXTINF:0 tvg-logo="" group-title="FUTBOL",Gol Perú
 https://server.tvhdlibre.com:442/golperu/tracks-v1a1/mono.m3u8?remote=181.64.193.158&token=788d992bec19707b4aaf8794d8f358dca0424938-c07c696f0ce08c38fdf8e81294539efa-1708892088-1708881288
 #EXTINF:0 tvg-logo="" group-title="FUTBOL",Liga 1 Max
