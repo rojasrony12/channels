@@ -369,3 +369,18 @@ http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Livex POP",Univisión
 http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:0 group-title="Livex",BABYTV
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.90:16123/play/ch01
+#EXTINF:0 group-title="Livex",DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.90:16123/play/ch02
+#EXTINF:0 group-title="Livex",DISNEY
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.90:16123/play/ch03
+#EXTINF:0, group-title="Livex"ZOOMOO
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.90:16123/play/ch04
+#EXTINF:0, group-title="Livex"DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.90:16123/play/ch05
