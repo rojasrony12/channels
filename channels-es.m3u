@@ -369,18 +369,7 @@ http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Livex POP",Univisión
 http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
-#EXTINF:0 group-title="Livex",BABYTV
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch01/index.m3u8
-#EXTINF:0 group-title="Livex",DISCOVERY KIDS
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch02/index.m3u8
-#EXTINF:0 group-title="Livex",DISNEY
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch03/index.m3u8
-#EXTINF:0, group-title="Livex"ZOOMOO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch04/index.m3u8
-#EXTINF:0, group-title="Livex"DISNEY JR
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.90:16123/play/ch05/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTBOL",Gol Perú
+https://server.tvhdlibre.com:442/golperu/tracks-v1a1/mono.m3u8?remote=181.64.193.158&token=788d992bec19707b4aaf8794d8f358dca0424938-c07c696f0ce08c38fdf8e81294539efa-1708892088-1708881288
+#EXTINF:0 tvg-logo="" group-title="FUTBOL",Liga 1 Max
+https://server.tvhdlibre.com:442/l1max/tracks-v1a1/mono.m3u8?remote=181.64.193.158&token=4c3e1f39fa40c1fcb253a460f9b0d8e2319357d2-21b2abc72c97076185f3815511784e84-1708893280-1708882480
