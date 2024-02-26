@@ -73,91 +73,91 @@ http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1.stream/chunks.m
 http://bantel.iptvperu.tv:1935/bantel/mixmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="Bantel tv+",Tu Música HD
 http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Telemundo Internacional
+#EXTINF:0 tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="Bantel tv+",Telemundo Internacional
 http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Tlnovelas
+#EXTINF:0 tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Bantel tv+",Tlnovelas
 http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Univisión
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Bantel tv+",Univisión
 http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Canal Infantil
+#EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/04.Logo-Canal-Infantil-Alpha-AOriginal-1024x576.png" group-title="Bantel tv+",Canal Infantil
 http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Disney Channel
+#EXTINF:0 tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="Bantel tv+",Disney Channel
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Disney Junior
+#EXTINF:0 tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="Bantel tv+",Disney Junior
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Dream Workds
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Bantel tv+",Dream Workds
 http://bantel.iptvperu.tv:1935/transcoder5-srt/dreamworkds.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",FMHKids
+#EXTINF:0 tvg-logo="https://i.ibb.co/XC7yHsw/fmh-kids.png" group-title="Bantel tv+",FMHKids
 http://bantel.iptvperu.tv:1935/bantel/fmhkids/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Nickelodeon
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="Bantel tv+",Nickelodeon
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Nick Jr.
+#EXTINF:0 tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="Bantel tv+",Nick Jr.
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",TeenNick
+#EXTINF:0 tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Bantel tv+",TeenNick
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",ESPN
+#EXTINF:0 tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Bantel tv+",ESPN
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",ESPN 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Bantel tv+",ESPN 2
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN2_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",ESPN 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="Bantel tv+",ESPN 3
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN3_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",ESPN 4
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="Bantel tv+",ESPN 4
 http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",ESPN 5
+#EXTINF:0 tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="Bantel tv+",ESPN 5
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN4_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",ESPN 6
+#EXTINF:0 tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="Bantel tv+",ESPN 6
 http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports3_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",ESPN 7
+#EXTINF:0 tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="Bantel tv+",ESPN 7
 http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports2_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",AXN
+#EXTINF:0 tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Bantel tv+",AXN
 http://bantel.iptvperu.tv:1935/transcoder4-srt/axn.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",A&E
+#EXTINF:0 tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Bantel tv+",A&E
 http://bantel.iptvperu.tv:1935/transcoder4-srt/AyE.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Canal
+#EXTINF:0 tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="Bantel tv+",Cine Canal
 http://bantel.iptvperu.tv:1935/transcoder2-srt/CineCanal.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Familiar
+#EXTINF:0 tvg-logo="https://i.ibb.co/0KBbXVT/cine-familiar.png" group-title="Bantel tv+",Cine Familiar
 http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Hispano
+#EXTINF:0 tvg-logo="https://i.ibb.co/Y8R4q3q/cine-hispano.png" group-title="Bantel tv+",Cine Hispano
 http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Premium
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZW4R6qC/cine-premium.png" group-title="Bantel tv+",Cine Premium
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Sureño
+#EXTINF:0 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="Bantel tv+",Cine Sureño
 http://bantel.iptvperu.tv:1935/bantel/cine_sureno/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Classic +
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_Cin%C3%A9%2B_Classic_2011.svg/2560px-Logo_Cin%C3%A9%2B_Classic_2011.svg.png" group-title="Bantel tv+",Classic +
 http://bantel.iptvperu.tv:1935/bantel/classic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",DHE
+#EXTINF:0 tvg-logo="https://i.ibb.co/QDMD1N8/dhe.png" group-title="Bantel tv+",DHE
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DHE.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",FMHMovies
+#EXTINF:0 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/47.2-fmhchannelhd.png" group-title="Bantel tv+",FMHMovies
 http://bantel.iptvperu.tv:1935/bantel/fmhmovies.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",FX
+#EXTINF:0 tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Bantel tv+",FX
 http://bantel.iptvperu.tv:1935/transcoder2-srt/FX.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Golden Plus
+#EXTINF:0 tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Bantel tv+",Golden Plus
 http://bantel.iptvperu.tv:1935/transcoderip/golden_t5.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mega Cine TV
+#EXTINF:0 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="Bantel tv+",Mega Cine TV
 http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",My Time
+#EXTINF:0 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Bantel tv+",My Time
 http://bantel.iptvperu.tv:1935/bantel/mytime/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Paramount
+#EXTINF:0 tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Bantel tv+",Paramount
 http://bantel.iptvperu.tv:1935/transcoder4-srt/paramount.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Sony Channel
+#EXTINF:0 tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Bantel tv+",Sony Channel
 http://bantel.iptvperu.tv:1935/transcoder4-srt/sonychannel.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Sony Movies
+#EXTINF:0 tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="Bantel tv+",Sony Movies
 http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Studio Universal
+#EXTINF:0 tvg-logo="https://i.ibb.co/M1kxMnB/studio-universal.png" group-title="Bantel tv+",Studio Universal
 http://bantel.iptvperu.tv:1935/transcoder5-srt/studiouniversal.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Star Channel
+#EXTINF:0 tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="Bantel tv+",Star Channel
 http://bantel.iptvperu.tv:1935/transcoder2-srt/StarChannel.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Universal
+#EXTINF:0 tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Bantel tv+",Universal
 http://bantel.iptvperu.tv:1935/transcoder5-srt/universalchannel.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",USA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/1200px-USA-Network-Logo.svg.png" group-title="Bantel tv+",USA
 http://bantel.iptvperu.tv:1935/transcoder5-srt/SYFY.stream/chunks.m3u8%09USA
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",History
+#EXTINF:0 tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Bantel tv+",History
 http://bantel.iptvperu.tv:1935/transcoder4-srt/History.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",History 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Bantel tv+",History 2
 http://bantel.iptvperu.tv:1935/transcoder4-srt/history2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Love Nature
+#EXTINF:0 tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Bantel tv+",Love Nature
 http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Nat Geo
+#EXTINF:0 tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="Bantel tv+",Nat Geo
 http://bantel.iptvperu.tv:1935/transcoder2-srt/NatGeo.stream/chunks.m3u8
 #EXTINF:0 group-title="NET PLAY",A&E
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
