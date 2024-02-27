@@ -145,8 +145,6 @@ http://45.71.252.67:8000/play/a0ou
 http://45.71.252.67:8000/play/a0fx
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/M1kxMnB/studio-universal.png" group-title="CINEMA",Studio Universal
 http://138.59.177.34:8000/play/a02y
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/h8dJtC7/syfy.png" group-title="CINEMA",SyFy
-http://138.59.177.34:8000/play/a053
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/8072twn/tcm.png" group-title="CINEMA",TCM
 http://138.59.177.34:8000/play/a04e
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/SJtrSGv/tnt.png" group-title="CINEMA",TNT
@@ -163,6 +161,8 @@ http://138.59.177.34:8000/play/a05w
 http://138.59.177.34:8000/play/a05v
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="CINEMA",Universal Premiere
 http://138.59.177.34:8000/play/a05s
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="CINEMA",USA
+http://138.59.177.34:8000/play/a053
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="CINEMA",Warner
 http://138.59.177.34:8000/play/a05d
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES",Bein Sports Extra Ñ
@@ -191,8 +191,6 @@ http://190.90.154.73:8080/play/a02s
 http://190.90.154.73:8080/play/a01y
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="DEPORTES",ESPN 7
 http://190.90.154.73:8080/play/a02t
-#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/TgQ1VCC/espn-extra.png" group-title="DEPORTES",ESPN Extra
-http://138.59.177.34:8000/play/a02t
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="DEPORTES",ESPN Premium
 http://190.61.55.186:1010/play/a019
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="DEPORTES",Fox Sports 1
