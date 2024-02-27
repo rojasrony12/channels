@@ -151,7 +151,7 @@ http://bantel.iptvperu.tv:1935/transcoder2-srt/StarChannel.stream/chunks.m3u8
 http://bantel.iptvperu.tv:1935/transcoder5-srt/universalchannel.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/1200px-USA-Network-Logo.svg.png" group-title="Bantel tv+",USA
 http://bantel.iptvperu.tv:1935/transcoder5-srt/SYFY.stream/chunks.m3u8%09USA
-#EXTINF:0 tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Bantel tv+",History
+#EXTINF:0 tvg-id="Historia" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Bantel tv+",History
 http://bantel.iptvperu.tv:1935/transcoder4-srt/History.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Bantel tv+",History 2
 http://bantel.iptvperu.tv:1935/transcoder4-srt/history2.stream/chunks.m3u8
