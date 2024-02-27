@@ -85,7 +85,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1.stream/chunks.m3u8
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="Bantel tv+",Disney Junior
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Bantel tv+",Dream Workds
+#EXTINF:0 tvg-id="Dreamworks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Bantel tv+",Dream Workds
 http://bantel.iptvperu.tv:1935/transcoder5-srt/dreamworkds.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XC7yHsw/fmh-kids.png" group-title="Bantel tv+",FMHKids
 http://bantel.iptvperu.tv:1935/bantel/fmhkids/chunks.m3u8
