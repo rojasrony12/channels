@@ -111,6 +111,8 @@ http://138.59.177.34:8000/play/a05p
 http://138.59.177.34:8000/play/a038
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/vXr5JZH/euro-channel.png" group-title="CINEMA",EURO Channel
 http://138.59.177.34:8000/play/a041
+#EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINEMA",FMH Movies
+http://138.59.177.34:8000/play/a035
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="CINEMA",FX
 http://138.59.177.34:8000/play/a035
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="CINEMA",Golden
