@@ -323,7 +323,7 @@ http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Deportes
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Sports
+#EXTINF:0 tvg-id="FoxSports.mx" tvg-logo="" group-title="Livex POP",FOX Sports
 http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Sports 2
 http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
