@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Perú",Willax
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Perú",Willax
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Perú",Latina
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="Perú",Top Latino 
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AméricaTV.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Perú",América Televisión
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Perú",América Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="Perú",Panamericana
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
@@ -17,17 +17,17 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Perú",ATV 
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/La_Tele_2009.png" group-title="Perú",La Tele
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/La_Tele_2009.png" group-title="Perú",La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/PyW6vij-.jpg" group-title="Perú",Viva TV
+#EXTINF:-1 tvg-id="VivaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/PyW6vij-.jpg" group-title="Perú",Viva TV
 http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="Perú",USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="Perú",Global
 http://45.71.252.67:8000/play/a0fk
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="Perú",Justicia TV
+#EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="Perú",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="Perú",Congreso TV
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="Perú",Congreso TV
 http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://i.ibb.co/bH2D6pD/tvper-internacional.png" group-title="Perú",TV Perú Internacional 
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
@@ -39,9 +39,9 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Perú",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://public-rf-upload.minhawebradio.net/166179/cover/e72fd4440cc8e2934c1c1bcd329ce9ec.png" group-title="Perú",Matices TV
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://public-rf-upload.minhawebradio.net/166179/cover/e72fd4440cc8e2934c1c1bcd329ce9ec.png" group-title="Perú",Matices TV
 http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
 http://138.59.177.34:8000/play/a02z
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/GdyVS4c/atlas.png" group-title="Culturales",Atlas
 http://191.97.60.193:10000/play/a02o
