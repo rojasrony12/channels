@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Bantel tv+",Willax
+#EXTINF:0 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Bantel tv+",Willax
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Bantel tv+",Latina Televisión
 http://bantel.iptvperu.tv:1935/prueba/latinamovil_t6.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="Bantel tv+",Top Latino TV
 http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Bantel tv+",América Televisión
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Bantel tv+",América Televisión
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="Bantel tv+",Panamericana Televisión
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
