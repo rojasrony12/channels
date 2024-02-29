@@ -43,19 +43,19 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
 http://138.59.177.34:8000/play/a02z
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/GdyVS4c/atlas.png" group-title="Culturales",Atlas
+#EXTINF:-1 tvg-id="AtlasTVLatinAmerica.us" tvg-logo="https://i.ibb.co/GdyVS4c/atlas.png" group-title="Culturales",Atlas
 http://191.97.60.193:10000/play/a02o
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Culturales",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Culturales",Discovery Channel
 http://138.59.177.34:8000/play/a077
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Culturales",Discovery ID
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Culturales",Discovery ID
 http://45.71.252.67:8000/play/a0gh
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/vQxc9s9/discovery-science.png" group-title="Culturales",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-logo="https://i.ibb.co/vQxc9s9/discovery-science.png" group-title="Culturales",Discovery Science
 http://190.2.214.171:8008/play/a00a
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/L9V9hKD/discovery-theater.png" group-title="Culturales",Discovery Theater
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-logo="https://i.ibb.co/L9V9hKD/discovery-theater.png" group-title="Culturales",Discovery Theater
 http://177.234.247.66:8888/play/a018
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Culturales",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Culturales",Discovery Turbo
 http://45.71.252.67:8000/play/a0ks
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Culturales",Discovery World
+#EXTINF:-1 tvg-id="DiscoveryWorldLatinAmerica.us" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Culturales",Discovery World
 http://138.59.177.34:8000/play/a078
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Culturales",History Channel
 http://138.59.177.34:8000/play/a02s
