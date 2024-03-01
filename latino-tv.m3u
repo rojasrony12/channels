@@ -41,6 +41,8 @@ http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/chunks.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Perú",Matices TV
 http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="Perú",BHTV
+http://bantel.iptvperu.tv:1935/bantel/bhtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
 http://138.59.177.34:8000/play/a02z
 #EXTINF:-1 tvg-id="AtlasTVLatinAmerica.us" tvg-logo="https://i.ibb.co/GdyVS4c/atlas.png" group-title="Culturales",Atlas
@@ -333,7 +335,7 @@ http://45.71.252.67:8000/play/a0fr
 http://45.71.252.67:8000/play/a0mo
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/0QZyym5/tnt-novelas.png" group-title="Novelas",TNT Novelas
 http://190.61.43.116:45000/play/a06u
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Novelas",Univisión Latinoamérica
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Novelas",Univisión
 http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="Religiosos",Bethel TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
