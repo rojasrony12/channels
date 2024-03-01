@@ -1,371 +1,161 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Bantel tv+",Willax
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4804",Willax
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Bantel tv+",Latina Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2547",Latina Televisi�n
 http://bantel.iptvperu.tv:1935/prueba/latinamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="Bantel tv+",Top Latino TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Top Latino TV
 http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Bantel tv+",América Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4792",Am�rica Televisi�n
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="Bantel tv+",Panamericana Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Panamericana Televisi�n
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="Bantel tv+",Exitosa Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Exitosa Televisi�n
 http://bantel.iptvperu.tv:1935/transcoderip/exitosamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="Bantel tv+",TV Perú
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2542",TV Per�
 http://bantel.iptvperu.tv:1935/transcoderip/tvperumovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="Bantel tv+",ATV +
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2549",ATV +
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Bantel tv+",ATV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="962",ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/La_Tele_2009.png" group-title="Bantel tv+",La Tele
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2324",La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/PyW6vij-.jpg" group-title="Bantel tv+",Viva TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4800",Viva TV
 http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="Bantel tv+",USMP TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",USMP TV
 http://bantel.iptvperu.tv:1935/transcoderip/usmpmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="Bantel tv+",Global Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4798",Global Televisi�n
 http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="Bantel tv+",Justicia TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="Bantel tv+",Congreso TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Congreso TV
 http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="Bantel tv+",Canal IPe
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2544",Canal IPe
 http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Bantel tv+",Nativa Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Nativa Televisi�n
 http://bantel.iptvperu.tv:1935/astralocal/nativa.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Bantel tv+",ATV Sur
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4794",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Bantel tv+",PBO TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2556",PBO TV
 http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icadeg.com.pe/wp-content/uploads/2019/07/COLEGIO-DE-ABOGADOS-DE-LIMA-PERU-ICADEG.png" group-title="Bantel tv+",CAL TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",CAL TV
 http://bantel.iptvperu.tv:1935/astralocal/Calt_tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://public-rf-upload.minhawebradio.net/166179/cover/e72fd4440cc8e2934c1c1bcd329ce9ec.png" group-title="Bantel tv+",Matices TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Matices TV
 http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="Bantel tv+",Conectad2 Televisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Conectad2 Televisi�n
 http://bantel.iptvperu.tv:1935/miscelaneos/conecta2TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1504167222486437892/Zrdtq83C_400x400.jpg" group-title="Bantel tv+",CNC Digital
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",CNC Digital
 http://bantel.iptvperu.tv:1935/bantel/cncdigital.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="Bantel tv+",Tele Lima
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Tele Lima
 http://bantel.iptvperu.tv:1935/miscelaneos/tllima.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/14a7f6_be3f7a5b1e61491c94d22f7440843dda~mv2.png/v1/fill/w_420,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/OSD%20LIKE%20blanco-16.png" group-title="Bantel tv+",Like TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3875",Like TV
 http://bantel.iptvperu.tv:1935/Astralocal/fuegotv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Bantel tv+",E!
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1188",E!
 http://bantel.iptvperu.tv:1935/transcoder4-srt/e!.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Bantel tv+",DW
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="352",DW
 http://bantel.iptvperu.tv:1935/miscelaneos/dw.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="Bantel tv+",IVC
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",IVC
 http://bantel.iptvperu.tv:1935/transcoder4-srt/ivc.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="Bantel tv+",Las Estrellas
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1954",Las Estrellas
 http://bantel.iptvperu.tv:1935/transcoder4-srt/Canal_LasEstrellas.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Bantel tv+",Lifetime
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1200",Lifetime
 http://bantel.iptvperu.tv:1935/transcoder4-srt/lifetime.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Bantel tv+",MTV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1973",MTV
 http://bantel.iptvperu.tv:1935/transcoder4-srt/MTV.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Bantel tv+",Mi Música Perú
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Per�
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582.png" group-title="Bantel tv+",Mi Música Romantica
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Romantica
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png" group-title="Bantel tv+",Mi Música Salsa
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Salsa
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/mimusica_reggaeton-e1684536394429.jpeg" group-title="Bantel tv+",Mi Música Reggaeton
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Reggaeton
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/74/e4/32/74e432a0e2796bd179a763cf6b6ec12e.jpg" group-title="Bantel tv+",Mix Music
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mix Music
 http://bantel.iptvperu.tv:1935/bantel/mixmusic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="Bantel tv+",Tu Música HD
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Tu M�sica HD
 http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="Bantel tv+",Telemundo Internacional
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1968",Telemundo Internacional
 http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Bantel tv+",Tlnovelas
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2504",Tlnovelas
 http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Bantel tv+",Univisión
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3209",Univisi�n
 http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/04.Logo-Canal-Infantil-Alpha-AOriginal-1024x576.png" group-title="Bantel tv+",Canal Infantil
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Canal Infantil
 http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="Bantel tv+",Disney Channel
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="19",Disney Channel
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="Bantel tv+",Disney Junior
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1197",Disney Junior
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Bantel tv+",Dream Workds
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Dream Workds
 http://bantel.iptvperu.tv:1935/transcoder5-srt/dreamworkds.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XC7yHsw/fmh-kids.png" group-title="Bantel tv+",FMHKids
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",FMHKids
 http://bantel.iptvperu.tv:1935/bantel/fmhkids/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="Bantel tv+",Nickelodeon
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="41",Nickelodeon
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="Bantel tv+",Nick Jr.
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="322",Nick Jr.
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Bantel tv+",TeenNick
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2709",TeenNick
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Bantel tv+",ESPN
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Bantel tv+",ESPN 2
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="344",ESPN 2
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN2_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="Bantel tv+",ESPN 3
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="355",ESPN 3
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN3_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="Bantel tv+",ESPN 4
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1432",ESPN 4
 http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="Bantel tv+",ESPN 5
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN 5
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN4_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="Bantel tv+",ESPN 6
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN 6
 http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports3_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="Bantel tv+",ESPN 7
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN 7
 http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports2_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Bantel tv+",AXN
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1573",AXN
 http://bantel.iptvperu.tv:1935/transcoder4-srt/axn.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Bantel tv+",A&E
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1208",A&E
 http://bantel.iptvperu.tv:1935/transcoder4-srt/AyE.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="Bantel tv+",Cine Canal
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="64",Cine Canal
 http://bantel.iptvperu.tv:1935/transcoder2-srt/CineCanal.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0KBbXVT/cine-familiar.png" group-title="Bantel tv+",Cine Familiar
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Familiar
 http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Y8R4q3q/cine-hispano.png" group-title="Bantel tv+",Cine Hispano
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Hispano
 http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZW4R6qC/cine-premium.png" group-title="Bantel tv+",Cine Premium
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Premium
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="Bantel tv+",Cine Sureño
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Sure�o
 http://bantel.iptvperu.tv:1935/bantel/cine_sureno/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_Cin%C3%A9%2B_Classic_2011.svg/2560px-Logo_Cin%C3%A9%2B_Classic_2011.svg.png" group-title="Bantel tv+",Classic +
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2165",Classic +
 http://bantel.iptvperu.tv:1935/bantel/classic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QDMD1N8/dhe.png" group-title="Bantel tv+",DHE
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3743",DHE
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DHE.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/47.2-fmhchannelhd.png" group-title="Bantel tv+",FMHMovies
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",FMHMovies
 http://bantel.iptvperu.tv:1935/bantel/fmhmovies.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Bantel tv+",FX
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1303",FX
 http://bantel.iptvperu.tv:1935/transcoder2-srt/FX.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Bantel tv+",Golden Plus
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3765",Golden Plus
 http://bantel.iptvperu.tv:1935/transcoderip/golden_t5.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="Bantel tv+",Mega Cine TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mega Cine TV
 http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Bantel tv+",My Time
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",My Time
 http://bantel.iptvperu.tv:1935/bantel/mytime/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Bantel tv+",Paramount
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1719",Paramount
 http://bantel.iptvperu.tv:1935/transcoder4-srt/paramount.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Bantel tv+",Sony Channel
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="188",Sony Channel
 http://bantel.iptvperu.tv:1935/transcoder4-srt/sonychannel.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="Bantel tv+",Sony Movies
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1214",Sony Movies
 http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/M1kxMnB/studio-universal.png" group-title="Bantel tv+",Studio Universal
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2625",Studio Universal
 http://bantel.iptvperu.tv:1935/transcoder5-srt/studiouniversal.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="Bantel tv+",Star Channel
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4518",Star Channel
 http://bantel.iptvperu.tv:1935/transcoder2-srt/StarChannel.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Bantel tv+",Universal
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="187",Universal
 http://bantel.iptvperu.tv:1935/transcoder5-srt/universalchannel.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/1200px-USA-Network-Logo.svg.png" group-title="Bantel tv+",USA
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3229",USA
 http://bantel.iptvperu.tv:1935/transcoder5-srt/SYFY.stream/chunks.m3u8%09USA
-#EXTINF:0 tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Bantel tv+",History
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1455",History
 http://bantel.iptvperu.tv:1935/transcoder4-srt/History.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Bantel tv+",History 2
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1455",History 2
 http://bantel.iptvperu.tv:1935/transcoder4-srt/history2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Bantel tv+",Love Nature
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2035",Love Nature
 http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="Bantel tv+",Nat Geo
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="56",Nat Geo
 http://bantel.iptvperu.tv:1935/transcoder2-srt/NatGeo.stream/chunks.m3u8
-#EXTINF:0 group-title="NET PLAY",A&E
-http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",AMC
-http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",AXN
-http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Cinema
-http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Comedy Central
-http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Europa Europa
-http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",FX
-http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",HBO 2
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Multicine
-http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Multiprime
-http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Panamount
-http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Sony Channel
-http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Sony Movies
-http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Star Channel
-http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Studio Universal
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",TNT 
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",TNT Series
-http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Universal
-http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",USA
-http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Warner
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Baby TV
-http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Cartoon Netwoort
-http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Cartoonito
-http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",DreamWorks
-http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Nick Jr.
-http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Nick Music
-http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Nickelodeon
-http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Tooncast
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",ZooMoo
-http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",ESPN
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",ESPN 2
-http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",ESPN 3
-http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",ESPN 4
-http://stream.flynetwifi.com:1935/live/mobile-205/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",FOX DEPORTES
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",FOX SPORTS
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",FOX SPORTS 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",FOX SPORTS 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",La Liga EA Sports
-http://stream.flynetwifi.com:1935/live/mobile-017/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",TNT Sports
-http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",TyC Sports
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Animal Planet
-http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Discovery
-http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Discovery Turbo
-http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Discovery H&H
-http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",History 2
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Nat Geo
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",CNBC
-http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",CNN en Español
-http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",RT
-http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Caracol
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Corazón
-http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",E!
-http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",El Gourmet
-http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Film&Art
-http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Lifetime
-http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",MTV
-http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",MTV PUSH
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",NCN Internacional
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",NCN Novelas
-http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Pasiones
-http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Telemundo
-http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Telemundo Internacional
-http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Telesur
-http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Universo
-http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Univision
-http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
-#EXTINF:0 group-title="NET PLAY",Venus
-http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",bitME
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Cartoonito
-http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Nickelodeon
-http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Animal Planet
-http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Discovery H&H
-http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Discovery ID
-http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Discovery Turbo
-http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",History
-http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Nat Geo
-http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Nat Geo Wild
-http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",ESPN
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",ESPN 2
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",ESPN 3
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Deportes
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports.mx" tvg-logo="" group-title="Livex POP",FOX Sports
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Sports 2
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",FOX Sports 3
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",GOLTV
-http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",TUDN
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",WIN Sports+
-http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",FX
-http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Golden Plus
-http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO Family
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO Family
-http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO Signature
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",HBO+
-http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Pelicula
-http://livex.pop-app.live/s4n/poplive/ch500/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Sony Channel
-http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",TNT Series
-http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Antena 3 Internacional
-http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Caracol
-http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",China
-http://livex.pop-app.live/s4n/poplive/ch553/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Corazón
-http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",MAS CHIC
-http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Telemundo
-http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",TLC
-http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Livex POP",Univisión
-http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
