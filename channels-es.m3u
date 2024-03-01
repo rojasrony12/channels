@@ -1,161 +1,37 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4804",Willax
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2545",Latina Televisi�n
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2545",Latina
 http://bantel.iptvperu.tv:1935/prueba/latinamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Top Latino TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Top Latino
 http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4792",Am�rica Televisi�n
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2546",America
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Panamericana Televisi�n
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4792",Panamericana
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Exitosa Televisi�n
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Exitosa
 http://bantel.iptvperu.tv:1935/transcoderip/exitosamovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2542",TV Per�
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2542",TV Peru
 http://bantel.iptvperu.tv:1935/transcoderip/tvperumovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2549",ATV +
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2549",ATV+
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="962",ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4749",La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4800",Viva TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="984",Viva
 http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",USMP TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",USMP
 http://bantel.iptvperu.tv:1935/transcoderip/usmpmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4798",Global Televisi�n
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1426",Global
 http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Justicia TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Justicia
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Congreso TV
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Congreso
 http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2544",Canal IPe
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2544",IPe
 http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Nativa Televisi�n
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Nativa
 http://bantel.iptvperu.tv:1935/astralocal/nativa.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4794",ATV Sur
+#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4794",ATVSur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",PBO TV
-http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",CAL TV
-http://bantel.iptvperu.tv:1935/astralocal/Calt_tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Matices TV
-http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Conectad2 Televisi�n
-http://bantel.iptvperu.tv:1935/miscelaneos/conecta2TV/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",CNC Digital
-http://bantel.iptvperu.tv:1935/bantel/cncdigital.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Tele Lima
-http://bantel.iptvperu.tv:1935/miscelaneos/tllima.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3875",Like TV
-http://bantel.iptvperu.tv:1935/Astralocal/fuegotv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1188",E!
-http://bantel.iptvperu.tv:1935/transcoder4-srt/e!.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="352",DW
-http://bantel.iptvperu.tv:1935/miscelaneos/dw.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",IVC
-http://bantel.iptvperu.tv:1935/transcoder4-srt/ivc.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1954",Las Estrellas
-http://bantel.iptvperu.tv:1935/transcoder4-srt/Canal_LasEstrellas.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1200",Lifetime
-http://bantel.iptvperu.tv:1935/transcoder4-srt/lifetime.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1973",MTV
-http://bantel.iptvperu.tv:1935/transcoder4-srt/MTV.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Per�
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Romantica
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Salsa
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mi M�sica Reggaeton
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mix Music
-http://bantel.iptvperu.tv:1935/bantel/mixmusic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Tu M�sica HD
-http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1968",Telemundo Internacional
-http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2504",Tlnovelas
-http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3209",Univisi�n
-http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Canal Infantil
-http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="19",Disney Channel
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1197",Disney Junior
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Dream Workds
-http://bantel.iptvperu.tv:1935/transcoder5-srt/dreamworkds.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",FMHKids
-http://bantel.iptvperu.tv:1935/bantel/fmhkids/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="41",Nickelodeon
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="322",Nick Jr.
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2709",TeenNick
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="344",ESPN 2
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN2_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="355",ESPN 3
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN3_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1432",ESPN 4
-http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN 5
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN4_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN 6
-http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports3_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2540",ESPN 7
-http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports2_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1573",AXN
-http://bantel.iptvperu.tv:1935/transcoder4-srt/axn.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1208",A&E
-http://bantel.iptvperu.tv:1935/transcoder4-srt/AyE.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="64",Cine Canal
-http://bantel.iptvperu.tv:1935/transcoder2-srt/CineCanal.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Familiar
-http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Hispano
-http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Premium
-http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Cine Sure�o
-http://bantel.iptvperu.tv:1935/bantel/cine_sureno/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2165",Classic +
-http://bantel.iptvperu.tv:1935/bantel/classic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3743",DHE
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DHE.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",FMHMovies
-http://bantel.iptvperu.tv:1935/bantel/fmhmovies.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1303",FX
-http://bantel.iptvperu.tv:1935/transcoder2-srt/FX.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3765",Golden Plus
-http://bantel.iptvperu.tv:1935/transcoderip/golden_t5.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",Mega Cine TV
-http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+",My Time
-http://bantel.iptvperu.tv:1935/bantel/mytime/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1719",Paramount
-http://bantel.iptvperu.tv:1935/transcoder4-srt/paramount.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="188",Sony Channel
-http://bantel.iptvperu.tv:1935/transcoder4-srt/sonychannel.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1214",Sony Movies
-http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2625",Studio Universal
-http://bantel.iptvperu.tv:1935/transcoder5-srt/studiouniversal.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="4956",Star Channel
-http://bantel.iptvperu.tv:1935/transcoder2-srt/StarChannel.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="187",Universal
-http://bantel.iptvperu.tv:1935/transcoder5-srt/universalchannel.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="3229",USA
-http://bantel.iptvperu.tv:1935/transcoder5-srt/SYFY.stream/chunks.m3u8%09USA
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1455",History
-http://bantel.iptvperu.tv:1935/transcoder4-srt/History.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="1455",History 2
-http://bantel.iptvperu.tv:1935/transcoder4-srt/history2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="2035",Love Nature
-http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bantel tv+" channelId="56",Nat Geo
-http://bantel.iptvperu.tv:1935/transcoder2-srt/NatGeo.stream/chunks.m3u8
