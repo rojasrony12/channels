@@ -5,7 +5,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/prueba/latinamovil_t6.stream/playlist.m3u8
 #EXTINF:0,Top Latino
 http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1.stream/playlist.m3u8
-#EXTINF:0 channelId="2546",America
+#EXTINF:0 channelId="4792",America
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
 #EXTINF:0 channelId="1956",Pantel
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
