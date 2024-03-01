@@ -283,7 +283,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1.stream/chunks.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png" group-title="Musica",Mi Música Salsa
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/mimusica_reggaeton-e1684536394429.jpeg" group-title="Musica",Mi Música Reggaeton
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoMiMusicaReggaeton.png" group-title="Musica",Mi Música Reggaeton
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.pinimg.com/474x/74/e4/32/74e432a0e2796bd179a763cf6b6ec12e.jpg" group-title="Musica",Mix Music
 http://bantel.iptvperu.tv:1935/bantel/mixmusic.stream/chunks.m3u8
