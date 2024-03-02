@@ -325,10 +325,6 @@ http://177.234.247.66:8888/play/a07f
 http://45.71.252.67:8000/play/a0kn
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="Novelas",Pasiones
 http://45.71.252.67:8000/play/a0ke
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="Novelas",Sony Canal Novelas
-https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="Novelas",Sony Canal Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="Novelas",Telemundo
 http://45.71.252.67:8000/play/a0fr
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Novelas",Telenovelas
