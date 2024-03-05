@@ -12,11 +12,11 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="Perú",Exitosa
 https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="Perú",TV Perú
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="Perú",ATV+
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Perú",ATV 
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/La_Tele_2009.png" group-title="Perú",La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VivaTV.pe" tvg-logo="https://i.imgur.com/m44jTZK.png" group-title="Perú",Viva TV
@@ -24,7 +24,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="Perú",USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="Perú",Global
-http://45.71.252.67:8000/play/a0fk
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-logo="https://i.imgur.com/VOjLXJd.png" group-title="Perú",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Perú",Congreso TV
@@ -34,7 +34,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.ibb.co/zmrc4tN/tvper-noticias.png" group-title="Perú",TV Perú Noticias 
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Perú",ATV Sur
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="Perú",Karibeña
 http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Perú",Nativa 
@@ -305,6 +305,8 @@ http://138.59.177.34:8000/play/a05q
 http://177.234.247.66:8888/play/a07o
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="Musica",Tu Música HD
 http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/USMP_TV_M%C3%BAsica.png" group-title="Musica",USMP Music
+http://bantel.iptvperu.tv:1935/transcoderip/usmptvmusicamovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",Canal N 
 http://45.71.252.67:8000/play/a0fi
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN Español
