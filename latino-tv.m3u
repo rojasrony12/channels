@@ -303,8 +303,6 @@ http://138.59.177.34:8000/play/a02i
 http://138.59.177.34:8000/play/a05q
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/VHZkccH/nickmusic.png" group-title="Musica",Nick Music
 http://177.234.247.66:8888/play/a07o
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="Musica",Tu Música HD
-http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/USMP_TV_M%C3%BAsica.png" group-title="Musica",USMP Music
 http://bantel.iptvperu.tv:1935/transcoderip/usmptvmusicamovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",Canal N 
