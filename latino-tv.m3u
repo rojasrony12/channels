@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Perú",Willax
-https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Perú",Latina
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="Perú",Top Latino 
