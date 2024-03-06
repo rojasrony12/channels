@@ -101,6 +101,8 @@ http://209.45.101.38:7500/play/a0bt
 http://209.45.101.38:7500/play/a09m
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 [AR]
 http://209.45.101.38:7500/play/a0av
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="Deportes",Fox Deportes [MX]
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="Deportes",Fox Sports 1 [MX]
 http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="Deportes",Fox Sports 2 [MX]
@@ -125,7 +127,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 http://181.78.105.146:2000/play/a08m
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="Deportes",Tigo Sports [CR]
 http://138.59.177.34:8000/play/a05i
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="Deportes",Tigo Sports [GUA]
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="Deportes",Tigo Sports [GT]
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/HH6D71L/titantv.png" group-title="Deportes",Titan
 http://191.97.60.193:10000/play/a04d
@@ -180,7 +182,7 @@ http://138.59.177.34:8000/play/a035
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="Cine y Series",Golden
 http://168.181.122.234:8000/play/a01a
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/DDCJCPf/golden-edge.png" group-title="Cine y Series",Golden EDGE
-http://190.2.214.171:8008/play/a05b
+http://45.71.252.67:8000/play/a0hv
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Cine y Series",Golden Plus
 http://190.2.214.171:8008/play/a05g
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="Cine y Series",Golden Premiere
@@ -190,19 +192,19 @@ http://168.181.122.234:8000/play/a03r
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
 http://138.59.177.34:8000/play/a01m
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
-http://138.59.177.34:8000/play/a01n
+http://45.71.252.67:8000/play/a0fz
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/0BZnBQJ/hbo-family.png" group-title="Cine y Series",HBO Family
-http://138.59.177.34:8000/play/a01p
+http://45.71.252.67:8000/play/a0mh
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/7S0Pg3v/hbo-mundi.png" group-title="Cine y Series",HBO Mundi
 http://45.71.252.67:8000/play/a0l7
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/TY2WjMm/hbo-plus.jpg" group-title="Cine y Series",HBO Plus
-http://138.59.177.34:8000/play/a01o
+http://45.71.252.67:8000/play/a0mj
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Y2kLJ4d/hbo-Pop.png" group-title="Cine y Series",HBO Pop
 http://45.71.252.67:8000/play/a0na
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Z1L2LR1/hbo-signature.png" group-title="Cine y Series",HBO Signature
 http://177.234.247.66:8888/play/a067
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/k4SrHdb/hbo-xtreme.png" group-title="Cine y Series",HBO Xtreme
-http://138.59.177.34:8000/play/a01q
+http://45.71.252.67:8000/play/a0mi
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/r4Nj5CK/multicinema.png" group-title="Cine y Series",Multicinema
 http://138.59.177.34:8000/play/a04f
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="Cine y Series",Multipremier
@@ -353,7 +355,3 @@ http://45.71.252.67:8000/play/a0ov
 http://45.71.252.67:8000/play/a0o5
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/d49zSzn/sextreme.png" group-title="Adultos [+18]",seXtreme
 http://45.71.252.67:8000/play/a0o6
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/fGvG7cM/penthousegold.png" group-title="Adultos [+18]",Pent House Gold
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/QdmPc9x/redlighthd.png" group-title="Adultos [+18]",Redlight HD
-http://51.159.102.100/RedlightHD/index.m3u8
