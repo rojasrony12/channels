@@ -74,7 +74,7 @@ http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="Deportes",Claro Sports 2
 http://138.59.177.34:8000/play/a045
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [AR]
-http://190.90.154.73:8080/play/a012
+http://177.234.247.66:8888/play/a00k
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [CO]
 http://190.90.154.73:8080/play/a0a4
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [CH]
@@ -95,11 +95,17 @@ http://190.90.154.73:8080/play/a01y
 http://190.90.154.73:8080/play/a02t
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN Premium
 http://190.61.55.186:1010/play/a019
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="Deportes",Fox Sports 1
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="Deportes",Fox Sports 1 [AR]
+http://209.45.101.38:7500/play/a0bt
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="Deportes",Fox Sports 2 [AR]
+http://209.45.101.38:7500/play/a09m
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="Deportes",Fox Sports 3 [AR]
+http://209.45.101.38:7500/play/a0av
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="Deportes",Fox Sports 1 [MX]
 http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="Deportes",Fox Sports 2 [MX]
 http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="Deportes",Fox Sports 3 [MX]
 http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
 http://45.71.252.67:8000/play/a0o1
