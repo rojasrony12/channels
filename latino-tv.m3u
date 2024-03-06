@@ -74,7 +74,7 @@ http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="Deportes",Claro Sports 2
 http://138.59.177.34:8000/play/a045
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [AR]
-http://177.234.247.66:8888/play/a00k
+http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [CO]
 http://190.90.154.73:8080/play/a0a4
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [CH]
@@ -349,9 +349,9 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.ibb.co/qJSfTch/nazarenas-tv.png" group-title="Religiosos",Nazarenas TV
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/media_w681248222_2007.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="Adultos [+18]",PlayBoy
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="XXX [+18]",PlayBoy
 http://45.71.252.67:8000/play/a0ov
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="Adultos [+18]",Venus
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="XXX [+18]",Venus
 http://45.71.252.67:8000/play/a0o5
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/d49zSzn/sextreme.png" group-title="Adultos [+18]",seXtreme
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/d49zSzn/sextreme.png" group-title="XXX [+18]",seXtreme
 http://45.71.252.67:8000/play/a0o6
