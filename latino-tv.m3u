@@ -129,7 +129,7 @@ http://181.78.105.146:2000/play/a08m
 http://138.59.177.34:8000/play/a05i
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="Deportes",Tigo Sports [GT]
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/HH6D71L/titantv.png" group-title="Deportes",Titan
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/922TXXb/titan.png" group-title="Deportes",Titan
 http://191.97.60.193:10000/play/a04d
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/wJtctLb/tudn.png" group-title="Deportes",TUDN [MX]
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
