@@ -82,9 +82,9 @@ http://190.90.154.73:8080/play/a02y
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [PE]
 http://190.90.154.73:8080/play/a0a2
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
-http://190.90.154.73:8080/play/a00y
+http://190.61.55.186:1010/play/a02s
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="Deportes",ESPN 3
-http://190.90.154.73:8080/play/a01x
+http://190.61.55.186:1010/play/a01x
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="Deportes",ESPN 4
 http://177.234.247.66:8888/play/a027
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="Deportes",ESPN 5
