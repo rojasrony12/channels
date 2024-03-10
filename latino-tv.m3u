@@ -14,19 +14,19 @@ https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="Perú",TV Perú
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="Perú",ATV+
-http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Perú",ATV 
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/La_Tele_2009.png" group-title="Perú",La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="VivaTV.pe" tvg-logo="https://i.imgur.com/m44jTZK.png" group-title="Perú",Viva TV
-http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="Perú",USMP TV
-https://streamusmptv.ddns.net/live/stream.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/usmpmovil_t6.stream/chunks.m3u8?
 #EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="Perú",Global
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-logo="https://i.imgur.com/VOjLXJd.png" group-title="Perú",Justicia TV
-http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Perú",Congreso TV
 http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://i.ibb.co/bH2D6pD/tvper-internacional.png" group-title="Perú",TV Perú Internacional 
@@ -36,7 +36,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Perú",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="Perú",Karibeña
-http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Perú",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Perú",Matices TV
@@ -73,28 +73,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="Deportes",Claro Sports 2
 http://138.59.177.34:8000/play/a045
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [AR]
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [CO]
-http://190.90.154.73:8080/play/a0a4
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [CH]
-http://190.90.154.73:8080/play/a02y
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN [PE]
-http://190.90.154.73:8080/play/a0a2
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
+http://190.119.178.46:8000/play/a02j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
-http://190.61.55.186:1010/play/a02s
+http://190.119.178.46:8000/play/a007
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="Deportes",ESPN 3
-http://190.61.55.186:1010/play/a01x
+http://190.119.178.46:8000/play/a00j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="Deportes",ESPN 4
-http://177.234.247.66:8888/play/a027
+http://138.59.177.34:8000/play/a07q
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="Deportes",ESPN 5
-http://190.90.154.73:8080/play/a02s
+http://190.119.178.46:8000/play/a00r
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="Deportes",ESPN 6
-http://190.90.154.73:8080/play/a01y
+http://190.119.178.46:8000/play/a02m
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="Deportes",ESPN 7
-http://190.90.154.73:8080/play/a02t
+http://190.119.178.46:8000/play/a02k
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN Premium
-http://190.61.55.186:1010/play/a019
+http://190.119.178.46:8000/play/a02l
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports 1 [AR]
 http://209.45.101.38:7500/play/a0bt
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 [AR]
@@ -112,7 +106,7 @@ http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
 http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="Deportes",Gol TV
-http://177.234.247.66:8888/play/a02q
+http://45.71.252.67:8000/play/a0nv
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/s9hfkLM/liga1.png" group-title="Deportes",Liga 1
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/166147
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="Deportes",Liga 1 Max
@@ -120,7 +114,7 @@ http://177.53.155.236:8000/play/a0bt
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://vamos.com.es/wp-content/uploads/2023/02/image-29-1024x406.png" group-title="Deportes",Liga de Campeones
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
-http://177.234.247.66:8888/play/a02j
+http://45.71.252.67:8000/play/a0o2
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.imgur.com/ZruUCbd.png" group-title="Deportes",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/8d4f12R/sky-sport.png" group-title="Deportes",Sky Sports
