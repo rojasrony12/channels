@@ -28,7 +28,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/global_t1/playlist.m3u8
 #EXTINF:0 tvg-id="JusticiaTV.pe" tvg-logo="https://i.imgur.com/VOjLXJd.png" group-title="Bantel tv+",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 #EXTINF:0 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Bantel tv+",Congreso TV
-http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/chunks.m3u8
 #EXTINF:0 tvg-id="CanalIPe.pe" tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="Bantel tv+",Canal IPe
 http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1/playlist.m3u8
 #EXTINF:0 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Bantel tv+",Nativa Televisión
@@ -38,11 +38,11 @@ http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:0 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Bantel tv+",PBO TV
 http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
 #EXTINF:0 tvg-id="CAL.pe" tvg-logo="https://icadeg.com.pe/wp-content/uploads/2019/07/COLEGIO-DE-ABOGADOS-DE-LIMA-PERU-ICADEG.png" group-title="Bantel tv+",CAL TV
-http://bantel.iptvperu.tv:1935/astralocal/Calt_tv/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/Cal_TV/chunks.m3u8
 #EXTINF:0 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Bantel tv+",Matices TV
 http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
 #EXTINF:0 tvg-id="Conecta2TV.pe" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="Bantel tv+",Conectad2 Televisión
-http://bantel.iptvperu.tv:1935/miscelaneos/conecta2TV/playlist.m3u8
+http://bantel.iptvperu.tv:1935/Server_OTT/Conecta2tv/chunks.m3u8
 #EXTINF:0 tvg-id="CNCDigital.pe" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Bantel tv+",CNC Digital
 http://bantel.iptvperu.tv:1935/bantel/cncdigital.stream/chunks.m3u8
 #EXTINF:0 tvg-id="Telelima.pe" tvg-logo="https://i.imgur.com/UGPhCcT.png" group-title="Bantel tv+",Tele Lima
@@ -62,17 +62,15 @@ http://bantel.iptvperu.tv:1935/transcoder4-srt/lifetime.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Bantel tv+",MTV
 http://bantel.iptvperu.tv:1935/transcoder4-srt/MTV.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Bantel tv+",Mi Música Perú
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582.png" group-title="Bantel tv+",Mi Música Romantica
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png" group-title="Bantel tv+",Mi Música Salsa
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/mimusica_reggaeton-e1684536394429.jpeg" group-title="Bantel tv+",Mi Música Reggaeton
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/74/e4/32/74e432a0e2796bd179a763cf6b6ec12e.jpg" group-title="Bantel tv+",Mix Music
-http://bantel.iptvperu.tv:1935/bantel/mixmusic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="Bantel tv+",Tu Música HD
-http://bantel.iptvperu.tv:1935/bantel/megacinetv.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="Bantel tv+",Telemundo
 http://bantel.iptvperu.tv:1935/transcoderip/telemundo_t4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Bantel tv+",Tlnovelas
@@ -80,21 +78,21 @@ http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Bantel tv+",Univisión
 http://bantel.iptvperu.tv:1935/transcoderip/Univision_t4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/04.Logo-Canal-Infantil-Alpha-AOriginal-1024x576.png" group-title="Bantel tv+",Canal Infantil
-http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="Bantel tv+",Disney Channel
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/disneychannel_t2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="Bantel tv+",Disney Junior
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Bantel tv+",Dream Workds
-http://bantel.iptvperu.tv:1935/transcoder5-srt/dreamworkds.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XC7yHsw/fmh-kids.png" group-title="Bantel tv+",FMHKids
-http://bantel.iptvperu.tv:1935/bantel/fmhkids/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/fmhkids_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="Bantel tv+",Nickelodeon
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/nick_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="Bantel tv+",Nick Jr.
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/nickjr_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Bantel tv+",TeenNick
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/nickteen_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Bantel tv+",ESPN
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Bantel tv+",ESPN 2
