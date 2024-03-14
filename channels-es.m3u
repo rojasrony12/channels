@@ -32,23 +32,15 @@ http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/chunks.m3u8
 #EXTINF:0 tvg-id="CanalIPe.pe" tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="Bantel tv+",Canal IPe
 http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1/playlist.m3u8
 #EXTINF:0 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Bantel tv+",Nativa Televisión
-http://bantel.iptvperu.tv:1935/astralocal/nativa.stream/playlist.m3u8
+https://ntv.pe/salida/nativa.m3u8
 #EXTINF:0 tvg-id="ATVSur.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Bantel tv+",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
-#EXTINF:0 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Bantel tv+",PBO TV
-http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
 #EXTINF:0 tvg-id="CAL.pe" tvg-logo="https://icadeg.com.pe/wp-content/uploads/2019/07/COLEGIO-DE-ABOGADOS-DE-LIMA-PERU-ICADEG.png" group-title="Bantel tv+",CAL TV
 http://bantel.iptvperu.tv:1935/astralocal/Cal_TV/chunks.m3u8
 #EXTINF:0 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Bantel tv+",Matices TV
 http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
 #EXTINF:0 tvg-id="Conecta2TV.pe" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="Bantel tv+",Conectad2 Televisión
 http://bantel.iptvperu.tv:1935/Server_OTT/Conecta2tv/chunks.m3u8
-#EXTINF:0 tvg-id="CNCDigital.pe" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Bantel tv+",CNC Digital
-http://bantel.iptvperu.tv:1935/bantel/cncdigital.stream/chunks.m3u8
-#EXTINF:0 tvg-id="Telelima.pe" tvg-logo="https://i.imgur.com/UGPhCcT.png" group-title="Bantel tv+",Tele Lima
-http://bantel.iptvperu.tv:1935/miscelaneos/tllima.stream/playlist.m3u8
-#EXTINF:0 tvg-id="LikeTV.pe" tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="Bantel tv+",Like TV
-http://bantel.iptvperu.tv:1935/Astralocal/fuegotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Bantel tv+",E!
 http://bantel.iptvperu.tv:1935/transcoderip/e!_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Bantel tv+",DW
