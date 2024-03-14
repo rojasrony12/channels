@@ -51,6 +51,12 @@ http://bantel.iptvperu.tv:1935/transcoderip/ivc_t4/chunks.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/Canal_LasEstrellas_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Bantel tv+",Lifetime
 http://bantel.iptvperu.tv:1935/transcoderip/lifetime_t4/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="Bantel tv+",Telemundo
+http://bantel.iptvperu.tv:1935/transcoderip/telemundo_t4/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Bantel tv+",Tlnovelas
+http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Bantel tv+",Univisión
+http://bantel.iptvperu.tv:1935/transcoderip/Univision_t4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Bantel tv+",MTV
 http://bantel.iptvperu.tv:1935/transcoderip/MTV_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Bantel tv+",Mi Música Perú
@@ -63,12 +69,6 @@ http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1/chunks.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/74/e4/32/74e432a0e2796bd179a763cf6b6ec12e.jpg" group-title="Bantel tv+",Mix Music
 http://bantel.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/y6q9VDg/telemundopuertorico.png" group-title="Bantel tv+",Telemundo
-http://bantel.iptvperu.tv:1935/transcoderip/telemundo_t4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Bantel tv+",Tlnovelas
-http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Bantel tv+",Univisión
-http://bantel.iptvperu.tv:1935/transcoderip/Univision_t4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/04.Logo-Canal-Infantil-Alpha-AOriginal-1024x576.png" group-title="Bantel tv+",Canal Infantil
 http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="Bantel tv+",Disney Channel
