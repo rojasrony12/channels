@@ -52,9 +52,9 @@ http://138.59.177.34:8000/play/a077
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Culturales",Discovery ID
 http://45.71.252.67:8000/play/a0gh
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-logo="https://i.ibb.co/vQxc9s9/discovery-science.png" group-title="Culturales",Discovery Science
-http://190.2.214.171:8008/play/a00a
+http://138.59.177.34:8000/play/a00v
 #EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-logo="https://i.ibb.co/L9V9hKD/discovery-theater.png" group-title="Culturales",Discovery Theater
-http://177.234.247.66:8888/play/a018
+http://138.59.177.34:8000/play/a05m
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Culturales",Discovery Turbo
 http://45.71.252.67:8000/play/a0ks
 #EXTINF:-1 tvg-id="DiscoveryWorldLatinAmerica.us" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Culturales",Discovery World
@@ -111,12 +111,8 @@ http://45.71.252.67:8000/play/a0nv
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/166147
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="Deportes",Liga 1 Max
 http://177.53.155.236:8000/play/a0bt
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://vamos.com.es/wp-content/uploads/2023/02/image-29-1024x406.png" group-title="Deportes",Liga de Campeones
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
 http://45.71.252.67:8000/play/a0o2
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.imgur.com/ZruUCbd.png" group-title="Deportes",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/8d4f12R/sky-sport.png" group-title="Deportes",Sky Sports
 http://181.78.105.146:2000/play/a08m
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KXy3dQP/Tigo-sports.png" group-title="Deportes",Tigo Sports [CR]
@@ -178,7 +174,7 @@ http://168.181.122.234:8000/play/a01a
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/DDCJCPf/golden-edge.png" group-title="Cine y Series",Golden EDGE
 http://45.71.252.67:8000/play/a0hv
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Cine y Series",Golden Plus
-http://190.2.214.171:8008/play/a05g
+http://190.119.178.46:8000/play/a013
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="Cine y Series",Golden Premiere
 http://168.181.122.234:8000/play/a01t
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/xLbWYGk/golden-premier2.png" group-title="Cine y Series",Golden Premiere 2
@@ -238,7 +234,7 @@ http://138.59.177.34:8000/play/a053
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
 http://138.59.177.34:8000/play/a05d
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/bXzTMzH/adult-swim.png" group-title="Infantil",Adult Swim
-http://190.90.154.73:8080/play/a025
+http://200.125.170.120:8000/play/a0ct
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/vHym1DG/Baby-First-TV.png" group-title="Infantil",Baby First
 http://138.59.177.34:8000/play/a03y
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="Infantil",Baby TV
