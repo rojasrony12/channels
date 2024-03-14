@@ -50,17 +50,17 @@ http://bantel.iptvperu.tv:1935/miscelaneos/tllima.stream/playlist.m3u8
 #EXTINF:0 tvg-id="LikeTV.pe" tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="Bantel tv+",Like TV
 http://bantel.iptvperu.tv:1935/Astralocal/fuegotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Bantel tv+",E!
-http://bantel.iptvperu.tv:1935/transcoder4-srt/e!.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/e!_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Bantel tv+",DW
 http://bantel.iptvperu.tv:1935/miscelaneos/dw.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="Bantel tv+",IVC
-http://bantel.iptvperu.tv:1935/transcoder4-srt/ivc.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/ivc_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="Bantel tv+",Las Estrellas
-http://bantel.iptvperu.tv:1935/transcoder4-srt/Canal_LasEstrellas.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/Canal_LasEstrellas_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Bantel tv+",Lifetime
-http://bantel.iptvperu.tv:1935/transcoder4-srt/lifetime.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/lifetime_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Bantel tv+",MTV
-http://bantel.iptvperu.tv:1935/transcoder4-srt/MTV.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/MTV_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Bantel tv+",Mi Música Perú
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582.png" group-title="Bantel tv+",Mi Música Romantica
@@ -110,7 +110,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Bantel tv+",AXN
 http://bantel.iptvperu.tv:1935/transcoderip/axn_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Bantel tv+",A&E
-http://bantel.iptvperu.tv:1935/transcoderip/AyE_t4.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/aye_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="Bantel tv+",Cine Canal
 http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0KBbXVT/cine-familiar.png" group-title="Bantel tv+",Cine Familiar
@@ -128,7 +128,7 @@ http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Bantel tv+",FX
 http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Bantel tv+",Golden Plus
-http://bantel.iptvperu.tv:1935//transcoderip/Golden_t4/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Bantel tv+",Paramount
 http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Bantel tv+",Sony Channel
@@ -142,7 +142,7 @@ http://bantel.iptvperu.tv:1935/transcoder2-srt/StarChannel.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Bantel tv+",Universal
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/1200px-USA-Network-Logo.svg.png" group-title="Bantel tv+",USA
-http://bantel.iptvperu.tv:1935/transcoder5-srt/SYFY.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/SYFY_t5.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Bantel tv+",History
 http://bantel.iptvperu.tv:1935/transcoder4-srt/History.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Bantel tv+",History 2
