@@ -73,11 +73,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="Deportes",Claro Sports 2
 http://138.59.177.34:8000/play/a045
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="DEPORTES",DirecTV Sports [AR]
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="Deportes",DSports [AR]
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="DEPORTES",DirecTV Sports 2 [AR]
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="Deportes",DSports 2 [AR]
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/310509
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DirecTV Sports+ [AR]
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" group-title="Deportes",DSports+ [AR]
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
 http://190.119.178.46:8000/play/a02j
