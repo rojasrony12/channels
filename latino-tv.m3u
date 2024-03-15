@@ -73,6 +73,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="Deportes",Claro Sports 2
 http://138.59.177.34:8000/play/a045
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="DEPORTES",DirecTV Sports [AR]
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="DEPORTES",DirecTV Sports 2 [AR]
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/310509
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DirecTV Sports+ [AR]
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
 http://190.119.178.46:8000/play/a02j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
@@ -90,9 +96,9 @@ http://190.119.178.46:8000/play/a02k
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN Premium
 http://190.119.178.46:8000/play/a02l
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports 1 [AR]
-http://209.45.101.38:7500/play/a0bt
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/518960
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 [AR]
-http://209.45.101.38:7500/play/a09m
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 [AR]
 http://209.45.101.38:7500/play/a0av
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="Deportes",Fox Deportes [MX]
