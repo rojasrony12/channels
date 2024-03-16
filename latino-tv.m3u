@@ -74,11 +74,11 @@ http://138.59.177.34:8000/play/a01i
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6Dp21Dg/claro-sports-2.png" group-title="Deportes",Claro Sports 2
 http://138.59.177.34:8000/play/a045
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="Deportes",DSports [AR]
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145400
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="Deportes",DSports 2 [AR]
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/310509
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145402
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" group-title="Deportes",DSports+ [AR]
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145403
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
 http://190.119.178.46:8000/play/a02j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
@@ -100,7 +100,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/518960
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_2.webp" group-title="Deportes",Fox Sports 2 [AR]
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_3.webp" group-title="Deportes",Fox Sports 3 [AR]
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2789
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3041
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="Deportes",Fox Deportes [MX]
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="Deportes",Fox Sports 1 [MX]
