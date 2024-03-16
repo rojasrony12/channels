@@ -283,14 +283,20 @@ http://190.90.154.73:8080/play/a08u
 http://177.234.247.66:8888/play/a06c
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/bKNxCmf/TruTV.png" group-title="General",TruTV
 http://190.60.40.37:12500/play/a00w
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Musica",Mi Música Hits
+http://191.97.60.193:10000/play/a032
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-k-pop.png" group-title="Musica",Mi Música K-Pop
+http://191.97.60.193:10000/play/a031
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Musica",Mi Música Perú
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582.png" group-title="Musica",Mi Música Romantica
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1.stream/chunks.m3u8
+http://191.97.60.193:10000/play/a030
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicapopular.png" group-title="Musica",Mi Música Popular
+http://160.20.165.246:8000/play/a01b
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.png" group-title="Musica",Mi Música Reggaeton
+http://160.20.165.246:8000/play/a018
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicaromantica.png" group-title="Musica",Mi Música Romantica
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png" group-title="Musica",Mi Música Salsa
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoMiMusicaReggaeton.png" group-title="Musica",Mi Música Reggaeton
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1.stream/chunks.m3u8
+http://160.20.165.246:8000/play/a01a
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.pinimg.com/474x/74/e4/32/74e432a0e2796bd179a763cf6b6ec12e.jpg" group-title="Musica",Mix Music
 http://bantel.iptvperu.tv:1935/bantel/mixmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://pbs.twimg.com/profile_images/738838081122541568/Xly8mKUw_400x400.jpg" group-title="Musica",HTV
