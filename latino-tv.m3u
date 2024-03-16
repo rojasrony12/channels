@@ -28,7 +28,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/global_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-logo="https://i.imgur.com/VOjLXJd.png" group-title="Perú",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Perú",Congreso TV
-http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/chunks.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://i.ibb.co/bH2D6pD/tvper-internacional.png" group-title="Perú",TV Perú Internacional 
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.ibb.co/zmrc4tN/tvper-noticias.png" group-title="Perú",TV Perú Noticias 
@@ -95,20 +95,20 @@ http://190.119.178.46:8000/play/a02m
 http://190.119.178.46:8000/play/a02k
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN Premium
 http://190.119.178.46:8000/play/a02l
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports 1 [AR]
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_1.webp" group-title="Deportes",Fox Sports 1 [AR]
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/518960
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 [AR]
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_2.webp" group-title="Deportes",Fox Sports 2 [AR]
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 [AR]
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_3.webp" group-title="Deportes",Fox Sports 3 [AR]
 http://209.45.101.38:7500/play/a0av
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="Deportes",Fox Deportes [MX]
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="Deportes",Fox Sports 1 [MX]
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jkvMh3d/fox-sports2.png" group-title="Deportes",Fox Sports 2 [MX]
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/V9pg1y2/fox-sports3.png" group-title="Deportes",Fox Sports 3 [MX]
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
 http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="Deportes",Gol TV
@@ -297,9 +297,7 @@ http://160.20.165.246:8000/play/a018
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png" group-title="Musica",Mi Música Salsa
 http://160.20.165.246:8000/play/a01a
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.pinimg.com/474x/74/e4/32/74e432a0e2796bd179a763cf6b6ec12e.jpg" group-title="Musica",Mix Music
-http://bantel.iptvperu.tv:1935/bantel/mixmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://pbs.twimg.com/profile_images/738838081122541568/Xly8mKUw_400x400.jpg" group-title="Musica",HTV
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/HTV.png" group-title="Musica",HTV
 http://138.59.177.34:8000/play/a04c
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Musica",MTV
 http://45.71.252.67:8000/play/a0m1
