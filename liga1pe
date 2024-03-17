@@ -3,5 +3,39 @@
 https://nxt.plus:8443/pepespain/rytryrtytrytry/169426
 #EXTINF:-1 tvg-id="Premium.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="DEPORTES",Gol Perú
 http://45.71.252.67:8000/play/a0o1
-#EXTINF:-1 tvg-id="latina.pe" tvg-logo="" group-title="DEPORTES",Latina
-http://bantel.iptvperu.tv:1935/prueba/latinamovil_t6.stream/chunks.m3u8?nimblesessionid=36899294
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="4804",Willax
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="2545",Latina
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima",Top Latino
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="4792",America
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="1956",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima",Exitosa
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="2542",TV Peru
+http://bantel.iptvperu.tv:1935/transcoderip/tvperumovil_t6.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="2549",ATV+
+http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="962",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="4749",La Tele
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="984",Viva
+http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima",USMP
+http://bantel.iptvperu.tv:1935/transcoderip/usmpmovil_t6.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="1426",Global
+http://45.71.252.67:8000/play/a0fk
+#EXTINF:0 tvg-logo="" group-title="Lima",Justicia
+http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima",Congreso
+http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="2544",IPe
+http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima",Nativa
+http://bantel.iptvperu.tv:1935/astralocal/nativa.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Lima" channelId="4794",ATVSur
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
