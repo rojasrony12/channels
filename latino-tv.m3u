@@ -93,15 +93,17 @@ http://190.119.178.46:8000/play/a00r
 http://190.119.178.46:8000/play/a02m
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="Deportes",ESPN 7
 http://190.119.178.46:8000/play/a02k
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN Premium
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN ᴾʳᵉᵐⁱᵘᵐ
 http://190.119.178.46:8000/play/a02l
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_1.webp" group-title="Deportes",Fox Sports 1 [AR]
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/518960
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135645
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_2.webp" group-title="Deportes",Fox Sports 2 [AR]
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135646
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://futbollibrehd.pe/img/logo-canal/fox_sports_3.webp" group-title="Deportes",Fox Sports 3 [AR]
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3041
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="Deportes",Fox Deportes [MX]
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135647
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/zQX6xJV/fox-sports-premium.png" group-title="Deportes",Fox Sports ᴾʳᵉᵐⁱᵘᵐ [AR]
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/125865
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/C004qxQ/fox-deportes.png" group-title="Deportes",Fox Deportes [MX]
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9wbmWPG/fox-sports.png" group-title="Deportes",Fox Sports 1 [MX]
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
