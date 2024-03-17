@@ -2,17 +2,17 @@
 #EXTINF:-1 group-title="LIMA",Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Latina Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",RPP 
 http://45.71.252.67:8000/play/a0g8
 #EXTINF:-1 group-title="LIMA",America Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Panamericana Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Exitosa Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",TV Perú
-https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Canal N 
 http://45.71.252.67:8000/play/a0fi
 #EXTINF:-1 group-title="LIMA",ATV 
@@ -56,7 +56,7 @@ https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 group-title="LIMA",BHTV 
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Conectad2 Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 #EXTINF:-1 group-title="LIMA",Intuitiva TV 
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 group-title="LIMA",LimaLive 
