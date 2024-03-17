@@ -116,7 +116,7 @@ http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="Deportes",Gol TV
 http://45.71.252.67:8000/play/a0nv
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/s9hfkLM/liga1.png" group-title="Deportes",Liga 1
-https://github.com/rojasrony12/channels/blob/main/sin-se%C3%B1al.mkv
+https://raw.githubusercontent.com/rojasrony12/channels/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="Deportes",Liga 1 Max
 http://177.53.155.236:8000/play/a0bt
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
