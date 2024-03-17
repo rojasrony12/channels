@@ -344,7 +344,7 @@ http://190.61.43.116:45000/play/a06u
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Novelas",Univisión
 http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="Religiosos",Bethel TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg4.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/320px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="Religiosos",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="Religiosos",JN19 
