@@ -136,15 +136,15 @@ https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/wJtctLb/tudn.png" group-title="Deportes",TUDN [VIX]
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="Deportes",TNT Sports
-http://177.234.247.66:8888/play/a00b
+http://190.61.55.186:1010/play/a01k
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/48fQhxr/tnt-sports2.png" group-title="Deportes",TNT Sports 2
 http://177.234.247.66:8888/play/a07e
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9vDp8N2/tyc-sports.png" group-title="Deportes",TyC Sports
-http://177.234.247.66:8888/play/a02v
+http://190.119.178.46:8000/play/a018
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="Deportes",Win
-http://177.234.247.66:8888/play/a00e
+http://190.61.55.186:1010/play/a01m
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/JmQ37GM/win-sports.png" group-title="Deportes",Win+
-http://177.234.247.66:8888/play/a02g
+http://190.61.55.186:1010/play/a00n
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Cine y Series",A&E
 http://138.59.177.34:8000/play/a032
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/HCdPs9q/amc.png" group-title="Cine y Series",AMC
