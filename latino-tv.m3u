@@ -138,7 +138,7 @@ https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="Deportes",TNT Sports
 http://190.61.55.186:1010/play/a01k
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/48fQhxr/tnt-sports2.png" group-title="Deportes",TNT Sports 2
-http://177.234.247.66:8888/play/a07e
+http://177.53.155.236:8000/play/a07h
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/9vDp8N2/tyc-sports.png" group-title="Deportes",TyC Sports
 http://190.119.178.46:8000/play/a018
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="Deportes",Win
@@ -266,7 +266,7 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="Infantil",Nickelodeon
 http://138.59.177.34:8000/play/a05j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="Infantil",Nick JR.
-http://177.234.247.66:8888/play/a06h
+http://177.53.155.236:8000/play/a050
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Infantil",TeenNick
 http://45.71.252.67:8000/play/a0fm
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jy4xxv3/tooncast.png" group-title="Infantil",Tooncast
@@ -282,7 +282,7 @@ http://190.2.214.171:8008/play/a00j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.imgur.com/6l7us9Y.png" group-title="General",Food Network
 http://190.90.154.73:8080/play/a08u
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/HT1GLJ5/movistar-plus.png" group-title="General",Movistar Plus
-http://177.234.247.66:8888/play/a06c
+http://177.53.155.236:8000/play/a09o
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/bKNxCmf/TruTV.png" group-title="General",TruTV
 http://190.60.40.37:12500/play/a00w
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Musica",Mi Música Hits
@@ -304,7 +304,7 @@ http://138.59.177.34:8000/play/a04c
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Musica",MTV
 http://45.71.252.67:8000/play/a0m1
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="Musica",MTV 00s
-http://177.234.247.66:8888/play/a00w
+http://190.61.55.186:1010/play/a021
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jTVxnjF/mtv80s.png" group-title="Musica",MTV 80s
 http://138.59.177.34:8000/play/a02j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.imgur.com/x1zYoCW.png" group-title="Musica",MTV Hits
@@ -328,9 +328,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="Novelas",Caracol
 http://45.71.252.67:8000/play/a0ju
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="Novelas",Las Estrellas
-http://177.234.247.66:8888/play/a037
+http://190.61.55.186:1010/play/a017
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Novelas",Lifetime
-http://177.234.247.66:8888/play/a07f
+http://177.53.155.236:8000/play/a02k
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="Novelas",Novelas
 http://45.71.252.67:8000/play/a0kn
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="Novelas",Pasiones
