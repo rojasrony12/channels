@@ -42,7 +42,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Perú",Matices TV
 http://bantel.iptvperu.tv:1935/bantel/matices.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="Perú",BHTV
-http://bantel.iptvperu.tv:1935/bantel/bhtv.stream/chunks.m3u8
+https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
 http://138.59.177.34:8000/play/a02z
 #EXTINF:-1 tvg-id="AtlasTVLatinAmerica.us" tvg-logo="https://i.ibb.co/GdyVS4c/atlas.png" group-title="Culturales",Atlas
@@ -116,7 +116,7 @@ http://45.71.252.67:8000/play/a0o1
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="Deportes",Gol TV
 http://45.71.252.67:8000/play/a0nv
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/s9hfkLM/liga1.png" group-title="Deportes",Liga 1
-https://raw.githubusercontent.com/rojasrony12/channels/main/sin-se%C3%B1al.mkv
+http://38.56.220.254:8000/play/a01l
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="Deportes",Liga 1 Max
 http://177.53.155.236:8000/play/a0bt
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
@@ -267,6 +267,8 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 http://138.59.177.34:8000/play/a05j
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="Infantil",Nick JR.
 http://177.53.155.236:8000/play/a050
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://plimplim.tv/wp-content/uploads/2024/01/logo.png" group-title="Infantil",Plim Plim
+http://38.56.220.254:8000/play/a00o
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Infantil",TeenNick
 http://45.71.252.67:8000/play/a0fm
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/jy4xxv3/tooncast.png" group-title="Infantil",Tooncast
