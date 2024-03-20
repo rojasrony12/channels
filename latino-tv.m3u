@@ -248,7 +248,7 @@ http://138.59.177.34:8000/play/a03y
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="Infantil",Baby TV
 http://190.60.40.37:12500/play/a01s
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/x5MWPgm/bitme.png" group-title="Infantil",bitMe
-https://raw.githubusercontent.com/rojasrony12/channels/main/sin-se%C3%B1al.mkv
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/fxCzVc9/cartoonito.png" group-title="Infantil",Cartoonito
 http://190.60.40.37:12500/play/a09n
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/rfswZ3H/cartoonnetwork.png" group-title="Infantil",Cartoon Network
