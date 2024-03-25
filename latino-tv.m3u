@@ -263,7 +263,7 @@ http://160.20.165.246:8000/play/a016
 http://45.71.252.67:8000/play/a0kq
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="Infantil",Disney JR.
 http://190.60.40.37:12500/play/a08r
-#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.svg" group-title="Infantil",DreamWorks
+#EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://i.ibb.co/mSwg1LK/Dream-Works.png" group-title="Infantil",DreamWorks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 #EXTINF:-1 tvg-id="latino-tv" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="Infantil",FMH Kids
 http://160.20.165.246:8000/play/a01f
